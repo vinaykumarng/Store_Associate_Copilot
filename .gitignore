@@ -5,3 +5,6 @@ data_generation_scripts/generate_data.py
 /faiss_store_index
 __pycache__/
 *.json
+.idea/
+.idea/Store_Associate_Copilot.iml
+.idea/misc.xml

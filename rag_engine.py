@@ -49,15 +49,21 @@ class StoreCopilotEngine:
         system_prompt = f"""
 You are the General Store Associate Copilot. Your role is to provide quick, structured, and factual answers regarding stock lookups, aisle placement, promotions/offers, substitutions, and SOP protocols.
 
-CRITICAL INSTRUCTIONS FOR UNIQUE ENGINE RULES:
-1. SMART CROSS-SELL ENGINE:
-   - If an associate inquires about any physical product or its category and it IS in stock (Stock > 0), you MUST explicitly suggest an associated complementary item to boost sales. You can use the 'Adjacent' items from the planogram context if available.
-   - Example style: "Yes, we have it in Aisle A. Suggest recommending the adjacent item [Item Name] to complete their purchase."
+CRITICAL LOGICAL RULE & PRECEDENCE ORDER (AVOID GIVING EMPTY LOCATIONS):
+- You MUST verify the "Stock" value of the target product in the context before answering.
+- If the item's stock count is explicitly 0 (e.g., "Stock: 0 available" or "qty_on_hand: 0"), then the item is PHYSICALLY OUT OF STOCK.
+- **CRITICAL BUG prevention:** When an item is out of stock (Stock: 0), you are FORBIDDEN from telling the associate to go to that item's planogram location (aisle/shelf), as sending them to an empty shelf is an error. Bypassing the shelf location entirely, you must follow the instructions below:
 
-2. ACTIONABLE ESCALATION FORMAT:
-   - If a product lookup explicitly states 'Stock: 0 available', check your context for any valid substitutes from the substitution document.
-   - If NO direct substitutions or alternatives are mentioned in the immediate file context, you MUST immediately output a 'one-click order form' summary for the customer.
-   - Exact template format to print:
+1. SMART CROSS-SELL ENGINE (Only for IN-STOCK items):
+   - If the product is IN-STOCK (Stock > 0), provide its exact location (Aisle, Section, Shelf). 
+   - You MUST also explicitly suggest an associated complementary item to boost sales (using 'Adjacent' items from the planogram context if available).
+   - Example style: "Yes, we have it in stock at [Location]. Suggest recommending the adjacent item [Item Name] to complete their purchase."
+
+2. ACTIONABLE ESCALATION FORMAT (Only for OUT-OF-STOCK items):
+   - If the target product has "Stock: 0 available", DO NOT give its aisle/shelf location.
+   - Instead, check your context for any valid substitutes (from the substitutions document).
+   - If there is a valid substitute mentioned in the context, check its stock status. If the substitute is in stock, recommend it and provide its location.
+   - If NO valid, in-stock substitutes or alternatives are mentioned in the context, you MUST immediately output the following 'one-click order form' escalation template:
      ---
      [📦 SYSTEM ESCALATION: ITEM OUT OF STOCK]
      "I can order this item directly from our regional warehouse for you. Would you like it shipped directly to your home address or setup for free in-store collection next Tuesday?"
@@ -89,3 +95,39 @@ Answer concisely as an operations-focused store assistant:
                 fallback_msg += "Ensure Ollama is running in your background (open terminal and type `ollama run llama3`)."
             fallback_msg += f"\n\n*Technical Details: {str(e)}*"
             return fallback_msg
+
+    def get_sop_guidance(self, sop_title, completed_steps, next_step, provider="Groq"):
+        """
+        Retrieves database context for a specific store checklist step and generates an
+        actionable, RAG-guided micro-instruction with safety, department, and process details.
+        """
+        if not self.db:
+            return "Error: Database is offline."
+
+        # Search database for specific SOP checklists & instructions
+        query = f"SOP {sop_title} details: {next_step}"
+        docs = self.db.similarity_search(query, k=4)
+        context = "\n".join([doc.page_content for doc in docs])
+
+        system_prompt = f"""
+You are the General Store Operations Copilot. An associate is actively completing a structured store checklist.
+
+SOP Title: {sop_title}
+Completed Steps: {', '.join(completed_steps) if completed_steps else 'None (Starting Checklist)'}
+Active Step to Perform Now: {next_step}
+
+RELEVANT DATABASE CONTEXT:
+{context}
+
+Based on the Active Step and the Store SOP rules in the context above, generate a highly practical, 2-to-3 sentence instruction detailing exactly HOW to perform this active step safely and efficiently on the store floor. 
+- Highlight any relevant safety rules, specific locations (e.g., back office, specific departments), or physical tools required (e.g., keypad, temp probes, cash drawer keys).
+- Keep it direct, energetic, and professional.
+"""
+        try:
+            if provider == "Groq":
+                response = self.groq_llm.invoke(system_prompt)
+            else:
+                response = self.ollama_llm.invoke(system_prompt)
+            return response.content
+        except Exception as e:
+            return f"Could not generate next instruction. Please perform step: '{next_step}' as documented in the manual."
