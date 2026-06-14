@@ -40,7 +40,7 @@ def convert_json_to_rag_formats():
     # 3. Convert Offers to CSV
     print("Converting offers.json -> offers.csv")
     try:
-        with open('../raw_data/offers.json', 'r', encoding='utf-8') as f:
+        with open('../offers.json', 'r', encoding='utf-8') as f:
             offers_data = json.load(f)
 
         with open('../data/offers.csv', 'w', newline='', encoding='utf-8') as f:
