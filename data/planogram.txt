@@ -1,0 +1,3194 @@
+=== STORE PLANOGRAM & PRODUCT PLACEMENT LAYOUT ===
+
+Product: Organic Fuji Apples 3lb Bag (SKU: SKU100100)
+Exact Location: Aisle A (Fresh Produce), Section A1, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Pineapple (whole) - Low-Sodium, Bell Peppers (3-pack mixed), Watermelon (whole)
+Merchandising Notes: Handle with care
+
+Product: Red Seedless Grapes 2lb (SKU: SKU100101)
+Exact Location: Aisle A (Fresh Produce), Section A2, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Mango (each) - Decaf, Strawberries 1lb, Iceberg Lettuce (head) - Value Size
+Merchandising Notes: Stack max 3 high
+
+Product: Navel Oranges 4lb Bag (SKU: SKU100102)
+Exact Location: Aisle A (Fresh Produce), Section A1, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Russet Potatoes 5lb, Romaine Hearts 3-pack - Value Size, Romaine Hearts 3-pack
+Merchandising Notes: Stack max 3 high
+
+Product: Bananas (bunch ~5) (SKU: SKU100103)
+Exact Location: Aisle A (Fresh Produce), Section A2, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Mango (each) - Decaf, Iceberg Lettuce (head), Strawberries 1lb
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Strawberries 1lb (SKU: SKU100104)
+Exact Location: Aisle A (Fresh Produce), Section A2, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Cucumber (each), Baby Carrots 1lb, Blueberries 6oz - Value Size
+Merchandising Notes: Stack max 3 high
+
+Product: Blueberries 6oz (SKU: SKU100105)
+Exact Location: Aisle A (Fresh Produce), Section A3, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Garlic Bulb (each) - Sugar-Free, Sweet Corn (each), Garlic Bulb (each) - Decaf
+Merchandising Notes: Stack max 3 high
+
+Product: Avocado (each) (SKU: SKU100106)
+Exact Location: Aisle A (Fresh Produce), Section A4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Sweet Corn (each) - Sugar-Free, Cherry Tomatoes 10oz - Decaf, Iceberg Lettuce (head) - Decaf
+Merchandising Notes: Handle with care
+
+Product: Mango (each) (SKU: SKU100107)
+Exact Location: Aisle A (Fresh Produce), Section A3, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Red Seedless Grapes 2lb - Value Size, Strawberries 1lb - Travel Size, Pineapple (whole) - XL Pack
+Merchandising Notes: Handle with care
+
+Product: Pineapple (whole) (SKU: SKU100108)
+Exact Location: Aisle A (Fresh Produce), Section A3, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Strawberries 1lb - Sugar-Free, Pineapple (whole) - XL Pack, Red Seedless Grapes 2lb - Value Size
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Watermelon (whole) (SKU: SKU100109)
+Exact Location: Aisle A (Fresh Produce), Section A1, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Organic Fuji Apples 3lb Bag, Navel Oranges 4lb Bag, Pineapple (whole) - Low-Sodium
+Merchandising Notes: Stack max 3 high
+
+Product: Roma Tomatoes 2lb (SKU: SKU100110)
+Exact Location: Aisle A (Fresh Produce), Section A4, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Sweet Corn (each) - Sugar-Free, Red Seedless Grapes 2lb - XL Pack, Iceberg Lettuce (head) - Decaf
+Merchandising Notes: Keep refrigerated
+
+Product: Broccoli Crown (SKU: SKU100111)
+Exact Location: Aisle A (Fresh Produce), Section A3, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Iceberg Lettuce (head) - Organic, Garlic Bulb (each) - Sugar-Free, Strawberries 1lb - Travel Size
+Merchandising Notes: Keep refrigerated
+
+Product: Spinach 5oz bag (SKU: SKU100112)
+Exact Location: Aisle A (Fresh Produce), Section A2, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Cherry Tomatoes 10oz - Organic, Baby Carrots 1lb, Red Seedless Grapes 2lb
+Merchandising Notes: Face forward, label visible
+
+Product: Russet Potatoes 5lb (SKU: SKU100113)
+Exact Location: Aisle A (Fresh Produce), Section A1, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Pineapple (whole) - Low-Sodium, Romaine Hearts 3-pack - Value Size, Spinach 5oz bag - Family Size
+Merchandising Notes: 
+
+Product: Yellow Onions 3lb (SKU: SKU100114)
+Exact Location: Aisle A (Fresh Produce), Section A3, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Mango (each), Iceberg Lettuce (head) - Low-Sodium, Garlic Bulb (each)
+Merchandising Notes: 
+
+Product: Garlic Bulb (each) (SKU: SKU100115)
+Exact Location: Aisle A (Fresh Produce), Section A3, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Pineapple (whole) - XL Pack, Russet Potatoes 5lb - Value Size, Yellow Onions 3lb
+Merchandising Notes: Stack max 3 high
+
+Product: Baby Carrots 1lb (SKU: SKU100116)
+Exact Location: Aisle A (Fresh Produce), Section A2, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Red Seedless Grapes 2lb, Mango (each) - Decaf, Cucumber (each)
+Merchandising Notes: Stack max 3 high
+
+Product: Celery Stalks (SKU: SKU100117)
+Exact Location: Aisle A (Fresh Produce), Section A2, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Mango (each) - Decaf, Blueberries 6oz - Value Size, Iceberg Lettuce (head) - Value Size
+Merchandising Notes: 
+
+Product: Bell Peppers (3-pack mixed) (SKU: SKU100118)
+Exact Location: Aisle A (Fresh Produce), Section A1, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Spinach 5oz bag - Family Size, Cherry Tomatoes 10oz - XL Pack, Organic Fuji Apples 3lb Bag
+Merchandising Notes: Keep refrigerated
+
+Product: Cucumber (each) (SKU: SKU100119)
+Exact Location: Aisle A (Fresh Produce), Section A2, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Baby Carrots 1lb, Zucchini (each) - Value Size, Spinach 5oz bag
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Zucchini (each) (SKU: SKU100120)
+Exact Location: Aisle A (Fresh Produce), Section A4, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Sweet Corn (each) - Sugar-Free, Pineapple (whole) - Sugar-Free, Roma Tomatoes 2lb
+Merchandising Notes: 
+
+Product: Sweet Corn (each) (SKU: SKU100121)
+Exact Location: Aisle A (Fresh Produce), Section A3, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Mango (each), Pineapple (whole), Red Seedless Grapes 2lb - Value Size
+Merchandising Notes: Keep refrigerated
+
+Product: Iceberg Lettuce (head) (SKU: SKU100122)
+Exact Location: Aisle A (Fresh Produce), Section A2, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Mango (each) - Decaf, Iceberg Lettuce (head) - Value Size, Red Seedless Grapes 2lb
+Merchandising Notes: Face forward, label visible
+
+Product: Romaine Hearts 3-pack (SKU: SKU100123)
+Exact Location: Aisle A (Fresh Produce), Section A1, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Navel Oranges 4lb Bag, Russet Potatoes 5lb, Pineapple (whole) - Low-Sodium
+Merchandising Notes: Handle with care
+
+Product: Cherry Tomatoes 10oz (SKU: SKU100124)
+Exact Location: Aisle A (Fresh Produce), Section A4, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Baby Carrots 1lb - Family Size, Iceberg Lettuce (head) - Decaf, Baby Carrots 1lb - Sugar-Free
+Merchandising Notes: Face forward, label visible
+
+Product: Whole Milk 1 Gallon (SKU: SKU100125)
+Exact Location: Aisle B (Dairy & Eggs), Section B4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Sour Cream 16oz, Strawberry Yogurt 6-pack - Sugar-Free, Sour Cream 16oz - Travel Size
+Merchandising Notes: Face forward, label visible
+
+Product: 2% Reduced Fat Milk 1 Gallon (SKU: SKU100126)
+Exact Location: Aisle B (Dairy & Eggs), Section B1, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Oat Milk Original 64oz - Organic, Almond Milk Unsweetened 64oz - Decaf, Salted Butter 4 sticks
+Merchandising Notes: Face forward, label visible
+
+Product: Oat Milk Original 64oz (SKU: SKU100127)
+Exact Location: Aisle B (Dairy & Eggs), Section B3, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Shredded Mozzarella 2lb - Decaf, Large Eggs 12-count, Almond Milk Unsweetened 64oz
+Merchandising Notes: Face forward, label visible
+
+Product: Almond Milk Unsweetened 64oz (SKU: SKU100128)
+Exact Location: Aisle B (Dairy & Eggs), Section B3, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Heavy Whipping Cream 1pt, Greek Yogurt Plain 32oz, Oat Milk Original 64oz
+Merchandising Notes: Stack max 3 high
+
+Product: Large Eggs 12-count (SKU: SKU100129)
+Exact Location: Aisle B (Dairy & Eggs), Section B3, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Oat Milk Original 64oz, Shredded Mozzarella 2lb - Decaf, Strawberry Yogurt 6-pack - Decaf
+Merchandising Notes: Handle with care
+
+Product: Cage-Free Eggs 18-count (SKU: SKU100130)
+Exact Location: Aisle B (Dairy & Eggs), Section B2, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Cream Cheese 8oz, 2% Reduced Fat Milk 1 Gallon - Value Size, Sour Cream 16oz - Value Size
+Merchandising Notes: 
+
+Product: Salted Butter 4 sticks (SKU: SKU100131)
+Exact Location: Aisle B (Dairy & Eggs), Section B1, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: 2% Reduced Fat Milk 1 Gallon, Greek Yogurt Plain 32oz - Value Size, Strawberry Yogurt 6-pack
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Greek Yogurt Plain 32oz (SKU: SKU100132)
+Exact Location: Aisle B (Dairy & Eggs), Section B3, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Large Eggs 12-count, Heavy Whipping Cream 1pt, Strawberry Yogurt 6-pack - Decaf
+Merchandising Notes: Face forward, label visible
+
+Product: Strawberry Yogurt 6-pack (SKU: SKU100133)
+Exact Location: Aisle B (Dairy & Eggs), Section B1, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Almond Milk Unsweetened 64oz - Decaf, Oat Milk Original 64oz - Organic, Greek Yogurt Plain 32oz - Value Size
+Merchandising Notes: Face forward, label visible
+
+Product: Shredded Mozzarella 2lb (SKU: SKU100134)
+Exact Location: Aisle B (Dairy & Eggs), Section B1, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Strawberry Yogurt 6-pack, 2% Reduced Fat Milk 1 Gallon, Almond Milk Unsweetened 64oz - Decaf
+Merchandising Notes: 
+
+Product: Sliced American Cheese 16oz (SKU: SKU100135)
+Exact Location: Aisle B (Dairy & Eggs), Section B2, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Cage-Free Eggs 18-count, Sliced American Cheese 16oz - XL Pack, 2% Reduced Fat Milk 1 Gallon - Value Size
+Merchandising Notes: Stack max 3 high
+
+Product: Cream Cheese 8oz (SKU: SKU100136)
+Exact Location: Aisle B (Dairy & Eggs), Section B2, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Sliced American Cheese 16oz - XL Pack, Cage-Free Eggs 18-count, 2% Reduced Fat Milk 1 Gallon - Value Size
+Merchandising Notes: Keep refrigerated
+
+Product: Sour Cream 16oz (SKU: SKU100137)
+Exact Location: Aisle B (Dairy & Eggs), Section B4, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Shredded Mozzarella 2lb - XL Pack, Whole Milk 1 Gallon, Sour Cream 16oz - Travel Size
+Merchandising Notes: Face forward, label visible
+
+Product: Heavy Whipping Cream 1pt (SKU: SKU100138)
+Exact Location: Aisle B (Dairy & Eggs), Section B3, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Oat Milk Original 64oz, Large Eggs 12-count, Shredded Mozzarella 2lb - Decaf
+Merchandising Notes: Face forward, label visible
+
+Product: Boneless Chicken Breast 2lb (SKU: SKU100139)
+Exact Location: Aisle C (Meat & Seafood), Section C2, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: 85/15 Ground Beef 1lb - Low-Sodium, 85/15 Ground Beef 1lb - Sugar-Free, Chicken Thighs Bone-In 3lb - Decaf
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Chicken Thighs Bone-In 3lb (SKU: SKU100140)
+Exact Location: Aisle C (Meat & Seafood), Section C1, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Bacon 16oz, Ground Turkey 93/7 1lb - Family Size, Beef Sirloin Steak 1lb - Decaf
+Merchandising Notes: 
+
+Product: Ground Turkey 93/7 1lb (SKU: SKU100141)
+Exact Location: Aisle C (Meat & Seafood), Section C2, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Chicken Thighs Bone-In 3lb - Decaf, 85/15 Ground Beef 1lb - Sugar-Free, 85/15 Ground Beef 1lb - Low-Sodium
+Merchandising Notes: Handle with care
+
+Product: 85/15 Ground Beef 1lb (SKU: SKU100142)
+Exact Location: Aisle C (Meat & Seafood), Section C2, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Boneless Chicken Breast 2lb, Chicken Thighs Bone-In 3lb - Decaf, 85/15 Ground Beef 1lb - Sugar-Free
+Merchandising Notes: Handle with care
+
+Product: Beef Sirloin Steak 1lb (SKU: SKU100143)
+Exact Location: Aisle C (Meat & Seafood), Section C4, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: 85/15 Ground Beef 1lb - Decaf, Tilapia Fillets 1lb, Pork Tenderloin 1.5lb
+Merchandising Notes: Stack max 3 high
+
+Product: Pork Tenderloin 1.5lb (SKU: SKU100144)
+Exact Location: Aisle C (Meat & Seafood), Section C4, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Ground Turkey 93/7 1lb - XL Pack, Shrimp 31-40ct 1lb, 85/15 Ground Beef 1lb - Decaf
+Merchandising Notes: Stack max 3 high
+
+Product: Bacon 16oz (SKU: SKU100145)
+Exact Location: Aisle C (Meat & Seafood), Section C1, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Beef Sirloin Steak 1lb - Decaf, Ground Turkey 93/7 1lb - Family Size, Boneless Chicken Breast 2lb - Travel Size
+Merchandising Notes: Keep refrigerated
+
+Product: Salmon Fillet 1lb (SKU: SKU100146)
+Exact Location: Aisle C (Meat & Seafood), Section C3, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Pork Tenderloin 1.5lb - Family Size, Beef Sirloin Steak 1lb - Organic, Boneless Chicken Breast 2lb - Travel Size
+Merchandising Notes: Handle with care
+
+Product: Tilapia Fillets 1lb (SKU: SKU100147)
+Exact Location: Aisle C (Meat & Seafood), Section C4, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: 85/15 Ground Beef 1lb - Decaf, Pork Tenderloin 1.5lb, Beef Sirloin Steak 1lb
+Merchandising Notes: Face forward, label visible
+
+Product: Shrimp 31-40ct 1lb (SKU: SKU100148)
+Exact Location: Aisle C (Meat & Seafood), Section C4, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Beef Sirloin Steak 1lb, 85/15 Ground Beef 1lb - Decaf, Tilapia Fillets 1lb
+Merchandising Notes: 
+
+Product: White Sandwich Bread 20oz (SKU: SKU100149)
+Exact Location: Aisle D (Bakery & Bread), Section D1, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Corn Tortillas 30-pack - Sugar-Free, Corn Tortillas 30-pack - Organic, Blueberry Muffins 4-pack
+Merchandising Notes: Handle with care
+
+Product: Whole Wheat Bread 20oz (SKU: SKU100150)
+Exact Location: Aisle D (Bakery & Bread), Section D2, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Flour Tortillas 10-pack, Croissants 4-pack, Blueberry Muffins 4-pack - Organic
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Sourdough Loaf (SKU: SKU100151)
+Exact Location: Aisle D (Bakery & Bread), Section D2, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Flour Tortillas 10-pack, Croissants 4-pack, Corn Tortillas 30-pack
+Merchandising Notes: Face forward, label visible
+
+Product: Bagels 6-pack (SKU: SKU100152)
+Exact Location: Aisle D (Bakery & Bread), Section D4, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Croissants 4-pack - Travel Size, Chocolate Cake Slice, English Muffins 6-pack
+Merchandising Notes: Keep refrigerated
+
+Product: English Muffins 6-pack (SKU: SKU100153)
+Exact Location: Aisle D (Bakery & Bread), Section D4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Chocolate Cake Slice, Croissants 4-pack - Travel Size, Chocolate Cake Slice - Sugar-Free
+Merchandising Notes: Stack max 3 high
+
+Product: Croissants 4-pack (SKU: SKU100154)
+Exact Location: Aisle D (Bakery & Bread), Section D2, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Flour Tortillas 10-pack, Sourdough Loaf, Whole Wheat Bread 20oz
+Merchandising Notes: Stack max 3 high
+
+Product: Blueberry Muffins 4-pack (SKU: SKU100155)
+Exact Location: Aisle D (Bakery & Bread), Section D1, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Corn Tortillas 30-pack - XL Pack, Corn Tortillas 30-pack - Organic, White Sandwich Bread 20oz
+Merchandising Notes: 
+
+Product: Chocolate Cake Slice (SKU: SKU100156)
+Exact Location: Aisle D (Bakery & Bread), Section D4, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Croissants 4-pack - Travel Size, Whole Wheat Bread 20oz - Low-Sodium, Chocolate Cake Slice - Sugar-Free
+Merchandising Notes: Handle with care
+
+Product: Flour Tortillas 10-pack (SKU: SKU100157)
+Exact Location: Aisle D (Bakery & Bread), Section D2, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Blueberry Muffins 4-pack - Organic, Whole Wheat Bread 20oz, Sourdough Loaf
+Merchandising Notes: Handle with care
+
+Product: Corn Tortillas 30-pack (SKU: SKU100158)
+Exact Location: Aisle D (Bakery & Bread), Section D2, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Whole Wheat Bread 20oz, Croissants 4-pack, Blueberry Muffins 4-pack - Organic
+Merchandising Notes: Keep refrigerated
+
+Product: Frozen Broccoli 12oz (SKU: SKU100159)
+Exact Location: Aisle E (Frozen Foods), Section E1, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Chicken Nuggets 32oz, Chicken Nuggets 32oz - Travel Size, Edamame Shelled 16oz - Sugar-Free
+Merchandising Notes: Handle with care
+
+Product: Frozen Mixed Vegetables 16oz (SKU: SKU100160)
+Exact Location: Aisle E (Frozen Foods), Section E3, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Frozen Burritos 8-pack, Cheese Pizza 12in, Frozen Stir Fry Vegetables 16oz - Sugar-Free
+Merchandising Notes: Stack max 3 high
+
+Product: Frozen Corn 16oz (SKU: SKU100161)
+Exact Location: Aisle E (Frozen Foods), Section E3, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Frozen Stir Fry Vegetables 16oz - Sugar-Free, Frozen Waffles 10-count, Frozen Peas 16oz
+Merchandising Notes: Keep refrigerated
+
+Product: Frozen Peas 16oz (SKU: SKU100162)
+Exact Location: Aisle E (Frozen Foods), Section E3, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Ice Cream Chocolate 1.5qt, Frozen Waffles 10-count - Low-Sodium, Frozen Corn 16oz
+Merchandising Notes: Face forward, label visible
+
+Product: Pepperoni Pizza 12in (SKU: SKU100163)
+Exact Location: Aisle E (Frozen Foods), Section E1, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Chicken Nuggets 32oz, Ice Cream Vanilla 1.5qt, Edamame Shelled 16oz - Sugar-Free
+Merchandising Notes: Face forward, label visible
+
+Product: Cheese Pizza 12in (SKU: SKU100164)
+Exact Location: Aisle E (Frozen Foods), Section E3, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Frozen French Fries 32oz - Family Size, Frozen Burritos 8-pack, Frozen Waffles 10-count - Low-Sodium
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Chicken Nuggets 32oz (SKU: SKU100165)
+Exact Location: Aisle E (Frozen Foods), Section E1, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Ice Cream Vanilla 1.5qt, Pepperoni Pizza 12in, Edamame Shelled 16oz - Sugar-Free
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Fish Sticks 24oz (SKU: SKU100166)
+Exact Location: Aisle E (Frozen Foods), Section E4, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Frozen Burritos 8-pack - Organic, Frozen French Fries 32oz - Sugar-Free, Frozen Stir Fry Vegetables 16oz - Family Size
+Merchandising Notes: Stack max 3 high
+
+Product: Frozen Waffles 10-count (SKU: SKU100167)
+Exact Location: Aisle E (Frozen Foods), Section E3, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Fish Sticks 24oz - Value Size, Frozen Peas 16oz, Frozen Mixed Vegetables 16oz
+Merchandising Notes: Stack max 3 high
+
+Product: Ice Cream Vanilla 1.5qt (SKU: SKU100168)
+Exact Location: Aisle E (Frozen Foods), Section E1, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Chicken Nuggets 32oz, Pepperoni Pizza 12in, Frozen Broccoli 12oz
+Merchandising Notes: Keep refrigerated
+
+Product: Ice Cream Chocolate 1.5qt (SKU: SKU100169)
+Exact Location: Aisle E (Frozen Foods), Section E3, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Ice Cream Vanilla 1.5qt - Decaf, Frozen Stir Fry Vegetables 16oz - Organic, Frozen Stir Fry Vegetables 16oz - Sugar-Free
+Merchandising Notes: Stack max 3 high
+
+Product: Frozen Burritos 8-pack (SKU: SKU100170)
+Exact Location: Aisle E (Frozen Foods), Section E3, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Fish Sticks 24oz - Value Size, Frozen Waffles 10-count, Ice Cream Chocolate 1.5qt
+Merchandising Notes: Keep refrigerated
+
+Product: Frozen Stir Fry Vegetables 16oz (SKU: SKU100171)
+Exact Location: Aisle E (Frozen Foods), Section E4, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Frozen French Fries 32oz, Frozen Stir Fry Vegetables 16oz - Family Size, Frozen French Fries 32oz - Sugar-Free
+Merchandising Notes: Stack max 3 high
+
+Product: Edamame Shelled 16oz (SKU: SKU100172)
+Exact Location: Aisle E (Frozen Foods), Section E2, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Frozen Peas 16oz - Low-Sodium, Ice Cream Chocolate 1.5qt - Low-Sodium, Frozen Burritos 8-pack - XL Pack
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Frozen French Fries 32oz (SKU: SKU100173)
+Exact Location: Aisle E (Frozen Foods), Section E4, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Frozen French Fries 32oz - Sugar-Free, Frozen Stir Fry Vegetables 16oz - Sugar-Free, Frozen Peas 16oz - Travel Size
+Merchandising Notes: 
+
+Product: Purified Water 24-pack 16.9oz (SKU: SKU100174)
+Exact Location: Aisle F (Beverages), Section F2, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Sports Drink Lemon 8-pack 20oz - Decaf, Diet Cola 12-pack 12oz, Lemon-Lime Soda 12-pack 12oz
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Sparkling Water 12-pack (SKU: SKU100175)
+Exact Location: Aisle F (Beverages), Section F2, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Apple Juice 64oz - Family Size, Diet Cola 12-pack 12oz, Cranberry Juice Cocktail 64oz
+Merchandising Notes: 
+
+Product: Cola Soda 12-pack 12oz (SKU: SKU100176)
+Exact Location: Aisle F (Beverages), Section F3, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Sports Drink Lemon 8-pack 20oz, Green Tea Bags 40-count - Value Size, Energy Drink 4-pack 16oz
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Diet Cola 12-pack 12oz (SKU: SKU100177)
+Exact Location: Aisle F (Beverages), Section F2, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Cranberry Juice Cocktail 64oz, Sparkling Water 12-pack, Sports Drink Lemon 8-pack 20oz - Decaf
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Lemon-Lime Soda 12-pack 12oz (SKU: SKU100178)
+Exact Location: Aisle F (Beverages), Section F2, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Purified Water 24-pack 16.9oz, Sports Drink Lemon 8-pack 20oz - Decaf, Apple Juice 64oz - Family Size
+Merchandising Notes: Handle with care
+
+Product: Orange Juice 52oz (SKU: SKU100179)
+Exact Location: Aisle F (Beverages), Section F2, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Apple Juice 64oz - Family Size, Sparkling Water 12-pack - Organic, Lemon-Lime Soda 12-pack 12oz
+Merchandising Notes: Stack max 3 high
+
+Product: Apple Juice 64oz (SKU: SKU100180)
+Exact Location: Aisle F (Beverages), Section F3, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Cola Soda 12-pack 12oz, Green Tea Bags 40-count - Value Size, Coconut Water 1lt
+Merchandising Notes: Face forward, label visible
+
+Product: Cranberry Juice Cocktail 64oz (SKU: SKU100181)
+Exact Location: Aisle F (Beverages), Section F2, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Sports Drink Lemon 8-pack 20oz - Decaf, Apple Juice 64oz - Family Size, Lemon-Lime Soda 12-pack 12oz - Organic
+Merchandising Notes: Face forward, label visible
+
+Product: Whole Bean Coffee 12oz (SKU: SKU100182)
+Exact Location: Aisle F (Beverages), Section F4, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: None
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Ground Coffee Medium Roast 30oz (SKU: SKU100183)
+Exact Location: Aisle F (Beverages), Section F3, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Sports Drink Lemon 8-pack 20oz, Green Tea Bags 40-count - Family Size, Ground Coffee Medium Roast 30oz - Low-Sodium
+Merchandising Notes: Face forward, label visible
+
+Product: Black Tea Bags 100-count (SKU: SKU100184)
+Exact Location: Aisle F (Beverages), Section F2, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Lemon-Lime Soda 12-pack 12oz, Orange Juice 52oz, Diet Cola 12-pack 12oz
+Merchandising Notes: Face forward, label visible
+
+Product: Green Tea Bags 40-count (SKU: SKU100185)
+Exact Location: Aisle F (Beverages), Section F1, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Apple Juice 64oz - Sugar-Free, Green Tea Bags 40-count - Low-Sodium
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Sports Drink Lemon 8-pack 20oz (SKU: SKU100186)
+Exact Location: Aisle F (Beverages), Section F3, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Ground Coffee Medium Roast 30oz - Low-Sodium, Green Tea Bags 40-count - Family Size, Cola Soda 12-pack 12oz
+Merchandising Notes: Stack max 3 high
+
+Product: Energy Drink 4-pack 16oz (SKU: SKU100187)
+Exact Location: Aisle F (Beverages), Section F3, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Sports Drink Lemon 8-pack 20oz, Ground Coffee Medium Roast 30oz, Green Tea Bags 40-count - Value Size
+Merchandising Notes: 
+
+Product: Coconut Water 1lt (SKU: SKU100188)
+Exact Location: Aisle F (Beverages), Section F3, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Coconut Water 1lt - Family Size, Ground Coffee Medium Roast 30oz, Green Tea Bags 40-count - Value Size
+Merchandising Notes: Keep refrigerated
+
+Product: Potato Chips Original 8oz (SKU: SKU100189)
+Exact Location: Aisle G (Snacks & Confectionery), Section G2, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Potato Chips Original 8oz - Value Size, Tortilla Chips 13oz, Potato Chips Original 8oz - Decaf
+Merchandising Notes: Face forward, label visible
+
+Product: Tortilla Chips 13oz (SKU: SKU100190)
+Exact Location: Aisle G (Snacks & Confectionery), Section G2, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Potato Chips Original 8oz - Decaf, Potato Chips Original 8oz, Potato Chips Original 8oz - Value Size
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Pretzels Twists 16oz (SKU: SKU100191)
+Exact Location: Aisle G (Snacks & Confectionery), Section G3, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Gummy Bears 5oz - Low-Sodium, Crackers Original 13.7oz, Granola Bars Variety 18-count
+Merchandising Notes: Face forward, label visible
+
+Product: Popcorn Butter 3-pack (SKU: SKU100192)
+Exact Location: Aisle G (Snacks & Confectionery), Section G3, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Graham Crackers 14.4oz, Milk Chocolate Bar 3.5oz - Travel Size, Crackers Original 13.7oz
+Merchandising Notes: Face forward, label visible
+
+Product: Mixed Nuts 16oz (SKU: SKU100193)
+Exact Location: Aisle G (Snacks & Confectionery), Section G4, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Trail Mix 30oz, Chocolate Chip Cookies 13oz, Oreo Sandwich Cookies 14.3oz
+Merchandising Notes: 
+
+Product: Trail Mix 30oz (SKU: SKU100194)
+Exact Location: Aisle G (Snacks & Confectionery), Section G4, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Oreo Sandwich Cookies 14.3oz, Sour Gummy Worms 5oz, Chocolate Chip Cookies 13oz
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Granola Bars Variety 18-count (SKU: SKU100195)
+Exact Location: Aisle G (Snacks & Confectionery), Section G3, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Gummy Bears 5oz - Low-Sodium, Pretzels Twists 16oz, Oreo Sandwich Cookies 14.3oz - Organic
+Merchandising Notes: Keep refrigerated
+
+Product: Rice Cakes 4.5oz (SKU: SKU100196)
+Exact Location: Aisle G (Snacks & Confectionery), Section G3, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Milk Chocolate Bar 3.5oz - Travel Size, Popcorn Butter 3-pack, Graham Crackers 14.4oz
+Merchandising Notes: Keep refrigerated
+
+Product: Chocolate Chip Cookies 13oz (SKU: SKU100197)
+Exact Location: Aisle G (Snacks & Confectionery), Section G4, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Oreo Sandwich Cookies 14.3oz, Trail Mix 30oz, Sour Gummy Worms 5oz
+Merchandising Notes: Stack max 3 high
+
+Product: Oreo Sandwich Cookies 14.3oz (SKU: SKU100198)
+Exact Location: Aisle G (Snacks & Confectionery), Section G4, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Sour Gummy Worms 5oz, Chocolate Chip Cookies 13oz, Tortilla Chips 13oz - Family Size
+Merchandising Notes: 
+
+Product: Crackers Original 13.7oz (SKU: SKU100199)
+Exact Location: Aisle G (Snacks & Confectionery), Section G3, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Popcorn Butter 3-pack, Oreo Sandwich Cookies 14.3oz - Organic, Graham Crackers 14.4oz
+Merchandising Notes: 
+
+Product: Graham Crackers 14.4oz (SKU: SKU100200)
+Exact Location: Aisle G (Snacks & Confectionery), Section G3, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Sour Gummy Worms 5oz - XL Pack, Rice Cakes 4.5oz, Oreo Sandwich Cookies 14.3oz - Value Size
+Merchandising Notes: Stack max 3 high
+
+Product: Gummy Bears 5oz (SKU: SKU100201)
+Exact Location: Aisle G (Snacks & Confectionery), Section G1, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Mixed Nuts 16oz - Travel Size, Milk Chocolate Bar 3.5oz - Sugar-Free, Milk Chocolate Bar 3.5oz
+Merchandising Notes: Stack max 3 high
+
+Product: Milk Chocolate Bar 3.5oz (SKU: SKU100202)
+Exact Location: Aisle G (Snacks & Confectionery), Section G1, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Mixed Nuts 16oz - Travel Size, Gummy Bears 5oz, Milk Chocolate Bar 3.5oz - Sugar-Free
+Merchandising Notes: Handle with care
+
+Product: Sour Gummy Worms 5oz (SKU: SKU100203)
+Exact Location: Aisle G (Snacks & Confectionery), Section G4, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Oreo Sandwich Cookies 14.3oz, Trail Mix 30oz, Mixed Nuts 16oz
+Merchandising Notes: 
+
+Product: Corn Flakes 18oz (SKU: SKU100204)
+Exact Location: Aisle H (Breakfast & Cereal), Section H1, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Oat Circles 12oz, Granola Oats & Honey 16oz - Travel Size, Maple Syrup 24oz
+Merchandising Notes: Stack max 3 high
+
+Product: Frosted Flakes 19.2oz (SKU: SKU100205)
+Exact Location: Aisle H (Breakfast & Cereal), Section H2, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Peanut Butter Creamy 28oz, Corn Flakes 18oz - Decaf, Oat Circles 12oz - Decaf
+Merchandising Notes: 
+
+Product: Oat Circles 12oz (SKU: SKU100206)
+Exact Location: Aisle H (Breakfast & Cereal), Section H1, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Maple Syrup 24oz, Frosted Flakes 19.2oz - Family Size, Corn Flakes 18oz
+Merchandising Notes: 
+
+Product: Raisin Bran 20oz (SKU: SKU100207)
+Exact Location: Aisle H (Breakfast & Cereal), Section H3, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Strawberry Jam 18oz - XL Pack, Frosted Flakes 19.2oz - Organic, Strawberry Jam 18oz
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Granola Oats & Honey 16oz (SKU: SKU100208)
+Exact Location: Aisle H (Breakfast & Cereal), Section H4, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Instant Oatmeal Variety 10-pack, Instant Oatmeal Variety 10-pack - Decaf, Pancake Mix 32oz - Family Size
+Merchandising Notes: Stack max 3 high
+
+Product: Quick Oats 42oz (SKU: SKU100209)
+Exact Location: Aisle H (Breakfast & Cereal), Section H3, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Frosted Flakes 19.2oz - Organic, Pancake Mix 32oz, Oat Circles 12oz - Family Size
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Instant Oatmeal Variety 10-pack (SKU: SKU100210)
+Exact Location: Aisle H (Breakfast & Cereal), Section H4, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Instant Oatmeal Variety 10-pack - Decaf, Pancake Mix 32oz - Family Size, Raisin Bran 20oz - Family Size
+Merchandising Notes: 
+
+Product: Pancake Mix 32oz (SKU: SKU100211)
+Exact Location: Aisle H (Breakfast & Cereal), Section H3, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Raisin Bran 20oz, Quick Oats 42oz, Frosted Flakes 19.2oz - Organic
+Merchandising Notes: Handle with care
+
+Product: Maple Syrup 24oz (SKU: SKU100212)
+Exact Location: Aisle H (Breakfast & Cereal), Section H1, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Oat Circles 12oz, Granola Oats & Honey 16oz - Travel Size, Corn Flakes 18oz
+Merchandising Notes: Keep refrigerated
+
+Product: Peanut Butter Creamy 28oz (SKU: SKU100213)
+Exact Location: Aisle H (Breakfast & Cereal), Section H2, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Frosted Flakes 19.2oz, Corn Flakes 18oz - Decaf, Oat Circles 12oz - Decaf
+Merchandising Notes: Stack max 3 high
+
+Product: Strawberry Jam 18oz (SKU: SKU100214)
+Exact Location: Aisle H (Breakfast & Cereal), Section H3, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Raisin Bran 20oz, Quick Oats 42oz, Pancake Mix 32oz
+Merchandising Notes: Keep refrigerated
+
+Product: Chicken Noodle Soup 10.75oz (SKU: SKU100215)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I4, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Canned Black Beans 15oz, Pasta Spaghetti 16oz, Canned Salmon 14.75oz
+Merchandising Notes: 
+
+Product: Tomato Soup 10.75oz (SKU: SKU100216)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I4, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Chicken Noodle Soup 10.75oz, Pasta Penne 16oz, Canned Tuna in Water 5oz - Organic
+Merchandising Notes: 
+
+Product: Diced Tomatoes 14.5oz (SKU: SKU100217)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I4, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Pasta Spaghetti 16oz, Chicken Noodle Soup 10.75oz, Tomato Soup 10.75oz
+Merchandising Notes: Handle with care
+
+Product: Tomato Sauce 15oz (SKU: SKU100218)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I2, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Canned Black Beans 15oz - Low-Sodium, Pasta Penne 16oz - Low-Sodium, Canned Black Beans 15oz - Organic
+Merchandising Notes: Keep refrigerated
+
+Product: Canned Black Beans 15oz (SKU: SKU100219)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I4, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Vegetable Broth 32oz - Travel Size, Tomato Soup 10.75oz, Canned Tuna in Water 5oz - Organic
+Merchandising Notes: Stack max 3 high
+
+Product: Canned Chickpeas 15oz (SKU: SKU100220)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I2, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Chicken Broth 32oz - Organic, Pasta Penne 16oz - Low-Sodium, Chicken Broth 32oz
+Merchandising Notes: Keep refrigerated
+
+Product: Canned Tuna in Water 5oz (SKU: SKU100221)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I1, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Vegetable Broth 32oz, White Rice Long Grain 5lb - Family Size, Mac & Cheese 7.25oz
+Merchandising Notes: Face forward, label visible
+
+Product: Canned Salmon 14.75oz (SKU: SKU100222)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I4, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Pasta Penne 16oz, Canned Black Beans 15oz, Pasta Spaghetti 16oz
+Merchandising Notes: Face forward, label visible
+
+Product: White Rice Long Grain 5lb (SKU: SKU100223)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I1, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Mac & Cheese 7.25oz, Chicken Noodle Soup 10.75oz - Travel Size, Chicken Noodle Soup 10.75oz - Sugar-Free
+Merchandising Notes: Handle with care
+
+Product: Pasta Spaghetti 16oz (SKU: SKU100224)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Canned Tuna in Water 5oz - Organic, Tomato Soup 10.75oz, Chicken Noodle Soup 10.75oz
+Merchandising Notes: Stack max 3 high
+
+Product: Pasta Penne 16oz (SKU: SKU100225)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Chicken Noodle Soup 10.75oz, Tomato Soup 10.75oz, Canned Salmon 14.75oz
+Merchandising Notes: Handle with care
+
+Product: Mac & Cheese 7.25oz (SKU: SKU100226)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I1, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Pasta Penne 16oz - Value Size, Diced Tomatoes 14.5oz - Organic, Chicken Noodle Soup 10.75oz - Sugar-Free
+Merchandising Notes: Keep refrigerated
+
+Product: Vegetable Broth 32oz (SKU: SKU100227)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I1, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Mac & Cheese 7.25oz, White Rice Long Grain 5lb, Chicken Noodle Soup 10.75oz - Sugar-Free
+Merchandising Notes: Face forward, label visible
+
+Product: Chicken Broth 32oz (SKU: SKU100228)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I2, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Canned Black Beans 15oz - Low-Sodium, Pasta Penne 16oz - Low-Sodium, Chicken Broth 32oz - Organic
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Corn 15.25oz (SKU: SKU100229)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I2, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Tomato Sauce 15oz, Chicken Broth 32oz - Organic, Pasta Penne 16oz - Low-Sodium
+Merchandising Notes: Stack max 3 high
+
+Product: Ketchup 32oz (SKU: SKU100230)
+Exact Location: Aisle J (Condiments & Sauces), Section J2, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Vegetable Oil 48oz - XL Pack, Mayonnaise 30oz, Hot Sauce 12oz
+Merchandising Notes: Face forward, label visible
+
+Product: Yellow Mustard 20oz (SKU: SKU100231)
+Exact Location: Aisle J (Condiments & Sauces), Section J3, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Vegetable Oil 48oz, Olive Oil Extra Virgin 16.9oz, BBQ Sauce Original 18oz
+Merchandising Notes: Keep refrigerated
+
+Product: Mayonnaise 30oz (SKU: SKU100232)
+Exact Location: Aisle J (Condiments & Sauces), Section J2, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Vegetable Oil 48oz - XL Pack, Ketchup 32oz, Hot Sauce 12oz
+Merchandising Notes: Keep refrigerated
+
+Product: BBQ Sauce Original 18oz (SKU: SKU100233)
+Exact Location: Aisle J (Condiments & Sauces), Section J3, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Vegetable Oil 48oz, Salsa Medium 24oz, Yellow Mustard 20oz
+Merchandising Notes: Face forward, label visible
+
+Product: Hot Sauce 12oz (SKU: SKU100234)
+Exact Location: Aisle J (Condiments & Sauces), Section J2, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Vegetable Oil 48oz - XL Pack, Mayonnaise 30oz, Ketchup 32oz
+Merchandising Notes: Keep refrigerated
+
+Product: Soy Sauce 10oz (SKU: SKU100235)
+Exact Location: Aisle J (Condiments & Sauces), Section J1, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: White Vinegar 32oz
+Merchandising Notes: Handle with care
+
+Product: Salsa Medium 24oz (SKU: SKU100236)
+Exact Location: Aisle J (Condiments & Sauces), Section J3, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Vegetable Oil 48oz, BBQ Sauce Original 18oz, Yellow Mustard 20oz
+Merchandising Notes: 
+
+Product: Ranch Dressing 16oz (SKU: SKU100237)
+Exact Location: Aisle J (Condiments & Sauces), Section J4, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Italian Dressing 16oz - Value Size, Apple Cider Vinegar 32oz, Vegetable Oil 48oz - Organic
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Italian Dressing 16oz (SKU: SKU100238)
+Exact Location: Aisle J (Condiments & Sauces), Section J4, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Italian Dressing 16oz - Value Size, Apple Cider Vinegar 32oz, Ranch Dressing 16oz
+Merchandising Notes: Keep refrigerated
+
+Product: Olive Oil Extra Virgin 16.9oz (SKU: SKU100239)
+Exact Location: Aisle J (Condiments & Sauces), Section J3, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Salsa Medium 24oz, Vegetable Oil 48oz, BBQ Sauce Original 18oz
+Merchandising Notes: 
+
+Product: Vegetable Oil 48oz (SKU: SKU100240)
+Exact Location: Aisle J (Condiments & Sauces), Section J3, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Salsa Medium 24oz, Yellow Mustard 20oz, Olive Oil Extra Virgin 16.9oz
+Merchandising Notes: Handle with care
+
+Product: White Vinegar 32oz (SKU: SKU100241)
+Exact Location: Aisle J (Condiments & Sauces), Section J1, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Soy Sauce 10oz
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Apple Cider Vinegar 32oz (SKU: SKU100242)
+Exact Location: Aisle J (Condiments & Sauces), Section J4, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Vegetable Oil 48oz - Organic, Ranch Dressing 16oz, BBQ Sauce Original 18oz - Family Size
+Merchandising Notes: Stack max 3 high
+
+Product: Shampoo Moisturizing 12oz (SKU: SKU100243)
+Exact Location: Aisle K (Health & Beauty), Section K3, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Conditioner Strengthening 12oz, Tampons Regular 36-count, Deodorant Stick 2.6oz
+Merchandising Notes: Face forward, label visible
+
+Product: Conditioner Strengthening 12oz (SKU: SKU100244)
+Exact Location: Aisle K (Health & Beauty), Section K3, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Razors 4-count, Tampons Regular 36-count, Hand Lotion 7oz - Travel Size
+Merchandising Notes: Stack max 3 high
+
+Product: Body Wash Lavender 18oz (SKU: SKU100245)
+Exact Location: Aisle K (Health & Beauty), Section K1, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Shaving Cream 7oz, Sunscreen SPF50 3oz - Family Size
+Merchandising Notes: Handle with care
+
+Product: Bar Soap 6-pack 3.75oz (SKU: SKU100246)
+Exact Location: Aisle K (Health & Beauty), Section K4, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Sunscreen SPF50 3oz - Travel Size, Feminine Pads Regular 36-count - Family Size, Tampons Regular 36-count - Travel Size
+Merchandising Notes: 
+
+Product: Toothpaste Whitening 4oz (SKU: SKU100247)
+Exact Location: Aisle K (Health & Beauty), Section K4, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Hand Lotion 7oz - Organic, Sunscreen SPF50 3oz - Travel Size, Feminine Pads Regular 36-count - Family Size
+Merchandising Notes: Keep refrigerated
+
+Product: Toothbrush Soft (2-pack) (SKU: SKU100248)
+Exact Location: Aisle K (Health & Beauty), Section K3, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Razors 4-count, Antiperspirant Spray 4oz, Tampons Regular 36-count
+Merchandising Notes: Face forward, label visible
+
+Product: Mouthwash Fresh 1lt (SKU: SKU100249)
+Exact Location: Aisle K (Health & Beauty), Section K3, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Deodorant Stick 2.6oz, Tampons Regular 36-count, Toothpaste Whitening 4oz - Value Size
+Merchandising Notes: Handle with care
+
+Product: Deodorant Stick 2.6oz (SKU: SKU100250)
+Exact Location: Aisle K (Health & Beauty), Section K3, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Toothbrush Soft (2-pack), Razors 4-count, Toothpaste Whitening 4oz - Value Size
+Merchandising Notes: Stack max 3 high
+
+Product: Antiperspirant Spray 4oz (SKU: SKU100251)
+Exact Location: Aisle K (Health & Beauty), Section K3, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Deodorant Stick 2.6oz, Hand Lotion 7oz - Travel Size, Razors 4-count
+Merchandising Notes: Keep refrigerated
+
+Product: Facial Moisturizer SPF30 1.7oz (SKU: SKU100252)
+Exact Location: Aisle K (Health & Beauty), Section K2, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Sunscreen SPF50 3oz - Sugar-Free, Feminine Pads Regular 36-count - XL Pack, Hand Lotion 7oz
+Merchandising Notes: Handle with care
+
+Product: Sunscreen SPF50 3oz (SKU: SKU100253)
+Exact Location: Aisle K (Health & Beauty), Section K2, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Hand Lotion 7oz, Feminine Pads Regular 36-count - XL Pack, Sunscreen SPF50 3oz - Travel Size
+Merchandising Notes: Keep refrigerated
+
+Product: Hand Lotion 7oz (SKU: SKU100254)
+Exact Location: Aisle K (Health & Beauty), Section K2, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Sunscreen SPF50 3oz - Travel Size, Sunscreen SPF50 3oz - Sugar-Free, Feminine Pads Regular 36-count - XL Pack
+Merchandising Notes: Stack max 3 high
+
+Product: Razors 4-count (SKU: SKU100255)
+Exact Location: Aisle K (Health & Beauty), Section K3, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Toothbrush Soft (2-pack), Conditioner Strengthening 12oz, Mouthwash Fresh 1lt
+Merchandising Notes: Face forward, label visible
+
+Product: Shaving Cream 7oz (SKU: SKU100256)
+Exact Location: Aisle K (Health & Beauty), Section K1, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Sunscreen SPF50 3oz - Family Size, Body Wash Lavender 18oz
+Merchandising Notes: Stack max 3 high
+
+Product: Feminine Pads Regular 36-count (SKU: SKU100257)
+Exact Location: Aisle K (Health & Beauty), Section K2, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Facial Moisturizer SPF30 1.7oz, Sunscreen SPF50 3oz, Razors 4-count - Value Size
+Merchandising Notes: Face forward, label visible
+
+Product: Tampons Regular 36-count (SKU: SKU100258)
+Exact Location: Aisle K (Health & Beauty), Section K3, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Shampoo Moisturizing 12oz, Conditioner Strengthening 12oz, Toothbrush Soft (2-pack)
+Merchandising Notes: Face forward, label visible
+
+Product: Diapers Size 3 60-count (SKU: SKU100259)
+Exact Location: Aisle L (Baby & Toddler), Section L2, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Baby Lotion 8oz, Baby Shampoo 13oz
+Merchandising Notes: Handle with care
+
+Product: Diapers Size 4 52-count (SKU: SKU100260)
+Exact Location: Aisle L (Baby & Toddler), Section L1, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Baby Wipes 72-count, Toddler Snack Puffs 1.48oz, Baby Food Stage 2 4oz (6-pack)
+Merchandising Notes: Handle with care
+
+Product: Baby Wipes 72-count (SKU: SKU100261)
+Exact Location: Aisle L (Baby & Toddler), Section L1, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Diapers Size 4 52-count, Baby Food Stage 2 4oz (6-pack), Toddler Snack Puffs 1.48oz
+Merchandising Notes: Face forward, label visible
+
+Product: Baby Shampoo 13oz (SKU: SKU100262)
+Exact Location: Aisle L (Baby & Toddler), Section L2, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Diapers Size 3 60-count, Baby Lotion 8oz
+Merchandising Notes: Stack max 3 high
+
+Product: Baby Lotion 8oz (SKU: SKU100263)
+Exact Location: Aisle L (Baby & Toddler), Section L2, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Baby Shampoo 13oz, Diapers Size 3 60-count
+Merchandising Notes: Handle with care
+
+Product: Baby Formula Powder 20oz (SKU: SKU100264)
+Exact Location: Aisle L (Baby & Toddler), Section L4, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Baby Food Stage 2 4oz (6-pack) - Sugar-Free, Baby Shampoo 13oz - Decaf, Baby Formula Powder 20oz - Value Size
+Merchandising Notes: Stack max 3 high
+
+Product: Baby Food Stage 2 4oz (6-pack) (SKU: SKU100265)
+Exact Location: Aisle L (Baby & Toddler), Section L1, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Diapers Size 4 52-count, Baby Wipes 72-count, Toddler Snack Puffs 1.48oz
+Merchandising Notes: Face forward, label visible
+
+Product: Toddler Snack Puffs 1.48oz (SKU: SKU100266)
+Exact Location: Aisle L (Baby & Toddler), Section L1, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Diapers Size 4 52-count, Baby Food Stage 2 4oz (6-pack), Baby Wipes 72-count
+Merchandising Notes: Handle with care
+
+Product: All-Purpose Cleaner Spray 32oz (SKU: SKU100267)
+Exact Location: Aisle M (Household Cleaning), Section M1, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Trash Bags 33gal 20-count, Trash Bags 13gal 40-count - Low-Sodium
+Merchandising Notes: Keep refrigerated
+
+Product: Disinfecting Wipes 75-count (SKU: SKU100268)
+Exact Location: Aisle M (Household Cleaning), Section M4, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Rubber Gloves M (pair) - Value Size, Rubber Gloves M (pair), Trash Bags 13gal 40-count
+Merchandising Notes: Keep refrigerated
+
+Product: Glass Cleaner 26oz (SKU: SKU100269)
+Exact Location: Aisle M (Household Cleaning), Section M3, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Trash Bags 33gal 20-count - Sugar-Free, Dish Soap 24oz, Sponges 6-pack
+Merchandising Notes: Stack max 3 high
+
+Product: Dish Soap 24oz (SKU: SKU100270)
+Exact Location: Aisle M (Household Cleaning), Section M3, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Mold & Mildew Remover 32oz, Trash Bags 33gal 20-count - Sugar-Free, Glass Cleaner 26oz
+Merchandising Notes: Face forward, label visible
+
+Product: Dishwasher Pods 30-count (SKU: SKU100271)
+Exact Location: Aisle M (Household Cleaning), Section M2, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Bathroom Cleaner 32oz, Bathroom Cleaner 32oz - Travel Size
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Bathroom Cleaner 32oz (SKU: SKU100272)
+Exact Location: Aisle M (Household Cleaning), Section M2, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Bathroom Cleaner 32oz - Travel Size, Dishwasher Pods 30-count
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Mold & Mildew Remover 32oz (SKU: SKU100273)
+Exact Location: Aisle M (Household Cleaning), Section M3, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Sponges 6-pack, Trash Bags 33gal 20-count - Sugar-Free, Dish Soap 24oz - Value Size
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Sponges 6-pack (SKU: SKU100274)
+Exact Location: Aisle M (Household Cleaning), Section M3, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Dish Soap 24oz - Value Size, Bathroom Cleaner 32oz - XL Pack, Dish Soap 24oz
+Merchandising Notes: Handle with care
+
+Product: Rubber Gloves M (pair) (SKU: SKU100275)
+Exact Location: Aisle M (Household Cleaning), Section M4, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Rubber Gloves M (pair) - Value Size, Disinfecting Wipes 75-count, Trash Bags 13gal 40-count
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Trash Bags 13gal 40-count (SKU: SKU100276)
+Exact Location: Aisle M (Household Cleaning), Section M4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Disinfecting Wipes 75-count, Rubber Gloves M (pair), Rubber Gloves M (pair) - Value Size
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Trash Bags 33gal 20-count (SKU: SKU100277)
+Exact Location: Aisle M (Household Cleaning), Section M1, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Trash Bags 13gal 40-count - Low-Sodium, All-Purpose Cleaner Spray 32oz
+Merchandising Notes: Handle with care
+
+Product: Liquid Laundry Detergent 92oz (SKU: SKU100278)
+Exact Location: Aisle N (Laundry), Section N3, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Dryer Sheets 105-count, Fabric Softener 51oz - Family Size
+Merchandising Notes: Face forward, label visible
+
+Product: Laundry Pods 42-count (SKU: SKU100279)
+Exact Location: Aisle N (Laundry), Section N4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Color-Safe Bleach 64oz, Liquid Laundry Detergent 92oz - Sugar-Free, Fabric Softener 51oz
+Merchandising Notes: 
+
+Product: Fabric Softener 51oz (SKU: SKU100280)
+Exact Location: Aisle N (Laundry), Section N4, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Color-Safe Bleach 64oz, Laundry Pods 42-count, Liquid Laundry Detergent 92oz - Sugar-Free
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Dryer Sheets 105-count (SKU: SKU100281)
+Exact Location: Aisle N (Laundry), Section N3, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Liquid Laundry Detergent 92oz, Fabric Softener 51oz - Family Size
+Merchandising Notes: Face forward, label visible
+
+Product: Stain Remover Spray 22oz (SKU: SKU100282)
+Exact Location: Aisle N (Laundry), Section N2, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Liquid Laundry Detergent 92oz - Value Size
+Merchandising Notes: Stack max 3 high
+
+Product: Color-Safe Bleach 64oz (SKU: SKU100283)
+Exact Location: Aisle N (Laundry), Section N4, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Fabric Softener 51oz, Laundry Pods 42-count, Liquid Laundry Detergent 92oz - Sugar-Free
+Merchandising Notes: Stack max 3 high
+
+Product: Paper Towels Double Roll 6-pack (SKU: SKU100284)
+Exact Location: Aisle O (Paper & Disposables), Section O3, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Paper Towels Double Roll 6-pack - Value Size, Gallon Zip Bags 30-count, Aluminum Foil 75sqft - Value Size
+Merchandising Notes: Stack max 3 high
+
+Product: Toilet Paper 12 Double Rolls (SKU: SKU100285)
+Exact Location: Aisle O (Paper & Disposables), Section O1, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Quart Zip Bags 40-count, Facial Tissues 3-box pack - Low-Sodium, Plastic Cups 16oz 50-count - Sugar-Free
+Merchandising Notes: Handle with care
+
+Product: Facial Tissues 3-box pack (SKU: SKU100286)
+Exact Location: Aisle O (Paper & Disposables), Section O3, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Aluminum Foil 75sqft - Value Size, Plastic Cups 16oz 50-count, Paper Towels Double Roll 6-pack - Value Size
+Merchandising Notes: 
+
+Product: Paper Plates 8.5in 50-count (SKU: SKU100287)
+Exact Location: Aisle O (Paper & Disposables), Section O1, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Facial Tissues 3-box pack - Low-Sodium, Quart Zip Bags 40-count, Plastic Wrap 200sqft - Sugar-Free
+Merchandising Notes: Stack max 3 high
+
+Product: Plastic Cups 16oz 50-count (SKU: SKU100288)
+Exact Location: Aisle O (Paper & Disposables), Section O3, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Paper Towels Double Roll 6-pack - Value Size, Paper Towels Double Roll 6-pack, Facial Tissues 3-box pack
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Aluminum Foil 75sqft (SKU: SKU100289)
+Exact Location: Aisle O (Paper & Disposables), Section O1, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Toilet Paper 12 Double Rolls, Plastic Wrap 200sqft, Facial Tissues 3-box pack - Low-Sodium
+Merchandising Notes: Keep refrigerated
+
+Product: Plastic Wrap 200sqft (SKU: SKU100290)
+Exact Location: Aisle O (Paper & Disposables), Section O1, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Quart Zip Bags 40-count, Plastic Wrap 200sqft - Sugar-Free, Paper Plates 8.5in 50-count
+Merchandising Notes: Face forward, label visible
+
+Product: Quart Zip Bags 40-count (SKU: SKU100291)
+Exact Location: Aisle O (Paper & Disposables), Section O1, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Plastic Wrap 200sqft - Sugar-Free, Facial Tissues 3-box pack - Low-Sodium, Paper Plates 8.5in 50-count
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Gallon Zip Bags 30-count (SKU: SKU100292)
+Exact Location: Aisle O (Paper & Disposables), Section O3, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Plastic Cups 16oz 50-count, Aluminum Foil 75sqft - Value Size, Facial Tissues 3-box pack
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: AA Batteries 20-pack (SKU: SKU100293)
+Exact Location: Aisle P (Electronics & Accessories), Section P2, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: AAA Batteries 20-pack - Travel Size, HDMI Cable 6ft - Value Size, AAA Batteries 20-pack
+Merchandising Notes: Keep refrigerated
+
+Product: AAA Batteries 20-pack (SKU: SKU100294)
+Exact Location: Aisle P (Electronics & Accessories), Section P2, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Lightning Cable 6ft - Decaf, Screen Cleaner Kit, Bluetooth Speaker Portable
+Merchandising Notes: Face forward, label visible
+
+Product: USB-C Charging Cable 6ft (SKU: SKU100295)
+Exact Location: Aisle P (Electronics & Accessories), Section P4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Power Strip 6-outlet, Phone Case Universal Slim, HDMI Cable 6ft
+Merchandising Notes: Face forward, label visible
+
+Product: Lightning Cable 6ft (SKU: SKU100296)
+Exact Location: Aisle P (Electronics & Accessories), Section P1, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: LED Light Bulbs A19 4-pack - Sugar-Free, LED Light Bulbs A19 4-pack, USB-C Charging Cable 6ft - Family Size
+Merchandising Notes: Stack max 3 high
+
+Product: Phone Case Universal Slim (SKU: SKU100297)
+Exact Location: Aisle P (Electronics & Accessories), Section P4, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Lightning Cable 6ft - Family Size, HDMI Cable 6ft, Power Strip 6-outlet
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Earbuds Wired 3.5mm (SKU: SKU100298)
+Exact Location: Aisle P (Electronics & Accessories), Section P3, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Phone Case Universal Slim - Decaf, Lightning Cable 6ft - XL Pack, Extension Cord 6ft 3-outlet - XL Pack
+Merchandising Notes: Face forward, label visible
+
+Product: Bluetooth Speaker Portable (SKU: SKU100299)
+Exact Location: Aisle P (Electronics & Accessories), Section P2, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Lightning Cable 6ft - Decaf, HDMI Cable 6ft - Value Size, AAA Batteries 20-pack
+Merchandising Notes: Keep refrigerated
+
+Product: HDMI Cable 6ft (SKU: SKU100300)
+Exact Location: Aisle P (Electronics & Accessories), Section P4, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Lightning Cable 6ft - Family Size, Power Strip 6-outlet, USB-C Charging Cable 6ft
+Merchandising Notes: Handle with care
+
+Product: Power Strip 6-outlet (SKU: SKU100301)
+Exact Location: Aisle P (Electronics & Accessories), Section P4, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Phone Case Universal Slim, HDMI Cable 6ft, USB-C Charging Cable 6ft
+Merchandising Notes: Handle with care
+
+Product: LED Light Bulbs A19 4-pack (SKU: SKU100302)
+Exact Location: Aisle P (Electronics & Accessories), Section P1, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: LED Light Bulbs A19 4-pack - Sugar-Free, Lightning Cable 6ft, USB-C Charging Cable 6ft - Family Size
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Extension Cord 6ft 3-outlet (SKU: SKU100303)
+Exact Location: Aisle P (Electronics & Accessories), Section P1, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: LED Light Bulbs A19 4-pack, Lightning Cable 6ft, USB-C Charging Cable 6ft - Family Size
+Merchandising Notes: Face forward, label visible
+
+Product: Screen Cleaner Kit (SKU: SKU100304)
+Exact Location: Aisle P (Electronics & Accessories), Section P2, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: AAA Batteries 20-pack, AA Batteries 20-pack, Lightning Cable 6ft - Decaf
+Merchandising Notes: Keep refrigerated
+
+Product: LEGO Classic 200-piece set (SKU: SKU100305)
+Exact Location: Aisle Q (Toys & Games), Section Q4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Crayons 64-count, Basketball Size 5, Nerf Blaster Basic - Low-Sodium
+Merchandising Notes: Stack max 3 high
+
+Product: Playing Cards Standard Deck (SKU: SKU100306)
+Exact Location: Aisle Q (Toys & Games), Section Q1, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Crayons 64-count - Travel Size, Basketball Size 5 - XL Pack, Puzzle 500-piece
+Merchandising Notes: Face forward, label visible
+
+Product: Crayons 64-count (SKU: SKU100307)
+Exact Location: Aisle Q (Toys & Games), Section Q4, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Basketball Size 5, Nerf Blaster Basic - Low-Sodium, LEGO Classic 200-piece set
+Merchandising Notes: Keep refrigerated
+
+Product: Watercolor Paint Set (SKU: SKU100308)
+Exact Location: Aisle Q (Toys & Games), Section Q3, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: LEGO Classic 200-piece set - Value Size, Monopoly Classic - Family Size, Nerf Blaster Basic - XL Pack
+Merchandising Notes: Face forward, label visible
+
+Product: Puzzle 500-piece (SKU: SKU100309)
+Exact Location: Aisle Q (Toys & Games), Section Q1, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Crayons 64-count - Low-Sodium, Scrabble Board Game, Basketball Size 5 - XL Pack
+Merchandising Notes: Keep refrigerated
+
+Product: UNO Card Game (SKU: SKU100310)
+Exact Location: Aisle Q (Toys & Games), Section Q3, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Monopoly Classic - Family Size, Nerf Blaster Basic - XL Pack, Watercolor Paint Set
+Merchandising Notes: Face forward, label visible
+
+Product: Scrabble Board Game (SKU: SKU100311)
+Exact Location: Aisle Q (Toys & Games), Section Q1, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Crayons 64-count - Travel Size, Basketball Size 5 - XL Pack, Puzzle 500-piece
+Merchandising Notes: Keep refrigerated
+
+Product: Monopoly Classic (SKU: SKU100312)
+Exact Location: Aisle Q (Toys & Games), Section Q2, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Nerf Blaster Basic, Scrabble Board Game - Travel Size, Crayons 64-count - Low-Sodium
+Merchandising Notes: Keep refrigerated
+
+Product: Nerf Blaster Basic (SKU: SKU100313)
+Exact Location: Aisle Q (Toys & Games), Section Q2, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: UNO Card Game - Family Size, Monopoly Classic, Playing Cards Standard Deck - Decaf
+Merchandising Notes: 
+
+Product: Basketball Size 5 (SKU: SKU100314)
+Exact Location: Aisle Q (Toys & Games), Section Q4, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Crayons 64-count, Nerf Blaster Basic - Low-Sodium, LEGO Classic 200-piece set
+Merchandising Notes: Stack max 3 high
+
+Product: Water Bottle 32oz BPA-Free (SKU: SKU100315)
+Exact Location: Aisle R (Sports & Outdoors), Section R4, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Camping Lantern LED - Travel Size
+Merchandising Notes: Keep refrigerated
+
+Product: Resistance Bands Set 5-pack (SKU: SKU100316)
+Exact Location: Aisle R (Sports & Outdoors), Section R1, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Camping Lantern LED, Resistance Bands Set 5-pack - Decaf
+Merchandising Notes: Keep refrigerated
+
+Product: Jump Rope (SKU: SKU100317)
+Exact Location: Aisle R (Sports & Outdoors), Section R2, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Sunglasses UV400
+Merchandising Notes: 
+
+Product: Yoga Mat 68in (SKU: SKU100318)
+Exact Location: Aisle R (Sports & Outdoors), Section R3, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Athletic Socks 6-pack, Insect Repellent Spray 4oz - Travel Size, Sunglasses UV400 - Travel Size
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Athletic Socks 6-pack (SKU: SKU100319)
+Exact Location: Aisle R (Sports & Outdoors), Section R3, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Insect Repellent Spray 4oz - Travel Size, Sunglasses UV400 - Travel Size, Yoga Mat 68in
+Merchandising Notes: Stack max 3 high
+
+Product: Sunglasses UV400 (SKU: SKU100320)
+Exact Location: Aisle R (Sports & Outdoors), Section R2, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Jump Rope
+Merchandising Notes: Stack max 3 high
+
+Product: Insect Repellent Spray 4oz (SKU: SKU100321)
+Exact Location: Aisle R (Sports & Outdoors), Section R3, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Sunglasses UV400 - Travel Size, Insect Repellent Spray 4oz - Travel Size, Athletic Socks 6-pack
+Merchandising Notes: 
+
+Product: Camping Lantern LED (SKU: SKU100322)
+Exact Location: Aisle R (Sports & Outdoors), Section R1, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Resistance Bands Set 5-pack, Resistance Bands Set 5-pack - Decaf
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Men's White T-Shirt L (SKU: SKU100323)
+Exact Location: Aisle S (Clothing & Apparel), Section S3, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Baseball Cap Adjustable, Women's Briefs 5-pack M, Men's White T-Shirt L - Value Size
+Merchandising Notes: Face forward, label visible
+
+Product: Women's Yoga Pants M (SKU: SKU100324)
+Exact Location: Aisle S (Clothing & Apparel), Section S2, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Kids Socks 6-pack Sz 4-7 - Decaf, Rain Poncho One Size - XL Pack
+Merchandising Notes: Face forward, label visible
+
+Product: Kids Socks 6-pack Sz 4-7 (SKU: SKU100325)
+Exact Location: Aisle S (Clothing & Apparel), Section S1, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Women's Briefs 5-pack M - Sugar-Free
+Merchandising Notes: 
+
+Product: Baseball Cap Adjustable (SKU: SKU100326)
+Exact Location: Aisle S (Clothing & Apparel), Section S3, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Women's Briefs 5-pack M, Men's White T-Shirt L - Value Size, Men's White T-Shirt L
+Merchandising Notes: Stack max 3 high
+
+Product: Men's Boxer Briefs 3-pack M (SKU: SKU100327)
+Exact Location: Aisle S (Clothing & Apparel), Section S4, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Kids Socks 6-pack Sz 4-7 - Family Size, Rain Poncho One Size
+Merchandising Notes: Stack max 3 high
+
+Product: Women's Briefs 5-pack M (SKU: SKU100328)
+Exact Location: Aisle S (Clothing & Apparel), Section S3, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Baseball Cap Adjustable, Men's White T-Shirt L - Value Size, Men's White T-Shirt L
+Merchandising Notes: Stack max 3 high
+
+Product: Rain Poncho One Size (SKU: SKU100329)
+Exact Location: Aisle S (Clothing & Apparel), Section S4, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Kids Socks 6-pack Sz 4-7 - Family Size, Men's Boxer Briefs 3-pack M
+Merchandising Notes: Stack max 3 high
+
+Product: Non-stick Frying Pan 10in (SKU: SKU100330)
+Exact Location: Aisle T (Home & Kitchen), Section T1, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Muffin Pan 12-cup - XL Pack, Kitchen Knife 8in Chef, Oven Mitts Pair - Value Size
+Merchandising Notes: Handle with care
+
+Product: Stainless Sauce Pan 2qt (SKU: SKU100331)
+Exact Location: Aisle T (Home & Kitchen), Section T2, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Baking Sheet 18x13in, Kitchen Knife 8in Chef - XL Pack, Colander 5qt - Decaf
+Merchandising Notes: Keep refrigerated
+
+Product: Cutting Board Plastic 12x18in (SKU: SKU100332)
+Exact Location: Aisle T (Home & Kitchen), Section T4, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Muffin Pan 12-cup, Colander 5qt
+Merchandising Notes: Keep refrigerated
+
+Product: Can Opener Manual (SKU: SKU100333)
+Exact Location: Aisle T (Home & Kitchen), Section T3, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Mixing Bowls 3-piece Set, Measuring Cups Set 4-piece, Oven Mitts Pair - Travel Size
+Merchandising Notes: Handle with care
+
+Product: Measuring Cups Set 4-piece (SKU: SKU100334)
+Exact Location: Aisle T (Home & Kitchen), Section T3, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Non-stick Frying Pan 10in - Low-Sodium, Can Opener Manual, Oven Mitts Pair - Travel Size
+Merchandising Notes: 
+
+Product: Measuring Spoons Set 6-piece (SKU: SKU100335)
+Exact Location: Aisle T (Home & Kitchen), Section T1, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Dish Towels 4-pack, Oven Mitts Pair - Value Size, Kitchen Knife 8in Chef
+Merchandising Notes: 
+
+Product: Kitchen Knife 8in Chef (SKU: SKU100336)
+Exact Location: Aisle T (Home & Kitchen), Section T1, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Oven Mitts Pair - Value Size, Muffin Pan 12-cup - XL Pack, Dish Rack Stainless
+Merchandising Notes: Stack max 3 high
+
+Product: Colander 5qt (SKU: SKU100337)
+Exact Location: Aisle T (Home & Kitchen), Section T4, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Muffin Pan 12-cup, Cutting Board Plastic 12x18in
+Merchandising Notes: Handle with care
+
+Product: Mixing Bowls 3-piece Set (SKU: SKU100338)
+Exact Location: Aisle T (Home & Kitchen), Section T3, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Oven Mitts Pair - Travel Size, Non-stick Frying Pan 10in - Low-Sodium, Can Opener Manual
+Merchandising Notes: Stack max 3 high
+
+Product: Baking Sheet 18x13in (SKU: SKU100339)
+Exact Location: Aisle T (Home & Kitchen), Section T2, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Non-stick Frying Pan 10in - XL Pack, Stainless Sauce Pan 2qt, Kitchen Knife 8in Chef - XL Pack
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Muffin Pan 12-cup (SKU: SKU100340)
+Exact Location: Aisle T (Home & Kitchen), Section T4, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Cutting Board Plastic 12x18in, Colander 5qt
+Merchandising Notes: Keep refrigerated
+
+Product: Dish Rack Stainless (SKU: SKU100341)
+Exact Location: Aisle T (Home & Kitchen), Section T1, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Measuring Spoons Set 6-piece, Kitchen Knife 8in Chef, Dish Towels 4-pack
+Merchandising Notes: Keep refrigerated
+
+Product: Dish Towels 4-pack (SKU: SKU100342)
+Exact Location: Aisle T (Home & Kitchen), Section T1, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Oven Mitts Pair - Value Size, Non-stick Frying Pan 10in, Dish Rack Stainless
+Merchandising Notes: Keep refrigerated
+
+Product: Oven Mitts Pair (SKU: SKU100343)
+Exact Location: Aisle T (Home & Kitchen), Section T2, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Kitchen Knife 8in Chef - XL Pack, Colander 5qt - Decaf, Baking Sheet 18x13in
+Merchandising Notes: Handle with care
+
+Product: Dry Dog Food Adult 15lb (SKU: SKU100344)
+Exact Location: Aisle U (Pet Supplies), Section U3, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Dog Collar Adjustable M, Wet Dog Food 13oz (12-pack) - Organic, Cat Treats 2.1oz
+Merchandising Notes: Stack max 3 high
+
+Product: Wet Dog Food 13oz (12-pack) (SKU: SKU100345)
+Exact Location: Aisle U (Pet Supplies), Section U1, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Dry Cat Food Adult 7lb, Dog Treats Biscuits 16oz, Pet Waste Bags 100-count
+Merchandising Notes: Stack max 3 high
+
+Product: Dry Cat Food Adult 7lb (SKU: SKU100346)
+Exact Location: Aisle U (Pet Supplies), Section U1, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Dog Treats Biscuits 16oz, Wet Dog Food 13oz (12-pack), Pet Waste Bags 100-count
+Merchandising Notes: 
+
+Product: Wet Cat Food 5.5oz (12-pack) (SKU: SKU100347)
+Exact Location: Aisle U (Pet Supplies), Section U2, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Wet Dog Food 13oz (12-pack) - Organic, Dog Collar Adjustable M - XL Pack, Dog Treats Biscuits 16oz - Travel Size
+Merchandising Notes: Keep refrigerated
+
+Product: Cat Litter Clumping 20lb (SKU: SKU100348)
+Exact Location: Aisle U (Pet Supplies), Section U2, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Dog Treats Biscuits 16oz - Travel Size, Wet Dog Food 13oz (12-pack) - Organic, Dog Collar Adjustable M - XL Pack
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Dog Treats Biscuits 16oz (SKU: SKU100349)
+Exact Location: Aisle U (Pet Supplies), Section U1, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Wet Dog Food 13oz (12-pack), Dry Cat Food Adult 7lb, Pet Waste Bags 100-count
+Merchandising Notes: 
+
+Product: Cat Treats 2.1oz (SKU: SKU100350)
+Exact Location: Aisle U (Pet Supplies), Section U3, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Dog Collar Adjustable M, Dry Dog Food Adult 15lb, Wet Dog Food 13oz (12-pack) - Organic
+Merchandising Notes: Handle with care
+
+Product: Pet Waste Bags 100-count (SKU: SKU100351)
+Exact Location: Aisle U (Pet Supplies), Section U1, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Dog Treats Biscuits 16oz, Dry Cat Food Adult 7lb, Wet Dog Food 13oz (12-pack)
+Merchandising Notes: 
+
+Product: Dog Collar Adjustable M (SKU: SKU100352)
+Exact Location: Aisle U (Pet Supplies), Section U3, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Wet Dog Food 13oz (12-pack) - Organic, Cat Treats 2.1oz, Dry Dog Food Adult 15lb
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Ibuprofen 200mg 100-count (SKU: SKU100353)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V2, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Multivitamins Adults 100-count, Thermometer Digital, Allergy Relief 24-hour 30ct - Low-Sodium
+Merchandising Notes: Stack max 3 high
+
+Product: Acetaminophen 500mg 100-count (SKU: SKU100354)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V1, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Antacid Chewable 96-count, Allergy Relief 24-hour 30ct, Vitamin C 1000mg 60-count - XL Pack
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Antacid Chewable 96-count (SKU: SKU100355)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V1, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Vitamin C 1000mg 60-count - XL Pack, Allergy Relief 24-hour 30ct, Acetaminophen 500mg 100-count
+Merchandising Notes: 
+
+Product: Allergy Relief 24-hour 30ct (SKU: SKU100356)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V1, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Vitamin C 1000mg 60-count - XL Pack, Antacid Chewable 96-count, Acetaminophen 500mg 100-count
+Merchandising Notes: Handle with care
+
+Product: Cold Relief DayTime Liquid 12oz (SKU: SKU100357)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V4, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Ibuprofen 200mg 100-count - XL Pack, Thermometer Digital - Value Size, Bandage Assorted 80-count - Low-Sodium
+Merchandising Notes: Keep refrigerated
+
+Product: Cough Drops Honey Lemon 30-count (SKU: SKU100358)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V4, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Ibuprofen 200mg 100-count - XL Pack, Bandage Assorted 80-count, Thermometer Digital - Family Size
+Merchandising Notes: Keep refrigerated
+
+Product: Multivitamins Adults 100-count (SKU: SKU100359)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V2, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Ibuprofen 200mg 100-count, Thermometer Digital, Cough Drops Honey Lemon 30-count - Travel Size
+Merchandising Notes: Handle with care
+
+Product: Vitamin C 1000mg 60-count (SKU: SKU100360)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V3, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Bandage Assorted 80-count - Value Size, Cold Relief DayTime Liquid 12oz - Sugar-Free
+Merchandising Notes: 
+
+Product: Bandage Assorted 80-count (SKU: SKU100361)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V4, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Bandage Assorted 80-count - Low-Sodium, Cold Relief DayTime Liquid 12oz, Cough Drops Honey Lemon 30-count
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Thermometer Digital (SKU: SKU100362)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V2, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Multivitamins Adults 100-count, Allergy Relief 24-hour 30ct - Low-Sodium, Ibuprofen 200mg 100-count
+Merchandising Notes: Face forward, label visible
+
+Product: Ballpoint Pens Blue 10-pack (SKU: SKU100363)
+Exact Location: Aisle W (Office & Stationery), Section W3, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Highlighters 5-pack Assorted, Highlighters 5-pack Assorted - Family Size, Scissors 8in
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Mechanical Pencils 5-pack (SKU: SKU100364)
+Exact Location: Aisle W (Office & Stationery), Section W1, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Printer Paper 8.5x11 500-sheet - Value Size, Sticky Notes 3x3in 12-pack, Spiral Notebook College Ruled - XL Pack
+Merchandising Notes: Keep refrigerated
+
+Product: Highlighters 5-pack Assorted (SKU: SKU100365)
+Exact Location: Aisle W (Office & Stationery), Section W3, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Scissors 8in, Highlighters 5-pack Assorted - Sugar-Free, Ballpoint Pens Blue 10-pack
+Merchandising Notes: Handle with care
+
+Product: Sticky Notes 3x3in 12-pack (SKU: SKU100366)
+Exact Location: Aisle W (Office & Stationery), Section W1, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Mechanical Pencils 5-pack, Stapler Standard, Printer Paper 8.5x11 500-sheet - Value Size
+Merchandising Notes: Keep refrigerated
+
+Product: Composition Notebook 100-page (SKU: SKU100367)
+Exact Location: Aisle W (Office & Stationery), Section W3, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Highlighters 5-pack Assorted, Ballpoint Pens Blue 10-pack, Scissors 8in
+Merchandising Notes: 
+
+Product: Spiral Notebook College Ruled (SKU: SKU100368)
+Exact Location: Aisle W (Office & Stationery), Section W3, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Composition Notebook 100-page, Highlighters 5-pack Assorted, Highlighters 5-pack Assorted - Sugar-Free
+Merchandising Notes: Keep refrigerated
+
+Product: Printer Paper 8.5x11 500-sheet (SKU: SKU100369)
+Exact Location: Aisle W (Office & Stationery), Section W4, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Mechanical Pencils 5-pack - Travel Size, Ballpoint Pens Blue 10-pack - Sugar-Free, Index Cards 3x5 200-count - Low-Sodium
+Merchandising Notes: 
+
+Product: Tape Rolls 3-pack (SKU: SKU100370)
+Exact Location: Aisle W (Office & Stationery), Section W1, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Sticky Notes 3x3in 12-pack, Tape Rolls 3-pack - Decaf, Printer Paper 8.5x11 500-sheet - Value Size
+Merchandising Notes: Stack max 3 high
+
+Product: Stapler Standard (SKU: SKU100371)
+Exact Location: Aisle W (Office & Stationery), Section W1, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Tape Rolls 3-pack - Decaf, Sticky Notes 3x3in 12-pack, Mechanical Pencils 5-pack
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Scissors 8in (SKU: SKU100372)
+Exact Location: Aisle W (Office & Stationery), Section W3, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Ballpoint Pens Blue 10-pack, Composition Notebook 100-page, Highlighters 5-pack Assorted - Sugar-Free
+Merchandising Notes: Face forward, label visible
+
+Product: Index Cards 3x5 200-count (SKU: SKU100373)
+Exact Location: Aisle W (Office & Stationery), Section W1, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Tape Rolls 3-pack - Decaf, Stapler Standard, Spiral Notebook College Ruled - XL Pack
+Merchandising Notes: 
+
+Product: Scented Candle 8oz (SKU: SKU100374)
+Exact Location: Aisle X (Seasonal & Holiday), Section X3, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Scented Candle 8oz - XL Pack, Air Freshener Spray 8.3oz - Travel Size, Wrapping Paper Roll 30sqft - Family Size
+Merchandising Notes: 
+
+Product: Air Freshener Spray 8.3oz (SKU: SKU100375)
+Exact Location: Aisle X (Seasonal & Holiday), Section X2, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Balloons 15-count - Family Size, Gift Bags Assorted 4-pack - Organic
+Merchandising Notes: 
+
+Product: Picture Frame 4x6in (SKU: SKU100376)
+Exact Location: Aisle X (Seasonal & Holiday), Section X1, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Gift Bags Assorted 4-pack - Travel Size, Birthday Candles 24-count, Gift Bags Assorted 4-pack
+Merchandising Notes: 
+
+Product: Storage Bins 3-pack Clear (SKU: SKU100377)
+Exact Location: Aisle X (Seasonal & Holiday), Section X4, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Balloons 15-count - Decaf, Wrapping Paper Roll 30sqft - Family Size, Balloons 15-count - Travel Size
+Merchandising Notes: Keep refrigerated
+
+Product: Wrapping Paper Roll 30sqft (SKU: SKU100378)
+Exact Location: Aisle X (Seasonal & Holiday), Section X3, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Air Freshener Spray 8.3oz - Travel Size, Scented Candle 8oz - XL Pack, Scented Candle 8oz
+Merchandising Notes: Handle with care
+
+Product: Gift Bags Assorted 4-pack (SKU: SKU100379)
+Exact Location: Aisle X (Seasonal & Holiday), Section X1, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Picture Frame 4x6in, Birthday Candles 24-count, Gift Bags Assorted 4-pack - Travel Size
+Merchandising Notes: Handle with care
+
+Product: Birthday Candles 24-count (SKU: SKU100380)
+Exact Location: Aisle X (Seasonal & Holiday), Section X1, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Gift Bags Assorted 4-pack, Gift Bags Assorted 4-pack - Travel Size, Picture Frame 4x6in
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Balloons 15-count (SKU: SKU100381)
+Exact Location: Aisle X (Seasonal & Holiday), Section X4, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Balloons 15-count - Travel Size, Wrapping Paper Roll 30sqft - Family Size, Storage Bins 3-pack Clear
+Merchandising Notes: Keep refrigerated
+
+Product: Thermometer Digital - Value Size (SKU: SKU200100)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V4, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Cold Relief DayTime Liquid 12oz, Thermometer Digital - Family Size, Cough Drops Honey Lemon 30-count
+Merchandising Notes: 
+
+Product: Romaine Hearts 3-pack - Organic (SKU: SKU200101)
+Exact Location: Aisle A (Fresh Produce), Section A2, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Celery Stalks, Baby Carrots 1lb, Iceberg Lettuce (head)
+Merchandising Notes: 
+
+Product: Granola Oats & Honey 16oz - Travel Size (SKU: SKU200102)
+Exact Location: Aisle H (Breakfast & Cereal), Section H1, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Corn Flakes 18oz, Maple Syrup 24oz, Oat Circles 12oz
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Sunglasses UV400 - Travel Size (SKU: SKU200103)
+Exact Location: Aisle R (Sports & Outdoors), Section R3, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Insect Repellent Spray 4oz - Travel Size, Athletic Socks 6-pack, Yoga Mat 68in
+Merchandising Notes: Stack max 3 high
+
+Product: Extension Cord 6ft 3-outlet - XL Pack (SKU: SKU200104)
+Exact Location: Aisle P (Electronics & Accessories), Section P3, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Extension Cord 6ft 3-outlet - Family Size, Lightning Cable 6ft - XL Pack, Lightning Cable 6ft - Travel Size
+Merchandising Notes: Keep refrigerated
+
+Product: Crayons 64-count - Low-Sodium (SKU: SKU200105)
+Exact Location: Aisle Q (Toys & Games), Section Q2, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Nerf Blaster Basic, Monopoly Classic, Playing Cards Standard Deck - Decaf
+Merchandising Notes: Handle with care
+
+Product: Toilet Paper 12 Double Rolls - Value Size (SKU: SKU200106)
+Exact Location: Aisle O (Paper & Disposables), Section O4, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Paper Towels Double Roll 6-pack - Decaf
+Merchandising Notes: 
+
+Product: LED Light Bulbs A19 4-pack - Sugar-Free (SKU: SKU200107)
+Exact Location: Aisle P (Electronics & Accessories), Section P2, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: AAA Batteries 20-pack, Screen Cleaner Kit, AAA Batteries 20-pack - Travel Size
+Merchandising Notes: 
+
+Product: Bandage Assorted 80-count - Value Size (SKU: SKU200108)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V3, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Cold Relief DayTime Liquid 12oz - Sugar-Free, Vitamin C 1000mg 60-count
+Merchandising Notes: 
+
+Product: Sparkling Water 12-pack - Organic (SKU: SKU200109)
+Exact Location: Aisle F (Beverages), Section F2, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Lemon-Lime Soda 12-pack 12oz, Diet Cola 12-pack 12oz, Black Tea Bags 100-count
+Merchandising Notes: 
+
+Product: Tortilla Chips 13oz - Family Size (SKU: SKU200110)
+Exact Location: Aisle G (Snacks & Confectionery), Section G4, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Oreo Sandwich Cookies 14.3oz, Trail Mix 30oz, Sour Gummy Worms 5oz
+Merchandising Notes: Stack max 3 high
+
+Product: Baby Wipes 72-count - Travel Size (SKU: SKU200111)
+Exact Location: Aisle L (Baby & Toddler), Section L3, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Baby Lotion 8oz - Decaf, Baby Formula Powder 20oz - Organic
+Merchandising Notes: Stack max 3 high
+
+Product: Almond Milk Unsweetened 64oz - Decaf (SKU: SKU200112)
+Exact Location: Aisle B (Dairy & Eggs), Section B1, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Oat Milk Original 64oz - Organic, Salted Butter 4 sticks, Strawberry Yogurt 6-pack
+Merchandising Notes: Handle with care
+
+Product: Plastic Cups 16oz 50-count - Sugar-Free (SKU: SKU200113)
+Exact Location: Aisle O (Paper & Disposables), Section O1, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Aluminum Foil 75sqft, Plastic Wrap 200sqft - Sugar-Free, Quart Zip Bags 40-count
+Merchandising Notes: Keep refrigerated
+
+Product: Kitchen Knife 8in Chef - XL Pack (SKU: SKU200114)
+Exact Location: Aisle T (Home & Kitchen), Section T2, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Oven Mitts Pair, Non-stick Frying Pan 10in - XL Pack, Stainless Sauce Pan 2qt
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Oven Mitts Pair - Travel Size (SKU: SKU200115)
+Exact Location: Aisle T (Home & Kitchen), Section T3, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Can Opener Manual, Non-stick Frying Pan 10in - Low-Sodium, Mixing Bowls 3-piece Set
+Merchandising Notes: Handle with care
+
+Product: Cough Drops Honey Lemon 30-count - Travel Size (SKU: SKU200116)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V2, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Thermometer Digital, Ibuprofen 200mg 100-count, Acetaminophen 500mg 100-count - Family Size
+Merchandising Notes: Handle with care
+
+Product: Plastic Wrap 200sqft - Sugar-Free (SKU: SKU200117)
+Exact Location: Aisle O (Paper & Disposables), Section O1, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Plastic Wrap 200sqft, Quart Zip Bags 40-count, Facial Tissues 3-box pack - Low-Sodium
+Merchandising Notes: 
+
+Product: Strawberry Yogurt 6-pack - Decaf (SKU: SKU200118)
+Exact Location: Aisle B (Dairy & Eggs), Section B3, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Large Eggs 12-count, Heavy Whipping Cream 1pt, Greek Yogurt Plain 32oz
+Merchandising Notes: Handle with care
+
+Product: Dish Soap 24oz - Value Size (SKU: SKU200119)
+Exact Location: Aisle M (Household Cleaning), Section M3, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Dish Soap 24oz, Mold & Mildew Remover 32oz, Glass Cleaner 26oz
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Fish Sticks 24oz - Value Size (SKU: SKU200120)
+Exact Location: Aisle E (Frozen Foods), Section E3, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Frozen Peas 16oz, Frozen Mixed Vegetables 16oz, Chicken Nuggets 32oz - Value Size
+Merchandising Notes: 
+
+Product: Printer Paper 8.5x11 500-sheet - Value Size (SKU: SKU200121)
+Exact Location: Aisle W (Office & Stationery), Section W1, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Mechanical Pencils 5-pack, Sticky Notes 3x3in 12-pack, Tape Rolls 3-pack - Decaf
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Tampons Regular 36-count - Travel Size (SKU: SKU200122)
+Exact Location: Aisle K (Health & Beauty), Section K4, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Feminine Pads Regular 36-count - Family Size, Hand Lotion 7oz - Organic, Bar Soap 6-pack 3.75oz
+Merchandising Notes: Handle with care
+
+Product: Chicken Noodle Soup 10.75oz - Travel Size (SKU: SKU200123)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I1, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Chicken Noodle Soup 10.75oz - Sugar-Free, Canned Tuna in Water 5oz, White Rice Long Grain 5lb
+Merchandising Notes: Stack max 3 high
+
+Product: Bathroom Cleaner 32oz - Travel Size (SKU: SKU200124)
+Exact Location: Aisle M (Household Cleaning), Section M2, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Dishwasher Pods 30-count, Bathroom Cleaner 32oz
+Merchandising Notes: Stack max 3 high
+
+Product: Iceberg Lettuce (head) - Low-Sodium (SKU: SKU200125)
+Exact Location: Aisle A (Fresh Produce), Section A3, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Blueberries 6oz, Strawberries 1lb - Sugar-Free, Broccoli Crown
+Merchandising Notes: Handle with care
+
+Product: Canned Black Beans 15oz - Organic (SKU: SKU200126)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I2, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Canned Tuna in Water 5oz - Sugar-Free, Corn 15.25oz, Chicken Broth 32oz
+Merchandising Notes: Stack max 3 high
+
+Product: Kids Socks 6-pack Sz 4-7 - Family Size (SKU: SKU200127)
+Exact Location: Aisle S (Clothing & Apparel), Section S4, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Rain Poncho One Size, Men's Boxer Briefs 3-pack M
+Merchandising Notes: 
+
+Product: Milk Chocolate Bar 3.5oz - Travel Size (SKU: SKU200128)
+Exact Location: Aisle G (Snacks & Confectionery), Section G3, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Gummy Bears 5oz - Low-Sodium, Pretzels Twists 16oz, Graham Crackers 14.4oz
+Merchandising Notes: Face forward, label visible
+
+Product: Mechanical Pencils 5-pack - Value Size (SKU: SKU200129)
+Exact Location: Aisle W (Office & Stationery), Section W4, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Printer Paper 8.5x11 500-sheet, Tape Rolls 3-pack - XL Pack, Index Cards 3x5 200-count - Low-Sodium
+Merchandising Notes: Keep refrigerated
+
+Product: Men's White T-Shirt L - Value Size (SKU: SKU200130)
+Exact Location: Aisle S (Clothing & Apparel), Section S3, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Baseball Cap Adjustable, Women's Briefs 5-pack M, Men's White T-Shirt L
+Merchandising Notes: Keep refrigerated
+
+Product: Monopoly Classic - XL Pack (SKU: SKU200131)
+Exact Location: Aisle Q (Toys & Games), Section Q1, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Basketball Size 5 - XL Pack, Crayons 64-count - Low-Sodium, Puzzle 500-piece
+Merchandising Notes: Face forward, label visible
+
+Product: Strawberry Jam 18oz - XL Pack (SKU: SKU200132)
+Exact Location: Aisle H (Breakfast & Cereal), Section H3, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Strawberry Jam 18oz, Strawberry Jam 18oz - Decaf, Pancake Mix 32oz
+Merchandising Notes: Keep refrigerated
+
+Product: Frozen Burritos 8-pack - XL Pack (SKU: SKU200133)
+Exact Location: Aisle E (Frozen Foods), Section E2, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Frozen Peas 16oz - Low-Sodium, Edamame Shelled 16oz, Ice Cream Chocolate 1.5qt - Low-Sodium
+Merchandising Notes: Stack max 3 high
+
+Product: Rain Poncho One Size - XL Pack (SKU: SKU200134)
+Exact Location: Aisle S (Clothing & Apparel), Section S2, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Women's Yoga Pants M, Kids Socks 6-pack Sz 4-7 - Decaf
+Merchandising Notes: Handle with care
+
+Product: Chocolate Cake Slice - Sugar-Free (SKU: SKU200135)
+Exact Location: Aisle D (Bakery & Bread), Section D4, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Whole Wheat Bread 20oz - Low-Sodium, English Muffins 6-pack, Chocolate Cake Slice
+Merchandising Notes: Stack max 3 high
+
+Product: Greek Yogurt Plain 32oz - Value Size (SKU: SKU200136)
+Exact Location: Aisle B (Dairy & Eggs), Section B1, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: 2% Reduced Fat Milk 1 Gallon, Salted Butter 4 sticks, Shredded Mozzarella 2lb
+Merchandising Notes: 
+
+Product: Frozen French Fries 32oz - Sugar-Free (SKU: SKU200137)
+Exact Location: Aisle E (Frozen Foods), Section E4, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Frozen Stir Fry Vegetables 16oz - Family Size, Fish Sticks 24oz, Frozen Burritos 8-pack - Organic
+Merchandising Notes: Handle with care
+
+Product: Beef Sirloin Steak 1lb - Decaf (SKU: SKU200138)
+Exact Location: Aisle C (Meat & Seafood), Section C1, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Bacon 16oz, Boneless Chicken Breast 2lb - Travel Size, Beef Sirloin Steak 1lb - Value Size
+Merchandising Notes: Handle with care
+
+Product: Muffin Pan 12-cup - XL Pack (SKU: SKU200139)
+Exact Location: Aisle T (Home & Kitchen), Section T1, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Oven Mitts Pair - Value Size, Kitchen Knife 8in Chef, Dish Towels 4-pack
+Merchandising Notes: Face forward, label visible
+
+Product: Shredded Mozzarella 2lb - Decaf (SKU: SKU200140)
+Exact Location: Aisle B (Dairy & Eggs), Section B3, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Almond Milk Unsweetened 64oz, Oat Milk Original 64oz, Heavy Whipping Cream 1pt
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Iceberg Lettuce (head) - Decaf (SKU: SKU200141)
+Exact Location: Aisle A (Fresh Produce), Section A4, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Cherry Tomatoes 10oz - Decaf, Red Seedless Grapes 2lb - XL Pack, Baby Carrots 1lb - Family Size
+Merchandising Notes: 
+
+Product: Mixed Nuts 16oz - Travel Size (SKU: SKU200142)
+Exact Location: Aisle G (Snacks & Confectionery), Section G1, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Gummy Bears 5oz, Milk Chocolate Bar 3.5oz, Milk Chocolate Bar 3.5oz - Sugar-Free
+Merchandising Notes: Face forward, label visible
+
+Product: Sour Gummy Worms 5oz - XL Pack (SKU: SKU200143)
+Exact Location: Aisle G (Snacks & Confectionery), Section G3, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Rice Cakes 4.5oz, Popcorn Butter 3-pack, Oreo Sandwich Cookies 14.3oz - Value Size
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Wrapping Paper Roll 30sqft - Family Size (SKU: SKU200144)
+Exact Location: Aisle X (Seasonal & Holiday), Section X3, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Air Freshener Spray 8.3oz - Travel Size, Wrapping Paper Roll 30sqft, Scented Candle 8oz
+Merchandising Notes: Face forward, label visible
+
+Product: Cherry Tomatoes 10oz - Decaf (SKU: SKU200145)
+Exact Location: Aisle A (Fresh Produce), Section A4, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Zucchini (each), Iceberg Lettuce (head) - Decaf, Roma Tomatoes 2lb
+Merchandising Notes: 
+
+Product: Phone Case Universal Slim - Decaf (SKU: SKU200146)
+Exact Location: Aisle P (Electronics & Accessories), Section P3, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Extension Cord 6ft 3-outlet - Family Size, Extension Cord 6ft 3-outlet - XL Pack, Earbuds Wired 3.5mm
+Merchandising Notes: Stack max 3 high
+
+Product: 85/15 Ground Beef 1lb - Low-Sodium (SKU: SKU200147)
+Exact Location: Aisle C (Meat & Seafood), Section C2, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Boneless Chicken Breast 2lb, Chicken Thighs Bone-In 3lb - Decaf, 85/15 Ground Beef 1lb
+Merchandising Notes: Keep refrigerated
+
+Product: Baby Formula Powder 20oz - Value Size (SKU: SKU200148)
+Exact Location: Aisle L (Baby & Toddler), Section L4, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Baby Shampoo 13oz - Decaf, Diapers Size 4 52-count - Organic, Diapers Size 4 52-count - Low-Sodium
+Merchandising Notes: Face forward, label visible
+
+Product: Green Tea Bags 40-count - Family Size (SKU: SKU200149)
+Exact Location: Aisle F (Beverages), Section F3, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Apple Juice 64oz, Sports Drink Lemon 8-pack 20oz, Ground Coffee Medium Roast 30oz
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Vegetable Oil 48oz - XL Pack (SKU: SKU200150)
+Exact Location: Aisle J (Condiments & Sauces), Section J2, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Mayonnaise 30oz, Ketchup 32oz, Hot Sauce 12oz
+Merchandising Notes: Stack max 3 high
+
+Product: Frozen French Fries 32oz - Family Size (SKU: SKU200151)
+Exact Location: Aisle E (Frozen Foods), Section E3, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Frozen Stir Fry Vegetables 16oz - Organic, Frozen Stir Fry Vegetables 16oz - Sugar-Free, Frozen Mixed Vegetables 16oz
+Merchandising Notes: Face forward, label visible
+
+Product: Lightning Cable 6ft - XL Pack (SKU: SKU200152)
+Exact Location: Aisle P (Electronics & Accessories), Section P3, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Earbuds Wired 3.5mm, Phone Case Universal Slim - Decaf, Extension Cord 6ft 3-outlet - Family Size
+Merchandising Notes: Keep refrigerated
+
+Product: Boneless Chicken Breast 2lb - Travel Size (SKU: SKU200153)
+Exact Location: Aisle C (Meat & Seafood), Section C3, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Salmon Fillet 1lb, Pork Tenderloin 1.5lb - Family Size, Beef Sirloin Steak 1lb - Organic
+Merchandising Notes: 
+
+Product: Corn Tortillas 30-pack - XL Pack (SKU: SKU200154)
+Exact Location: Aisle D (Bakery & Bread), Section D1, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Corn Tortillas 30-pack - Sugar-Free, White Sandwich Bread 20oz, Blueberry Muffins 4-pack
+Merchandising Notes: Handle with care
+
+Product: BBQ Sauce Original 18oz - Family Size (SKU: SKU200155)
+Exact Location: Aisle J (Condiments & Sauces), Section J4, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Vegetable Oil 48oz - Organic, Apple Cider Vinegar 32oz, Italian Dressing 16oz
+Merchandising Notes: Keep refrigerated
+
+Product: Frozen Peas 16oz - Travel Size (SKU: SKU200156)
+Exact Location: Aisle E (Frozen Foods), Section E4, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Frozen Stir Fry Vegetables 16oz - Family Size, Frozen Stir Fry Vegetables 16oz, Fish Sticks 24oz
+Merchandising Notes: Keep refrigerated
+
+Product: Baby Lotion 8oz - Decaf (SKU: SKU200157)
+Exact Location: Aisle L (Baby & Toddler), Section L3, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Baby Formula Powder 20oz - Organic, Baby Wipes 72-count - Travel Size
+Merchandising Notes: Stack max 3 high
+
+Product: Potato Chips Original 8oz - Decaf (SKU: SKU200158)
+Exact Location: Aisle G (Snacks & Confectionery), Section G2, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Potato Chips Original 8oz - Value Size, Potato Chips Original 8oz, Tortilla Chips 13oz
+Merchandising Notes: Face forward, label visible
+
+Product: Dog Collar Adjustable M - XL Pack (SKU: SKU200159)
+Exact Location: Aisle U (Pet Supplies), Section U2, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Wet Cat Food 5.5oz (12-pack), Cat Litter Clumping 20lb, Wet Dog Food 13oz (12-pack) - Organic
+Merchandising Notes: Stack max 3 high
+
+Product: Strawberry Yogurt 6-pack - Sugar-Free (SKU: SKU200160)
+Exact Location: Aisle B (Dairy & Eggs), Section B4, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Shredded Mozzarella 2lb - XL Pack, Sour Cream 16oz - Travel Size, Sour Cream 16oz - Family Size
+Merchandising Notes: Stack max 3 high
+
+Product: Sour Cream 16oz - Travel Size (SKU: SKU200161)
+Exact Location: Aisle B (Dairy & Eggs), Section B4, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Sour Cream 16oz - Family Size, Sour Cream 16oz, Strawberry Yogurt 6-pack - Sugar-Free
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Chicken Nuggets 32oz - Travel Size (SKU: SKU200162)
+Exact Location: Aisle E (Frozen Foods), Section E1, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Pepperoni Pizza 12in, Chicken Nuggets 32oz, Edamame Shelled 16oz - Sugar-Free
+Merchandising Notes: Face forward, label visible
+
+Product: Highlighters 5-pack Assorted - Travel Size (SKU: SKU200163)
+Exact Location: Aisle W (Office & Stationery), Section W2, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Index Cards 3x5 200-count - XL Pack
+Merchandising Notes: 
+
+Product: Highlighters 5-pack Assorted - Sugar-Free (SKU: SKU200164)
+Exact Location: Aisle W (Office & Stationery), Section W3, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Composition Notebook 100-page, Scissors 8in, Highlighters 5-pack Assorted
+Merchandising Notes: Handle with care
+
+Product: Razors 4-count - Value Size (SKU: SKU200165)
+Exact Location: Aisle K (Health & Beauty), Section K2, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Sunscreen SPF50 3oz, Toothbrush Soft (2-pack) - Low-Sodium, Sunscreen SPF50 3oz - Travel Size
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Bathroom Cleaner 32oz - XL Pack (SKU: SKU200166)
+Exact Location: Aisle M (Household Cleaning), Section M3, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Sponges 6-pack, Mold & Mildew Remover 32oz, Trash Bags 33gal 20-count - Sugar-Free
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Nerf Blaster Basic - XL Pack (SKU: SKU200167)
+Exact Location: Aisle Q (Toys & Games), Section Q3, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Monopoly Classic - Family Size, UNO Card Game, Watercolor Paint Set
+Merchandising Notes: 
+
+Product: Pasta Penne 16oz - Low-Sodium (SKU: SKU200168)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I2, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Chicken Broth 32oz - Organic, Canned Tuna in Water 5oz - Sugar-Free, Canned Chickpeas 15oz
+Merchandising Notes: 
+
+Product: Monopoly Classic - Family Size (SKU: SKU200169)
+Exact Location: Aisle Q (Toys & Games), Section Q3, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Watercolor Paint Set, Nerf Blaster Basic - XL Pack, UNO Card Game
+Merchandising Notes: Face forward, label visible
+
+Product: Trash Bags 13gal 40-count - Low-Sodium (SKU: SKU200170)
+Exact Location: Aisle M (Household Cleaning), Section M1, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: All-Purpose Cleaner Spray 32oz, Trash Bags 33gal 20-count
+Merchandising Notes: Handle with care
+
+Product: White Rice Long Grain 5lb - Family Size (SKU: SKU200171)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I1, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: White Rice Long Grain 5lb, Diced Tomatoes 14.5oz - Organic, Pasta Penne 16oz - Value Size
+Merchandising Notes: Handle with care
+
+Product: Toothbrush Soft (2-pack) - Low-Sodium (SKU: SKU200172)
+Exact Location: Aisle K (Health & Beauty), Section K2, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Sunscreen SPF50 3oz - Travel Size, Sunscreen SPF50 3oz - Sugar-Free, Razors 4-count - Value Size
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Diapers Size 4 52-count - Organic (SKU: SKU200173)
+Exact Location: Aisle L (Baby & Toddler), Section L4, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Baby Formula Powder 20oz - Value Size, Baby Shampoo 13oz - Decaf, Diapers Size 4 52-count - Low-Sodium
+Merchandising Notes: Handle with care
+
+Product: Feminine Pads Regular 36-count - Family Size (SKU: SKU200174)
+Exact Location: Aisle K (Health & Beauty), Section K4, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Tampons Regular 36-count - Travel Size, Sunscreen SPF50 3oz - Travel Size, Hand Lotion 7oz - Organic
+Merchandising Notes: Stack max 3 high
+
+Product: Instant Oatmeal Variety 10-pack - Decaf (SKU: SKU200175)
+Exact Location: Aisle H (Breakfast & Cereal), Section H4, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Pancake Mix 32oz - Family Size, Granola Oats & Honey 16oz, Raisin Bran 20oz - Family Size
+Merchandising Notes: Keep refrigerated
+
+Product: Scented Candle 8oz - XL Pack (SKU: SKU200176)
+Exact Location: Aisle X (Seasonal & Holiday), Section X3, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Scented Candle 8oz, Air Freshener Spray 8.3oz - Travel Size, Wrapping Paper Roll 30sqft - Family Size
+Merchandising Notes: 
+
+Product: Playing Cards Standard Deck - Decaf (SKU: SKU200177)
+Exact Location: Aisle Q (Toys & Games), Section Q2, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Nerf Blaster Basic, Monopoly Classic, Scrabble Board Game - Travel Size
+Merchandising Notes: 
+
+Product: Toothpaste Whitening 4oz - Value Size (SKU: SKU200178)
+Exact Location: Aisle K (Health & Beauty), Section K3, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Conditioner Strengthening 12oz, Tampons Regular 36-count, Mouthwash Fresh 1lt
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Chicken Nuggets 32oz - Value Size (SKU: SKU200179)
+Exact Location: Aisle E (Frozen Foods), Section E3, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Frozen Corn 16oz, Frozen Mixed Vegetables 16oz, Frozen Waffles 10-count - Low-Sodium
+Merchandising Notes: Handle with care
+
+Product: Gummy Bears 5oz - Low-Sodium (SKU: SKU200180)
+Exact Location: Aisle G (Snacks & Confectionery), Section G3, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Milk Chocolate Bar 3.5oz - Travel Size, Sour Gummy Worms 5oz - XL Pack, Crackers Original 13.7oz
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Highlighters 5-pack Assorted - Family Size (SKU: SKU200181)
+Exact Location: Aisle W (Office & Stationery), Section W3, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Ballpoint Pens Blue 10-pack, Composition Notebook 100-page, Highlighters 5-pack Assorted
+Merchandising Notes: Keep refrigerated
+
+Product: Ground Coffee Medium Roast 30oz - Low-Sodium (SKU: SKU200182)
+Exact Location: Aisle F (Beverages), Section F3, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Diet Cola 12-pack 12oz - XL Pack, Apple Juice 64oz, Cola Soda 12-pack 12oz
+Merchandising Notes: Face forward, label visible
+
+Product: Sunscreen SPF50 3oz - Family Size (SKU: SKU200183)
+Exact Location: Aisle K (Health & Beauty), Section K1, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Body Wash Lavender 18oz, Shaving Cream 7oz
+Merchandising Notes: Stack max 3 high
+
+Product: Feminine Pads Regular 36-count - XL Pack (SKU: SKU200184)
+Exact Location: Aisle K (Health & Beauty), Section K2, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Sunscreen SPF50 3oz, Feminine Pads Regular 36-count, Toothbrush Soft (2-pack) - Low-Sodium
+Merchandising Notes: Keep refrigerated
+
+Product: Wet Dog Food 13oz (12-pack) - Travel Size (SKU: SKU200185)
+Exact Location: Aisle U (Pet Supplies), Section U4, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Pet Waste Bags 100-count - Organic
+Merchandising Notes: Keep refrigerated
+
+Product: Pasta Spaghetti 16oz - XL Pack (SKU: SKU200186)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I1, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: White Rice Long Grain 5lb - Family Size, Diced Tomatoes 14.5oz - Organic, Chicken Noodle Soup 10.75oz - Sugar-Free
+Merchandising Notes: Keep refrigerated
+
+Product: Diapers Size 4 52-count - Low-Sodium (SKU: SKU200187)
+Exact Location: Aisle L (Baby & Toddler), Section L4, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Diapers Size 4 52-count - Organic, Baby Formula Powder 20oz, Baby Food Stage 2 4oz (6-pack) - Sugar-Free
+Merchandising Notes: Face forward, label visible
+
+Product: Frozen Burritos 8-pack - Organic (SKU: SKU200188)
+Exact Location: Aisle E (Frozen Foods), Section E4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Frozen Peas 16oz - Travel Size, Fish Sticks 24oz, Frozen Stir Fry Vegetables 16oz - Family Size
+Merchandising Notes: Stack max 3 high
+
+Product: Coconut Water 1lt - Family Size (SKU: SKU200189)
+Exact Location: Aisle F (Beverages), Section F3, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Energy Drink 4-pack 16oz, Apple Juice 64oz, Sports Drink Lemon 8-pack 20oz
+Merchandising Notes: Keep refrigerated
+
+Product: Oreo Sandwich Cookies 14.3oz - Organic (SKU: SKU200190)
+Exact Location: Aisle G (Snacks & Confectionery), Section G3, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Gummy Bears 5oz - Low-Sodium, Popcorn Butter 3-pack, Oreo Sandwich Cookies 14.3oz - Value Size
+Merchandising Notes: Face forward, label visible
+
+Product: Oat Circles 12oz - Family Size (SKU: SKU200191)
+Exact Location: Aisle H (Breakfast & Cereal), Section H3, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Strawberry Jam 18oz, Strawberry Jam 18oz - XL Pack, Frosted Flakes 19.2oz - Organic
+Merchandising Notes: 
+
+Product: Frozen Peas 16oz - Low-Sodium (SKU: SKU200192)
+Exact Location: Aisle E (Frozen Foods), Section E2, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Edamame Shelled 16oz, Ice Cream Chocolate 1.5qt - Low-Sodium, Frozen Burritos 8-pack - XL Pack
+Merchandising Notes: Face forward, label visible
+
+Product: Sweet Corn (each) - Sugar-Free (SKU: SKU200193)
+Exact Location: Aisle A (Fresh Produce), Section A4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Iceberg Lettuce (head) - Low-Sodium, Zucchini (each), Pineapple (whole) - Sugar-Free
+Merchandising Notes: Stack max 3 high
+
+Product: Wet Dog Food 13oz (12-pack) - Organic (SKU: SKU200194)
+Exact Location: Aisle U (Pet Supplies), Section U3, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Dog Collar Adjustable M, Cat Treats 2.1oz, Dry Dog Food Adult 15lb
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Blueberry Muffins 4-pack - Organic (SKU: SKU200195)
+Exact Location: Aisle D (Bakery & Bread), Section D2, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Corn Tortillas 30-pack, Croissants 4-pack, Flour Tortillas 10-pack
+Merchandising Notes: 
+
+Product: 2% Reduced Fat Milk 1 Gallon - Value Size (SKU: SKU200196)
+Exact Location: Aisle B (Dairy & Eggs), Section B2, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Sour Cream 16oz - Value Size, Sliced American Cheese 16oz - XL Pack, Cage-Free Eggs 18-count
+Merchandising Notes: Keep refrigerated
+
+Product: Balloons 15-count - Travel Size (SKU: SKU200197)
+Exact Location: Aisle X (Seasonal & Holiday), Section X4, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Balloons 15-count, Balloons 15-count - Decaf, Wrapping Paper Roll 30sqft - Family Size
+Merchandising Notes: Handle with care
+
+Product: Milk Chocolate Bar 3.5oz - Sugar-Free (SKU: SKU200198)
+Exact Location: Aisle G (Snacks & Confectionery), Section G1, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Milk Chocolate Bar 3.5oz, Mixed Nuts 16oz - Travel Size, Gummy Bears 5oz
+Merchandising Notes: Keep refrigerated
+
+Product: Index Cards 3x5 200-count - XL Pack (SKU: SKU200199)
+Exact Location: Aisle W (Office & Stationery), Section W2, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Highlighters 5-pack Assorted - Travel Size
+Merchandising Notes: Face forward, label visible
+
+Product: Extension Cord 6ft 3-outlet - Family Size (SKU: SKU200200)
+Exact Location: Aisle P (Electronics & Accessories), Section P3, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Phone Case Universal Slim - Decaf, Lightning Cable 6ft - Travel Size, Lightning Cable 6ft - XL Pack
+Merchandising Notes: Stack max 3 high
+
+Product: Strawberries 1lb - Sugar-Free (SKU: SKU200201)
+Exact Location: Aisle A (Fresh Produce), Section A3, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Garlic Bulb (each), Garlic Bulb (each) - Decaf, Iceberg Lettuce (head) - Organic
+Merchandising Notes: Keep refrigerated
+
+Product: Wrapping Paper Roll 30sqft - Family Size (SKU: SKU200202)
+Exact Location: Aisle X (Seasonal & Holiday), Section X4, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Birthday Candles 24-count - Organic, Balloons 15-count - Decaf, Balloons 15-count - Travel Size
+Merchandising Notes: 
+
+Product: Oreo Sandwich Cookies 14.3oz - Value Size (SKU: SKU200203)
+Exact Location: Aisle G (Snacks & Confectionery), Section G3, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Graham Crackers 14.4oz, Rice Cakes 4.5oz, Gummy Bears 5oz - Low-Sodium
+Merchandising Notes: Handle with care
+
+Product: Mango (each) - Decaf (SKU: SKU200204)
+Exact Location: Aisle A (Fresh Produce), Section A2, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Cucumber (each), Blueberries 6oz - Value Size, Romaine Hearts 3-pack - Organic
+Merchandising Notes: Face forward, label visible
+
+Product: Crayons 64-count - Low-Sodium (SKU: SKU200205)
+Exact Location: Aisle Q (Toys & Games), Section Q1, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Nerf Blaster Basic - Travel Size, Scrabble Board Game, Crayons 64-count - Travel Size
+Merchandising Notes: Face forward, label visible
+
+Product: Frozen Stir Fry Vegetables 16oz - Family Size (SKU: SKU200206)
+Exact Location: Aisle E (Frozen Foods), Section E4, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Frozen French Fries 32oz - Sugar-Free, Frozen Stir Fry Vegetables 16oz - Sugar-Free, Frozen Burritos 8-pack - Organic
+Merchandising Notes: 
+
+Product: Women's Briefs 5-pack M - Sugar-Free (SKU: SKU200207)
+Exact Location: Aisle S (Clothing & Apparel), Section S1, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Kids Socks 6-pack Sz 4-7
+Merchandising Notes: Keep refrigerated
+
+Product: Paper Towels Double Roll 6-pack - Organic (SKU: SKU200208)
+Exact Location: Aisle O (Paper & Disposables), Section O2, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Quart Zip Bags 40-count - Low-Sodium, Plastic Wrap 200sqft - Value Size
+Merchandising Notes: Handle with care
+
+Product: Cold Relief DayTime Liquid 12oz - Sugar-Free (SKU: SKU200209)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V3, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Vitamin C 1000mg 60-count, Bandage Assorted 80-count - Value Size
+Merchandising Notes: 
+
+Product: Peanut Butter Creamy 28oz - Organic (SKU: SKU200210)
+Exact Location: Aisle H (Breakfast & Cereal), Section H3, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Strawberry Jam 18oz - XL Pack, Raisin Bran 20oz, Pancake Mix 32oz
+Merchandising Notes: Keep refrigerated
+
+Product: Balloons 15-count - Family Size (SKU: SKU200211)
+Exact Location: Aisle X (Seasonal & Holiday), Section X2, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Air Freshener Spray 8.3oz, Gift Bags Assorted 4-pack - Organic
+Merchandising Notes: Stack max 3 high
+
+Product: Ground Turkey 93/7 1lb - Family Size (SKU: SKU200212)
+Exact Location: Aisle C (Meat & Seafood), Section C1, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Beef Sirloin Steak 1lb - Decaf, Chicken Thighs Bone-In 3lb, Beef Sirloin Steak 1lb - Value Size
+Merchandising Notes: Handle with care
+
+Product: Birthday Candles 24-count - Organic (SKU: SKU200213)
+Exact Location: Aisle X (Seasonal & Holiday), Section X4, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Balloons 15-count - Travel Size, Balloons 15-count, Storage Bins 3-pack Clear
+Merchandising Notes: Handle with care
+
+Product: Frosted Flakes 19.2oz - Family Size (SKU: SKU200214)
+Exact Location: Aisle H (Breakfast & Cereal), Section H1, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Corn Flakes 18oz, Oat Circles 12oz, Maple Syrup 24oz
+Merchandising Notes: Handle with care
+
+Product: Frozen Waffles 10-count - Low-Sodium (SKU: SKU200215)
+Exact Location: Aisle E (Frozen Foods), Section E3, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Frozen Peas 16oz, Frozen Stir Fry Vegetables 16oz - Organic, Frozen Waffles 10-count
+Merchandising Notes: Handle with care
+
+Product: LED Light Bulbs A19 4-pack - Sugar-Free (SKU: SKU200216)
+Exact Location: Aisle P (Electronics & Accessories), Section P1, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Extension Cord 6ft 3-outlet, USB-C Charging Cable 6ft - Family Size, Lightning Cable 6ft
+Merchandising Notes: Face forward, label visible
+
+Product: Resistance Bands Set 5-pack - Decaf (SKU: SKU200217)
+Exact Location: Aisle R (Sports & Outdoors), Section R1, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Resistance Bands Set 5-pack, Camping Lantern LED
+Merchandising Notes: 
+
+Product: Baby Carrots 1lb - Sugar-Free (SKU: SKU200218)
+Exact Location: Aisle A (Fresh Produce), Section A4, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Iceberg Lettuce (head) - Decaf, Roma Tomatoes 2lb, Sweet Corn (each) - Sugar-Free
+Merchandising Notes: Stack max 3 high
+
+Product: USB-C Charging Cable 6ft - Family Size (SKU: SKU200219)
+Exact Location: Aisle P (Electronics & Accessories), Section P1, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: LED Light Bulbs A19 4-pack, Extension Cord 6ft 3-outlet, Lightning Cable 6ft
+Merchandising Notes: Handle with care
+
+Product: Liquid Laundry Detergent 92oz - Value Size (SKU: SKU200220)
+Exact Location: Aisle N (Laundry), Section N2, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Stain Remover Spray 22oz
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Red Seedless Grapes 2lb - XL Pack (SKU: SKU200221)
+Exact Location: Aisle A (Fresh Produce), Section A4, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Baby Carrots 1lb - Sugar-Free, Zucchini (each), Baby Carrots 1lb - Family Size
+Merchandising Notes: Stack max 3 high
+
+Product: Diced Tomatoes 14.5oz - Organic (SKU: SKU200222)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I1, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: White Rice Long Grain 5lb, Chicken Noodle Soup 10.75oz - Travel Size, Canned Tuna in Water 5oz
+Merchandising Notes: Keep refrigerated
+
+Product: Basketball Size 5 - XL Pack (SKU: SKU200223)
+Exact Location: Aisle Q (Toys & Games), Section Q1, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Nerf Blaster Basic - Travel Size, Crayons 64-count - Low-Sodium, Monopoly Classic - XL Pack
+Merchandising Notes: 
+
+Product: Cherry Tomatoes 10oz - Organic (SKU: SKU200224)
+Exact Location: Aisle A (Fresh Produce), Section A2, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Bananas (bunch ~5), Blueberries 6oz - Value Size, Red Seedless Grapes 2lb
+Merchandising Notes: Handle with care
+
+Product: Frozen Stir Fry Vegetables 16oz - Sugar-Free (SKU: SKU200225)
+Exact Location: Aisle E (Frozen Foods), Section E3, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Frozen Stir Fry Vegetables 16oz - Organic, Ice Cream Chocolate 1.5qt, Ice Cream Vanilla 1.5qt - Decaf
+Merchandising Notes: Face forward, label visible
+
+Product: Canned Tuna in Water 5oz - Sugar-Free (SKU: SKU200226)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I2, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Chicken Broth 32oz - Organic, Corn 15.25oz, Tomato Sauce 15oz
+Merchandising Notes: Handle with care
+
+Product: Sunscreen SPF50 3oz - Sugar-Free (SKU: SKU200227)
+Exact Location: Aisle K (Health & Beauty), Section K2, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Feminine Pads Regular 36-count, Toothbrush Soft (2-pack) - Low-Sodium, Feminine Pads Regular 36-count - XL Pack
+Merchandising Notes: Face forward, label visible
+
+Product: Ibuprofen 200mg 100-count - XL Pack (SKU: SKU200228)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V4, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Thermometer Digital - Family Size, Cold Relief DayTime Liquid 12oz, Thermometer Digital - Value Size
+Merchandising Notes: 
+
+Product: Nerf Blaster Basic - Low-Sodium (SKU: SKU200229)
+Exact Location: Aisle Q (Toys & Games), Section Q4, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: LEGO Classic 200-piece set, Crayons 64-count, Basketball Size 5
+Merchandising Notes: Face forward, label visible
+
+Product: Chicken Noodle Soup 10.75oz - Sugar-Free (SKU: SKU200230)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I1, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: White Rice Long Grain 5lb - Family Size, Mac & Cheese 7.25oz, Diced Tomatoes 14.5oz - Organic
+Merchandising Notes: 
+
+Product: Nerf Blaster Basic - Travel Size (SKU: SKU200231)
+Exact Location: Aisle Q (Toys & Games), Section Q1, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Crayons 64-count - Low-Sodium, Basketball Size 5 - XL Pack, Puzzle 500-piece
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Aluminum Foil 75sqft - Value Size (SKU: SKU200232)
+Exact Location: Aisle O (Paper & Disposables), Section O3, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Facial Tissues 3-box pack, Paper Towels Double Roll 6-pack, Plastic Cups 16oz 50-count
+Merchandising Notes: Handle with care
+
+Product: Zucchini (each) - Value Size (SKU: SKU200233)
+Exact Location: Aisle A (Fresh Produce), Section A2, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Avocado (each) - Sugar-Free, Cucumber (each), Iceberg Lettuce (head)
+Merchandising Notes: Handle with care
+
+Product: Oat Circles 12oz - Decaf (SKU: SKU200234)
+Exact Location: Aisle H (Breakfast & Cereal), Section H2, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Corn Flakes 18oz - Decaf, Frosted Flakes 19.2oz, Peanut Butter Creamy 28oz
+Merchandising Notes: 
+
+Product: Wet Dog Food 13oz (12-pack) - Organic (SKU: SKU200235)
+Exact Location: Aisle U (Pet Supplies), Section U2, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Dog Treats Biscuits 16oz - Travel Size, Cat Litter Clumping 20lb, Dog Collar Adjustable M - XL Pack
+Merchandising Notes: Stack max 3 high
+
+Product: Conditioner Strengthening 12oz - Low-Sodium (SKU: SKU200236)
+Exact Location: Aisle K (Health & Beauty), Section K3, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Toothbrush Soft (2-pack), Hand Lotion 7oz - Travel Size, Antiperspirant Spray 4oz
+Merchandising Notes: Face forward, label visible
+
+Product: Thermometer Digital - Family Size (SKU: SKU200237)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V4, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Cold Relief DayTime Liquid 12oz, Thermometer Digital - Value Size, Bandage Assorted 80-count - Low-Sodium
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Corn Flakes 18oz - Decaf (SKU: SKU200238)
+Exact Location: Aisle H (Breakfast & Cereal), Section H2, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Oat Circles 12oz - Decaf, Peanut Butter Creamy 28oz, Frosted Flakes 19.2oz
+Merchandising Notes: Handle with care
+
+Product: Pineapple (whole) - Sugar-Free (SKU: SKU200239)
+Exact Location: Aisle A (Fresh Produce), Section A4, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Roma Tomatoes 2lb, Sweet Corn (each) - Sugar-Free, Red Seedless Grapes 2lb - XL Pack
+Merchandising Notes: Face forward, label visible
+
+Product: Lemon-Lime Soda 12-pack 12oz - Organic (SKU: SKU200240)
+Exact Location: Aisle F (Beverages), Section F2, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Black Tea Bags 100-count, Diet Cola 12-pack 12oz, Sports Drink Lemon 8-pack 20oz - Decaf
+Merchandising Notes: Keep refrigerated
+
+Product: Balloons 15-count - Decaf (SKU: SKU200241)
+Exact Location: Aisle X (Seasonal & Holiday), Section X4, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Wrapping Paper Roll 30sqft - Family Size, Balloons 15-count, Birthday Candles 24-count - Organic
+Merchandising Notes: Keep refrigerated
+
+Product: Sports Drink Lemon 8-pack 20oz - Decaf (SKU: SKU200242)
+Exact Location: Aisle F (Beverages), Section F2, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Black Tea Bags 100-count, Lemon-Lime Soda 12-pack 12oz, Lemon-Lime Soda 12-pack 12oz - Organic
+Merchandising Notes: Face forward, label visible
+
+Product: Spiral Notebook College Ruled - XL Pack (SKU: SKU200243)
+Exact Location: Aisle W (Office & Stationery), Section W1, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Sticky Notes 3x3in 12-pack, Mechanical Pencils 5-pack, Tape Rolls 3-pack
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Scrabble Board Game - Travel Size (SKU: SKU200244)
+Exact Location: Aisle Q (Toys & Games), Section Q2, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Playing Cards Standard Deck - Decaf, Crayons 64-count - Low-Sodium, UNO Card Game - Family Size
+Merchandising Notes: Handle with care
+
+Product: Pancake Mix 32oz - Family Size (SKU: SKU200245)
+Exact Location: Aisle H (Breakfast & Cereal), Section H4, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Granola Oats & Honey 16oz, Raisin Bran 20oz - Family Size, Instant Oatmeal Variety 10-pack
+Merchandising Notes: Face forward, label visible
+
+Product: Pineapple (whole) - XL Pack (SKU: SKU200246)
+Exact Location: Aisle A (Fresh Produce), Section A3, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Sweet Corn (each), Garlic Bulb (each), Garlic Bulb (each) - Decaf
+Merchandising Notes: Handle with care
+
+Product: Pineapple (whole) - Low-Sodium (SKU: SKU200247)
+Exact Location: Aisle A (Fresh Produce), Section A1, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Russet Potatoes 5lb, Romaine Hearts 3-pack, Watermelon (whole)
+Merchandising Notes: Face forward, label visible
+
+Product: White Rice Long Grain 5lb - Organic (SKU: SKU200248)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I3, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Diced Tomatoes 14.5oz - Low-Sodium
+Merchandising Notes: Handle with care
+
+Product: Chicken Thighs Bone-In 3lb - Decaf (SKU: SKU200249)
+Exact Location: Aisle C (Meat & Seafood), Section C2, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: 85/15 Ground Beef 1lb, Ground Turkey 93/7 1lb, 85/15 Ground Beef 1lb - Low-Sodium
+Merchandising Notes: Face forward, label visible
+
+Product: Ground Turkey 93/7 1lb - XL Pack (SKU: SKU200250)
+Exact Location: Aisle C (Meat & Seafood), Section C4, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: 85/15 Ground Beef 1lb - Decaf, Shrimp 31-40ct 1lb, Tilapia Fillets 1lb
+Merchandising Notes: 
+
+Product: Strawberries 1lb - Travel Size (SKU: SKU200251)
+Exact Location: Aisle A (Fresh Produce), Section A3, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Pineapple (whole), Iceberg Lettuce (head) - Low-Sodium, Blueberries 6oz
+Merchandising Notes: Face forward, label visible
+
+Product: Tape Rolls 3-pack - XL Pack (SKU: SKU200252)
+Exact Location: Aisle W (Office & Stationery), Section W4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Mechanical Pencils 5-pack - Value Size, Index Cards 3x5 200-count - Low-Sodium, Mechanical Pencils 5-pack - Travel Size
+Merchandising Notes: Handle with care
+
+Product: Romaine Hearts 3-pack - Value Size (SKU: SKU200253)
+Exact Location: Aisle A (Fresh Produce), Section A1, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Romaine Hearts 3-pack, Watermelon (whole), Pineapple (whole) - Low-Sodium
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Baby Wipes 72-count - XL Pack (SKU: SKU200254)
+Exact Location: Aisle L (Baby & Toddler), Section L4, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Baby Food Stage 2 4oz (6-pack) - Sugar-Free, Baby Formula Powder 20oz, Baby Shampoo 13oz - Decaf
+Merchandising Notes: Face forward, label visible
+
+Product: Sunscreen SPF50 3oz - Travel Size (SKU: SKU200255)
+Exact Location: Aisle K (Health & Beauty), Section K4, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Bar Soap 6-pack 3.75oz, Toothpaste Whitening 4oz, Tampons Regular 36-count - Travel Size
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Lightning Cable 6ft - Travel Size (SKU: SKU200256)
+Exact Location: Aisle P (Electronics & Accessories), Section P3, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Extension Cord 6ft 3-outlet - XL Pack, Phone Case Universal Slim - Decaf, Earbuds Wired 3.5mm
+Merchandising Notes: 
+
+Product: Whole Wheat Bread 20oz - Low-Sodium (SKU: SKU200257)
+Exact Location: Aisle D (Bakery & Bread), Section D4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Chocolate Cake Slice, Bagels 6-pack, English Muffins 6-pack
+Merchandising Notes: Keep refrigerated
+
+Product: Garlic Bulb (each) - Sugar-Free (SKU: SKU200258)
+Exact Location: Aisle A (Fresh Produce), Section A3, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Iceberg Lettuce (head) - Low-Sodium, Iceberg Lettuce (head) - Organic, Blueberries 6oz
+Merchandising Notes: Face forward, label visible
+
+Product: Insect Repellent Spray 4oz - Travel Size (SKU: SKU200259)
+Exact Location: Aisle R (Sports & Outdoors), Section R3, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Insect Repellent Spray 4oz, Yoga Mat 68in, Sunglasses UV400 - Travel Size
+Merchandising Notes: Handle with care
+
+Product: Sour Cream 16oz - Value Size (SKU: SKU200260)
+Exact Location: Aisle B (Dairy & Eggs), Section B2, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Sliced American Cheese 16oz, Cream Cheese 8oz, 2% Reduced Fat Milk 1 Gallon - Value Size
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Baby Shampoo 13oz - Decaf (SKU: SKU200261)
+Exact Location: Aisle L (Baby & Toddler), Section L4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Diapers Size 4 52-count - Low-Sodium, Baby Wipes 72-count - XL Pack, Baby Formula Powder 20oz - Value Size
+Merchandising Notes: 
+
+Product: Italian Dressing 16oz - Value Size (SKU: SKU200262)
+Exact Location: Aisle J (Condiments & Sauces), Section J4, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Ranch Dressing 16oz, BBQ Sauce Original 18oz - Family Size, Apple Cider Vinegar 32oz
+Merchandising Notes: 
+
+Product: Russet Potatoes 5lb - Value Size (SKU: SKU200263)
+Exact Location: Aisle A (Fresh Produce), Section A3, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Iceberg Lettuce (head) - Organic, Strawberries 1lb - Travel Size, Strawberries 1lb - Sugar-Free
+Merchandising Notes: Face forward, label visible
+
+Product: Avocado (each) - Sugar-Free (SKU: SKU200264)
+Exact Location: Aisle A (Fresh Produce), Section A2, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Red Seedless Grapes 2lb, Baby Carrots 1lb, Strawberries 1lb
+Merchandising Notes: 
+
+Product: AAA Batteries 20-pack - Travel Size (SKU: SKU200265)
+Exact Location: Aisle P (Electronics & Accessories), Section P2, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: AA Batteries 20-pack, Bluetooth Speaker Portable, AAA Batteries 20-pack
+Merchandising Notes: Face forward, label visible
+
+Product: Green Tea Bags 40-count - Low-Sodium (SKU: SKU200266)
+Exact Location: Aisle F (Beverages), Section F1, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Apple Juice 64oz - Sugar-Free, Green Tea Bags 40-count
+Merchandising Notes: Keep refrigerated
+
+Product: Chicken Broth 32oz - Organic (SKU: SKU200267)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I2, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Canned Black Beans 15oz - Low-Sodium, Pasta Penne 16oz - Low-Sodium, Tomato Sauce 15oz
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Croissants 4-pack - Travel Size (SKU: SKU200268)
+Exact Location: Aisle D (Bakery & Bread), Section D4, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Bagels 6-pack, Chocolate Cake Slice - Sugar-Free, Chocolate Cake Slice
+Merchandising Notes: 
+
+Product: Kids Socks 6-pack Sz 4-7 - Decaf (SKU: SKU200269)
+Exact Location: Aisle S (Clothing & Apparel), Section S2, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Rain Poncho One Size - XL Pack, Women's Yoga Pants M
+Merchandising Notes: Face forward, label visible
+
+Product: Baby Formula Powder 20oz - Organic (SKU: SKU200270)
+Exact Location: Aisle L (Baby & Toddler), Section L3, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Baby Wipes 72-count - Travel Size, Baby Lotion 8oz - Decaf
+Merchandising Notes: Handle with care
+
+Product: Pet Waste Bags 100-count - Organic (SKU: SKU200271)
+Exact Location: Aisle U (Pet Supplies), Section U4, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Wet Dog Food 13oz (12-pack) - Travel Size
+Merchandising Notes: 
+
+Product: Corn Tortillas 30-pack - Organic (SKU: SKU200272)
+Exact Location: Aisle D (Bakery & Bread), Section D1, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Corn Tortillas 30-pack - Sugar-Free, White Sandwich Bread 20oz, Blueberry Muffins 4-pack
+Merchandising Notes: Face forward, label visible
+
+Product: Raisin Bran 20oz - Family Size (SKU: SKU200273)
+Exact Location: Aisle H (Breakfast & Cereal), Section H4, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Granola Oats & Honey 16oz, Instant Oatmeal Variety 10-pack, Instant Oatmeal Variety 10-pack - Decaf
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Frozen Stir Fry Vegetables 16oz - Sugar-Free (SKU: SKU200274)
+Exact Location: Aisle E (Frozen Foods), Section E4, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Frozen Stir Fry Vegetables 16oz - Family Size, Frozen Peas 16oz - Travel Size, Frozen Burritos 8-pack - Organic
+Merchandising Notes: Stack max 3 high
+
+Product: Sour Cream 16oz - Family Size (SKU: SKU200275)
+Exact Location: Aisle B (Dairy & Eggs), Section B4, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Whole Milk 1 Gallon, Sour Cream 16oz, Shredded Mozzarella 2lb - XL Pack
+Merchandising Notes: Handle with care
+
+Product: Paper Towels Double Roll 6-pack - Value Size (SKU: SKU200276)
+Exact Location: Aisle O (Paper & Disposables), Section O3, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Aluminum Foil 75sqft - Value Size, Gallon Zip Bags 30-count, Plastic Cups 16oz 50-count
+Merchandising Notes: Handle with care
+
+Product: Iceberg Lettuce (head) - Low-Sodium (SKU: SKU200277)
+Exact Location: Aisle A (Fresh Produce), Section A4, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Avocado (each), Baby Carrots 1lb - Family Size, Cherry Tomatoes 10oz
+Merchandising Notes: 
+
+Product: Blueberries 6oz - Value Size (SKU: SKU200278)
+Exact Location: Aisle A (Fresh Produce), Section A2, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Romaine Hearts 3-pack - Organic, Baby Carrots 1lb, Celery Stalks
+Merchandising Notes: Face forward, label visible
+
+Product: Quart Zip Bags 40-count - Low-Sodium (SKU: SKU200279)
+Exact Location: Aisle O (Paper & Disposables), Section O2, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Plastic Wrap 200sqft - Value Size, Paper Towels Double Roll 6-pack - Organic
+Merchandising Notes: Face forward, label visible
+
+Product: Spinach 5oz bag - Family Size (SKU: SKU200280)
+Exact Location: Aisle A (Fresh Produce), Section A1, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Watermelon (whole), Organic Fuji Apples 3lb Bag, Cherry Tomatoes 10oz - XL Pack
+Merchandising Notes: Handle with care
+
+Product: Liquid Laundry Detergent 92oz - Sugar-Free (SKU: SKU200281)
+Exact Location: Aisle N (Laundry), Section N4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Color-Safe Bleach 64oz, Fabric Softener 51oz, Laundry Pods 42-count
+Merchandising Notes: 
+
+Product: Oven Mitts Pair - Value Size (SKU: SKU200282)
+Exact Location: Aisle T (Home & Kitchen), Section T1, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Muffin Pan 12-cup - XL Pack, Kitchen Knife 8in Chef, Measuring Spoons Set 6-piece
+Merchandising Notes: Handle with care
+
+Product: Iceberg Lettuce (head) - Value Size (SKU: SKU200283)
+Exact Location: Aisle A (Fresh Produce), Section A2, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Romaine Hearts 3-pack - Organic, Baby Carrots 1lb, Red Seedless Grapes 2lb
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Mechanical Pencils 5-pack - Travel Size (SKU: SKU200284)
+Exact Location: Aisle W (Office & Stationery), Section W4, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Tape Rolls 3-pack - XL Pack, Ballpoint Pens Blue 10-pack - Sugar-Free, Printer Paper 8.5x11 500-sheet
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Crayons 64-count - Travel Size (SKU: SKU200285)
+Exact Location: Aisle Q (Toys & Games), Section Q1, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Crayons 64-count - Low-Sodium, Scrabble Board Game, Puzzle 500-piece
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Non-stick Frying Pan 10in - Low-Sodium (SKU: SKU200286)
+Exact Location: Aisle T (Home & Kitchen), Section T3, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Measuring Cups Set 4-piece, Oven Mitts Pair - Travel Size, Mixing Bowls 3-piece Set
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Bagels 6-pack - Travel Size (SKU: SKU200287)
+Exact Location: Aisle D (Bakery & Bread), Section D3, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: None
+Merchandising Notes: 
+
+Product: Tape Rolls 3-pack - Decaf (SKU: SKU200288)
+Exact Location: Aisle W (Office & Stationery), Section W1, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Printer Paper 8.5x11 500-sheet - Value Size, Sticky Notes 3x3in 12-pack, Mechanical Pencils 5-pack
+Merchandising Notes: 
+
+Product: Fabric Softener 51oz - Family Size (SKU: SKU200289)
+Exact Location: Aisle N (Laundry), Section N3, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Dryer Sheets 105-count, Liquid Laundry Detergent 92oz
+Merchandising Notes: Face forward, label visible
+
+Product: Ice Cream Vanilla 1.5qt - Decaf (SKU: SKU200290)
+Exact Location: Aisle E (Frozen Foods), Section E3, Lower-Middle Shelf (2)
+Facing Count: 4
+Placed Adjacent To: Frozen Burritos 8-pack, Cheese Pizza 12in, Chicken Nuggets 32oz - Value Size
+Merchandising Notes: 
+
+Product: Bandage Assorted 80-count - Low-Sodium (SKU: SKU200291)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V4, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Cough Drops Honey Lemon 30-count, Thermometer Digital - Value Size, Bandage Assorted 80-count
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Dog Treats Biscuits 16oz - Travel Size (SKU: SKU200292)
+Exact Location: Aisle U (Pet Supplies), Section U2, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Dog Collar Adjustable M - XL Pack, Cat Litter Clumping 20lb, Wet Cat Food 5.5oz (12-pack)
+Merchandising Notes: Handle with care
+
+Product: Non-stick Frying Pan 10in - XL Pack (SKU: SKU200293)
+Exact Location: Aisle T (Home & Kitchen), Section T2, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Baking Sheet 18x13in, Colander 5qt - Decaf, Oven Mitts Pair
+Merchandising Notes: Keep refrigerated
+
+Product: Lightning Cable 6ft - Family Size (SKU: SKU200294)
+Exact Location: Aisle P (Electronics & Accessories), Section P4, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: Phone Case Universal Slim, USB-C Charging Cable 6ft, Power Strip 6-outlet
+Merchandising Notes: Keep refrigerated
+
+Product: Green Tea Bags 40-count - Value Size (SKU: SKU200295)
+Exact Location: Aisle F (Beverages), Section F3, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Coconut Water 1lt - Family Size, Ground Coffee Medium Roast 30oz, Green Tea Bags 40-count - Family Size
+Merchandising Notes: Handle with care
+
+Product: Vegetable Oil 48oz - Organic (SKU: SKU200296)
+Exact Location: Aisle J (Condiments & Sauces), Section J4, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Italian Dressing 16oz, Italian Dressing 16oz - Value Size, BBQ Sauce Original 18oz - Family Size
+Merchandising Notes: Stack max 3 high
+
+Product: Corn Tortillas 30-pack - Sugar-Free (SKU: SKU200297)
+Exact Location: Aisle D (Bakery & Bread), Section D1, Top Shelf (4)
+Facing Count: 4
+Placed Adjacent To: White Sandwich Bread 20oz, Corn Tortillas 30-pack - XL Pack, Corn Tortillas 30-pack - Organic
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Gift Bags Assorted 4-pack - Organic (SKU: SKU200298)
+Exact Location: Aisle X (Seasonal & Holiday), Section X2, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Air Freshener Spray 8.3oz, Balloons 15-count - Family Size
+Merchandising Notes: 
+
+Product: Baby Carrots 1lb - Family Size (SKU: SKU200299)
+Exact Location: Aisle A (Fresh Produce), Section A4, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Zucchini (each), Avocado (each), Cherry Tomatoes 10oz - Decaf
+Merchandising Notes: 
+
+Product: Canned Tuna in Water 5oz - Organic (SKU: SKU200300)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I4, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Pasta Penne 16oz, Canned Black Beans 15oz, Diced Tomatoes 14.5oz
+Merchandising Notes: Stack max 3 high
+
+Product: Frozen Stir Fry Vegetables 16oz - Organic (SKU: SKU200301)
+Exact Location: Aisle E (Frozen Foods), Section E3, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Fish Sticks 24oz - Value Size, Frozen Stir Fry Vegetables 16oz - Sugar-Free, Frozen Waffles 10-count - Low-Sodium
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Air Freshener Spray 8.3oz - Travel Size (SKU: SKU200302)
+Exact Location: Aisle X (Seasonal & Holiday), Section X3, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Wrapping Paper Roll 30sqft - Family Size, Scented Candle 8oz, Scented Candle 8oz - XL Pack
+Merchandising Notes: 
+
+Product: Ice Cream Chocolate 1.5qt - Low-Sodium (SKU: SKU200303)
+Exact Location: Aisle E (Frozen Foods), Section E2, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Edamame Shelled 16oz, Frozen Peas 16oz - Low-Sodium, Frozen Burritos 8-pack - XL Pack
+Merchandising Notes: 
+
+Product: Vegetable Broth 32oz - Travel Size (SKU: SKU200304)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I4, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Chicken Noodle Soup 10.75oz, Pasta Penne 16oz, Canned Salmon 14.75oz
+Merchandising Notes: 
+
+Product: Edamame Shelled 16oz - Sugar-Free (SKU: SKU200305)
+Exact Location: Aisle E (Frozen Foods), Section E1, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Chicken Nuggets 32oz - Travel Size, Chicken Nuggets 32oz, Ice Cream Vanilla 1.5qt
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Ballpoint Pens Blue 10-pack - Sugar-Free (SKU: SKU200306)
+Exact Location: Aisle W (Office & Stationery), Section W4, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Index Cards 3x5 200-count - Low-Sodium, Mechanical Pencils 5-pack - Value Size, Tape Rolls 3-pack - XL Pack
+Merchandising Notes: 
+
+Product: Red Seedless Grapes 2lb - Value Size (SKU: SKU200307)
+Exact Location: Aisle A (Fresh Produce), Section A3, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Broccoli Crown, Iceberg Lettuce (head) - Organic, Strawberries 1lb - Travel Size
+Merchandising Notes: Keep refrigerated
+
+Product: Index Cards 3x5 200-count - Low-Sodium (SKU: SKU200308)
+Exact Location: Aisle W (Office & Stationery), Section W4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Printer Paper 8.5x11 500-sheet, Tape Rolls 3-pack - XL Pack, Ballpoint Pens Blue 10-pack - Sugar-Free
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Baby Food Stage 2 4oz (6-pack) - Sugar-Free (SKU: SKU200309)
+Exact Location: Aisle L (Baby & Toddler), Section L4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Baby Shampoo 13oz - Decaf, Diapers Size 4 52-count - Low-Sodium, Baby Formula Powder 20oz - Value Size
+Merchandising Notes: 
+
+Product: Cherry Tomatoes 10oz - XL Pack (SKU: SKU200310)
+Exact Location: Aisle A (Fresh Produce), Section A1, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Spinach 5oz bag - Family Size, Romaine Hearts 3-pack - Value Size, Romaine Hearts 3-pack
+Merchandising Notes: Handle with care
+
+Product: Apple Juice 64oz - Family Size (SKU: SKU200311)
+Exact Location: Aisle F (Beverages), Section F2, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Cranberry Juice Cocktail 64oz, Diet Cola 12-pack 12oz, Black Tea Bags 100-count
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Hand Lotion 7oz - Travel Size (SKU: SKU200312)
+Exact Location: Aisle K (Health & Beauty), Section K3, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: Tampons Regular 36-count, Conditioner Strengthening 12oz - Low-Sodium, Toothbrush Soft (2-pack)
+Merchandising Notes: Face forward, label visible
+
+Product: 85/15 Ground Beef 1lb - Decaf (SKU: SKU200313)
+Exact Location: Aisle C (Meat & Seafood), Section C4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Pork Tenderloin 1.5lb, Ground Turkey 93/7 1lb - XL Pack, Beef Sirloin Steak 1lb
+Merchandising Notes: Stack max 3 high
+
+Product: Canned Black Beans 15oz - Low-Sodium (SKU: SKU200314)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I2, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Tomato Sauce 15oz, Corn 15.25oz, Chicken Broth 32oz - Organic
+Merchandising Notes: 
+
+Product: Boneless Chicken Breast 2lb - Travel Size (SKU: SKU200315)
+Exact Location: Aisle C (Meat & Seafood), Section C1, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Beef Sirloin Steak 1lb - Decaf, Ground Turkey 93/7 1lb - Family Size, Chicken Thighs Bone-In 3lb
+Merchandising Notes: Stack max 3 high
+
+Product: Rubber Gloves M (pair) - Value Size (SKU: SKU200316)
+Exact Location: Aisle M (Household Cleaning), Section M4, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Trash Bags 13gal 40-count, Disinfecting Wipes 75-count, Rubber Gloves M (pair)
+Merchandising Notes: Stack max 3 high
+
+Product: Diced Tomatoes 14.5oz - Low-Sodium (SKU: SKU200317)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I3, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: White Rice Long Grain 5lb - Organic
+Merchandising Notes: 
+
+Product: Sunscreen SPF50 3oz - Travel Size (SKU: SKU200318)
+Exact Location: Aisle K (Health & Beauty), Section K2, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Hand Lotion 7oz, Feminine Pads Regular 36-count, Razors 4-count - Value Size
+Merchandising Notes: Stack max 3 high
+
+Product: Sliced American Cheese 16oz - XL Pack (SKU: SKU200319)
+Exact Location: Aisle B (Dairy & Eggs), Section B2, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: 2% Reduced Fat Milk 1 Gallon - Value Size, Cream Cheese 8oz, Sliced American Cheese 16oz
+Merchandising Notes: 
+
+Product: UNO Card Game - Family Size (SKU: SKU200320)
+Exact Location: Aisle Q (Toys & Games), Section Q2, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Nerf Blaster Basic, Playing Cards Standard Deck - Decaf, Scrabble Board Game - Travel Size
+Merchandising Notes: Stack max 3 high
+
+Product: Lightning Cable 6ft - Decaf (SKU: SKU200321)
+Exact Location: Aisle P (Electronics & Accessories), Section P2, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: HDMI Cable 6ft - Value Size, AA Batteries 20-pack, LED Light Bulbs A19 4-pack - Sugar-Free
+Merchandising Notes: Keep refrigerated
+
+Product: Beef Sirloin Steak 1lb - Organic (SKU: SKU200322)
+Exact Location: Aisle C (Meat & Seafood), Section C3, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: Pork Tenderloin 1.5lb - Family Size, Boneless Chicken Breast 2lb - Travel Size, Salmon Fillet 1lb
+Merchandising Notes: Face forward, label visible
+
+Product: Hand Lotion 7oz - Organic (SKU: SKU200323)
+Exact Location: Aisle K (Health & Beauty), Section K4, Upper-Middle Shelf (3)
+Facing Count: 2
+Placed Adjacent To: Feminine Pads Regular 36-count - Family Size, Bar Soap 6-pack 3.75oz, Tampons Regular 36-count - Travel Size
+Merchandising Notes: 
+
+Product: Oat Milk Original 64oz - Organic (SKU: SKU200324)
+Exact Location: Aisle B (Dairy & Eggs), Section B1, Bottom Shelf (1)
+Facing Count: 4
+Placed Adjacent To: 2% Reduced Fat Milk 1 Gallon, Shredded Mozzarella 2lb, Almond Milk Unsweetened 64oz - Decaf
+Merchandising Notes: Stack max 3 high
+
+Product: Paper Towels Double Roll 6-pack - Decaf (SKU: SKU200325)
+Exact Location: Aisle O (Paper & Disposables), Section O4, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Toilet Paper 12 Double Rolls - Value Size
+Merchandising Notes: 
+
+Product: Gift Bags Assorted 4-pack - Travel Size (SKU: SKU200326)
+Exact Location: Aisle X (Seasonal & Holiday), Section X1, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Picture Frame 4x6in, Gift Bags Assorted 4-pack, Birthday Candles 24-count
+Merchandising Notes: Handle with care
+
+Product: Shredded Mozzarella 2lb - XL Pack (SKU: SKU200327)
+Exact Location: Aisle B (Dairy & Eggs), Section B4, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Sour Cream 16oz - Family Size, Sour Cream 16oz - Travel Size, Strawberry Yogurt 6-pack - Sugar-Free
+Merchandising Notes: Handle with care
+
+Product: Allergy Relief 24-hour 30ct - Low-Sodium (SKU: SKU200328)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V2, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Ibuprofen 200mg 100-count, Multivitamins Adults 100-count, Cough Drops Honey Lemon 30-count - Travel Size
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: 85/15 Ground Beef 1lb - Sugar-Free (SKU: SKU200329)
+Exact Location: Aisle C (Meat & Seafood), Section C2, Upper-Middle Shelf (3)
+Facing Count: 1
+Placed Adjacent To: 85/15 Ground Beef 1lb - Low-Sodium, Chicken Thighs Bone-In 3lb - Decaf, Ground Turkey 93/7 1lb
+Merchandising Notes: Face forward, label visible
+
+Product: HDMI Cable 6ft - Value Size (SKU: SKU200330)
+Exact Location: Aisle P (Electronics & Accessories), Section P2, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Lightning Cable 6ft - Decaf, Bluetooth Speaker Portable, Screen Cleaner Kit
+Merchandising Notes: Stack max 3 high
+
+Product: Pasta Penne 16oz - Value Size (SKU: SKU200331)
+Exact Location: Aisle I (Canned & Packaged Goods), Section I1, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Mac & Cheese 7.25oz, Pasta Spaghetti 16oz - XL Pack, Chicken Noodle Soup 10.75oz - Sugar-Free
+Merchandising Notes: Stack max 3 high
+
+Product: Potato Chips Original 8oz - Value Size (SKU: SKU200332)
+Exact Location: Aisle G (Snacks & Confectionery), Section G2, Top Shelf (4)
+Facing Count: 3
+Placed Adjacent To: Potato Chips Original 8oz - Decaf, Potato Chips Original 8oz, Tortilla Chips 13oz
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Trash Bags 33gal 20-count - Sugar-Free (SKU: SKU200333)
+Exact Location: Aisle M (Household Cleaning), Section M3, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Sponges 6-pack, Bathroom Cleaner 32oz - XL Pack, Dishwasher Pods 30-count - XL Pack
+Merchandising Notes: 
+
+Product: Garlic Bulb (each) - Decaf (SKU: SKU200334)
+Exact Location: Aisle A (Fresh Produce), Section A3, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Mango (each), Garlic Bulb (each) - Sugar-Free, Strawberries 1lb - Sugar-Free
+Merchandising Notes: Keep refrigerated
+
+Product: Acetaminophen 500mg 100-count - Family Size (SKU: SKU200335)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V2, Upper-Middle Shelf (3)
+Facing Count: 4
+Placed Adjacent To: Ibuprofen 200mg 100-count, Multivitamins Adults 100-count, Thermometer Digital
+Merchandising Notes: Stack max 3 high
+
+Product: Apple Juice 64oz - Sugar-Free (SKU: SKU200336)
+Exact Location: Aisle F (Beverages), Section F1, Lower-Middle Shelf (2)
+Facing Count: 1
+Placed Adjacent To: Green Tea Bags 40-count, Green Tea Bags 40-count - Low-Sodium
+Merchandising Notes: Stack max 3 high
+
+Product: Vitamin C 1000mg 60-count - XL Pack (SKU: SKU200337)
+Exact Location: Aisle V (Pharmacy & Wellness), Section V1, Top Shelf (4)
+Facing Count: 2
+Placed Adjacent To: Antacid Chewable 96-count, Allergy Relief 24-hour 30ct, Acetaminophen 500mg 100-count
+Merchandising Notes: 
+
+Product: Facial Tissues 3-box pack - Low-Sodium (SKU: SKU200338)
+Exact Location: Aisle O (Paper & Disposables), Section O1, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Toilet Paper 12 Double Rolls, Paper Plates 8.5in 50-count, Plastic Wrap 200sqft
+Merchandising Notes: Handle with care
+
+Product: Strawberry Jam 18oz - Decaf (SKU: SKU200339)
+Exact Location: Aisle H (Breakfast & Cereal), Section H3, Bottom Shelf (1)
+Facing Count: 1
+Placed Adjacent To: Strawberry Jam 18oz, Frosted Flakes 19.2oz - Organic, Raisin Bran 20oz
+Merchandising Notes: Handle with care
+
+Product: Plastic Wrap 200sqft - Value Size (SKU: SKU200340)
+Exact Location: Aisle O (Paper & Disposables), Section O2, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Quart Zip Bags 40-count - Low-Sodium, Paper Towels Double Roll 6-pack - Organic
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: LEGO Classic 200-piece set - Value Size (SKU: SKU200341)
+Exact Location: Aisle Q (Toys & Games), Section Q3, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: UNO Card Game, Nerf Blaster Basic - XL Pack, Watercolor Paint Set
+Merchandising Notes: Stack max 3 high
+
+Product: Pork Tenderloin 1.5lb - Family Size (SKU: SKU200342)
+Exact Location: Aisle C (Meat & Seafood), Section C3, Lower-Middle Shelf (2)
+Facing Count: 2
+Placed Adjacent To: Salmon Fillet 1lb, Beef Sirloin Steak 1lb - Organic, Boneless Chicken Breast 2lb - Travel Size
+Merchandising Notes: Heavy item – bottom shelf preferred
+
+Product: Colander 5qt - Decaf (SKU: SKU200343)
+Exact Location: Aisle T (Home & Kitchen), Section T2, Lower-Middle Shelf (2)
+Facing Count: 3
+Placed Adjacent To: Oven Mitts Pair, Stainless Sauce Pan 2qt, Non-stick Frying Pan 10in - XL Pack
+Merchandising Notes: Face forward, label visible
+
+Product: Diet Cola 12-pack 12oz - XL Pack (SKU: SKU200344)
+Exact Location: Aisle F (Beverages), Section F3, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Green Tea Bags 40-count - Family Size, Coconut Water 1lt - Family Size, Ground Coffee Medium Roast 30oz
+Merchandising Notes: Handle with care
+
+Product: Dishwasher Pods 30-count - XL Pack (SKU: SKU200345)
+Exact Location: Aisle M (Household Cleaning), Section M3, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Sponges 6-pack, Dish Soap 24oz - Value Size, Trash Bags 33gal 20-count - Sugar-Free
+Merchandising Notes: Face forward, label visible
+
+Product: Frosted Flakes 19.2oz - Organic (SKU: SKU200346)
+Exact Location: Aisle H (Breakfast & Cereal), Section H3, Bottom Shelf (1)
+Facing Count: 2
+Placed Adjacent To: Raisin Bran 20oz, Peanut Butter Creamy 28oz - Organic, Quick Oats 42oz
+Merchandising Notes: Keep refrigerated
+
+Product: Iceberg Lettuce (head) - Organic (SKU: SKU200347)
+Exact Location: Aisle A (Fresh Produce), Section A3, Top Shelf (4)
+Facing Count: 1
+Placed Adjacent To: Garlic Bulb (each) - Decaf, Garlic Bulb (each), Pineapple (whole) - XL Pack
+Merchandising Notes: 
+
+Product: Beef Sirloin Steak 1lb - Value Size (SKU: SKU200348)
+Exact Location: Aisle C (Meat & Seafood), Section C1, Bottom Shelf (1)
+Facing Count: 3
+Placed Adjacent To: Bacon 16oz, Boneless Chicken Breast 2lb - Travel Size, Chicken Thighs Bone-In 3lb
+Merchandising Notes: Handle with care
+
+Product: Camping Lantern LED - Travel Size (SKU: SKU200349)
+Exact Location: Aisle R (Sports & Outdoors), Section R4, Upper-Middle Shelf (3)
+Facing Count: 3
+Placed Adjacent To: Water Bottle 32oz BPA-Free
+Merchandising Notes: Face forward, label visible
+

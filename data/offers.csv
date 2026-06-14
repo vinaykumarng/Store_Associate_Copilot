@@ -1,0 +1,81 @@
+Offer_ID,SKU,Product_Name,Offer_Type,Description,Offer_Price,Promo_Tag
+OFF1001,SKU200287,Bagels 6-pack - Travel Size,buy_one_get_one,Buy 1 Get 1 50% off,3.0,ROLLBACK
+OFF1002,SKU100187,Energy Drink 4-pack 16oz,clearance,Clearance — 25% off,7.49,HOT BUY
+OFF1003,SKU100110,Roma Tomatoes 2lb,buy_one_get_one,Buy 1 Get 1 50% off,1.87,HOT BUY
+OFF1004,SKU200298,Gift Bags Assorted 4-pack - Organic,buy_one_get_one,Buy 1 Get 1 50% off,4.47,WEEKLY DEAL
+OFF1005,SKU100236,Salsa Medium 24oz,buy_one_get_one,Buy 1 Get 1 50% off,2.62,WEEKLY DEAL
+OFF1006,SKU200149,Green Tea Bags 40-count - Family Size,flat_discount,Save $0.22 — was $4.49,4.27,WEEKLY DEAL
+OFF1007,SKU200225,Frozen Stir Fry Vegetables 16oz - Sugar-Free,multipack_deal,Buy 2 for $4.90,2.45,WEEKLY DEAL
+OFF1008,SKU100317,Jump Rope,flat_discount,Save $1.20 — was $7.99,6.79,WEEKLY DEAL
+OFF1009,SKU200210,Peanut Butter Creamy 28oz - Organic,multipack_deal,Buy 2 for $12.48,6.24,CLEARANCE
+OFF1010,SKU200251,Strawberries 1lb - Travel Size,clearance,Clearance — 5% off,2.84,WEEKLY DEAL
+OFF1011,SKU100362,Thermometer Digital,clearance,Clearance — 50% off,5.0,HOT BUY
+OFF1012,SKU100174,Purified Water 24-pack 16.9oz,buy_one_get_one,Buy 1 Get 1 50% off,2.99,WEEKLY DEAL
+OFF1013,SKU100197,Chocolate Chip Cookies 13oz,flat_discount,Save $1.35 — was $4.49,3.14,WEEKLY DEAL
+OFF1014,SKU100160,Frozen Mixed Vegetables 16oz,percentage_off,40% off — was $2.49,1.49,MEMBER PRICE
+OFF1015,SKU100153,English Muffins 6-pack,flat_discount,Save $0.52 — was $3.49,2.97,MEMBER PRICE
+OFF1016,SKU200158,Potato Chips Original 8oz - Decaf,percentage_off,5% off — was $4.96,4.71,ROLLBACK
+OFF1017,SKU100340,Muffin Pan 12-cup,buy_one_get_one,Buy 1 Get 1 50% off,9.74,MEMBER PRICE
+OFF1018,SKU200300,Canned Tuna in Water 5oz - Organic,flat_discount,Save $0.31 — was $2.04,1.73,CLEARANCE
+OFF1019,SKU200180,Gummy Bears 5oz - Low-Sodium,multipack_deal,Buy 2 for $5.85,2.92,CLEARANCE
+OFF1020,SKU100146,Salmon Fillet 1lb,clearance,Clearance — 15% off,7.64,WEEKLY DEAL
+OFF1021,SKU100105,Blueberries 6oz,flat_discount,Save $0.60 — was $2.99,2.39,MEMBER PRICE
+OFF1022,SKU100359,Multivitamins Adults 100-count,multipack_deal,Buy 2 for $22.08,11.04,HOT BUY
+OFF1023,SKU200334,Garlic Bulb (each) - Decaf,clearance,Clearance — 40% off,0.56,MEMBER PRICE
+OFF1024,SKU200208,Paper Towels Double Roll 6-pack - Organic,flat_discount,Save $1.52 — was $10.11,8.59,MEMBER PRICE
+OFF1025,SKU200127,Kids Socks 6-pack Sz 4-7 - Family Size,percentage_off,5% off — was $12.03,11.43,CLEARANCE
+OFF1026,SKU200222,Diced Tomatoes 14.5oz - Organic,multipack_deal,Buy 2 for $2.46,1.23,ROLLBACK
+OFF1027,SKU200197,Balloons 15-count - Travel Size,multipack_deal,Buy 2 for $6.44,3.22,MEMBER PRICE
+OFF1028,SKU100235,Soy Sauce 10oz,multipack_deal,Buy 2 for $5.08,2.54,MEMBER PRICE
+OFF1029,SKU100142,85/15 Ground Beef 1lb,flat_discount,Save $0.79 — was $5.29,4.5,CLEARANCE
+OFF1030,SKU100283,Color-Safe Bleach 64oz,buy_one_get_one,Buy 1 Get 1 50% off,4.49,HOT BUY
+OFF1031,SKU100366,Sticky Notes 3x3in 12-pack,percentage_off,10% off — was $8.99,8.09,WEEKLY DEAL
+OFF1032,SKU100273,Mold & Mildew Remover 32oz,clearance,Clearance — 10% off,4.04,MEMBER PRICE
+OFF1033,SKU200333,Trash Bags 33gal 20-count - Sugar-Free,multipack_deal,Buy 2 for $12.46,6.23,HOT BUY
+OFF1034,SKU200322,Beef Sirloin Steak 1lb - Organic,flat_discount,Save $3.56 — was $11.86,8.3,HOT BUY
+OFF1035,SKU200165,Razors 4-count - Value Size,percentage_off,5% off — was $11.51,10.93,MEMBER PRICE
+OFF1036,SKU200297,Corn Tortillas 30-pack - Sugar-Free,buy_one_get_one,Buy 1 Get 1 50% off,3.82,MEMBER PRICE
+OFF1037,SKU100191,Pretzels Twists 16oz,percentage_off,10% off — was $3.99,3.59,CLEARANCE
+OFF1038,SKU200142,Mixed Nuts 16oz - Travel Size,flat_discount,Save $3.79 — was $7.59,3.8,MEMBER PRICE
+OFF1039,SKU200261,Baby Shampoo 13oz - Decaf,clearance,Clearance — 25% off,3.6,ROLLBACK
+OFF1040,SKU100245,Body Wash Lavender 18oz,buy_one_get_one,Buy 1 Get 1 50% off,4.87,HOT BUY
+OFF1041,SKU100219,Canned Black Beans 15oz,flat_discount,Save $0.12 — was $1.19,1.07,HOT BUY
+OFF1042,SKU200138,Beef Sirloin Steak 1lb - Decaf,percentage_off,5% off — was $8.47,8.05,WEEKLY DEAL
+OFF1043,SKU100145,Bacon 16oz,percentage_off,15% off — was $5.99,5.09,MEMBER PRICE
+OFF1044,SKU100230,Ketchup 32oz,multipack_deal,Buy 2 for $5.93,2.97,HOT BUY
+OFF1045,SKU200329,85/15 Ground Beef 1lb - Sugar-Free,multipack_deal,Buy 2 for $7.68,3.84,HOT BUY
+OFF1046,SKU200105,Crayons 64-count - Low-Sodium,flat_discount,Save $3.00 — was $7.51,4.51,CLEARANCE
+OFF1047,SKU200187,Diapers Size 4 52-count - Low-Sodium,percentage_off,15% off — was $22.64,19.24,WEEKLY DEAL
+OFF1048,SKU200258,Garlic Bulb (each) - Sugar-Free,buy_one_get_one,Buy 1 Get 1 50% off,0.7,WEEKLY DEAL
+OFF1049,SKU200107,LED Light Bulbs A19 4-pack - Sugar-Free,buy_one_get_one,Buy 1 Get 1 50% off,8.92,MEMBER PRICE
+OFF1050,SKU100369,Printer Paper 8.5x11 500-sheet,buy_one_get_one,Buy 1 Get 1 50% off,6.74,HOT BUY
+OFF1051,SKU100370,Tape Rolls 3-pack,buy_one_get_one,Buy 1 Get 1 50% off,4.49,MEMBER PRICE
+OFF1052,SKU200347,Iceberg Lettuce (head) - Organic,buy_one_get_one,Buy 1 Get 1 50% off,1.6,WEEKLY DEAL
+OFF1053,SKU200264,Avocado (each) - Sugar-Free,percentage_off,15% off — was $1.08,0.92,ROLLBACK
+OFF1054,SKU100268,Disinfecting Wipes 75-count,multipack_deal,Buy 2 for $9.33,4.67,WEEKLY DEAL
+OFF1055,SKU200141,Iceberg Lettuce (head) - Decaf,multipack_deal,Buy 2 for $2.99,1.5,CLEARANCE
+OFF1056,SKU200321,Lightning Cable 6ft - Decaf,clearance,Clearance — 40% off,8.84,CLEARANCE
+OFF1057,SKU100254,Hand Lotion 7oz,percentage_off,10% off — was $7.49,6.74,MEMBER PRICE
+OFF1058,SKU200268,Croissants 4-pack - Travel Size,multipack_deal,Buy 2 for $8.60,4.3,HOT BUY
+OFF1059,SKU100154,Croissants 4-pack,clearance,Clearance — 25% off,3.74,MEMBER PRICE
+OFF1060,SKU100293,AA Batteries 20-pack,multipack_deal,Buy 2 for $22.08,11.04,HOT BUY
+OFF1061,SKU100252,Facial Moisturizer SPF30 1.7oz,clearance,Clearance — 50% off,7.5,WEEKLY DEAL
+OFF1062,SKU100155,Blueberry Muffins 4-pack,clearance,Clearance — 5% off,4.27,HOT BUY
+OFF1063,SKU100335,Measuring Spoons Set 6-piece,flat_discount,Save $0.80 — was $7.99,7.19,MEMBER PRICE
+OFF1064,SKU100287,Paper Plates 8.5in 50-count,multipack_deal,Buy 2 for $6.78,3.39,HOT BUY
+OFF1065,SKU100136,Cream Cheese 8oz,flat_discount,Save $1.50 — was $2.99,1.49,MEMBER PRICE
+OFF1066,SKU200299,Baby Carrots 1lb - Family Size,percentage_off,15% off — was $1.47,1.25,ROLLBACK
+OFF1067,SKU100267,All-Purpose Cleaner Spray 32oz,multipack_deal,Buy 2 for $7.63,3.82,ROLLBACK
+OFF1068,SKU200296,Vegetable Oil 48oz - Organic,clearance,Clearance — 20% off,4.7,CLEARANCE
+OFF1069,SKU100218,Tomato Sauce 15oz,clearance,Clearance — 50% off,0.65,CLEARANCE
+OFF1070,SKU200324,Oat Milk Original 64oz - Organic,multipack_deal,Buy 2 for $9.72,4.86,CLEARANCE
+OFF1071,SKU100141,Ground Turkey 93/7 1lb,multipack_deal,Buy 2 for $9.33,4.67,ROLLBACK
+OFF1072,SKU200270,Baby Formula Powder 20oz - Organic,flat_discount,Save $2.27 — was $22.69,20.42,MEMBER PRICE
+OFF1073,SKU200183,Sunscreen SPF50 3oz - Family Size,buy_one_get_one,Buy 1 Get 1 50% off,10.27,ROLLBACK
+OFF1074,SKU200314,Canned Black Beans 15oz - Low-Sodium,clearance,Clearance — 50% off,0.75,MEMBER PRICE
+OFF1075,SKU200286,Non-stick Frying Pan 10in - Low-Sodium,multipack_deal,Buy 2 for $45.54,22.77,ROLLBACK
+OFF1076,SKU100215,Chicken Noodle Soup 10.75oz,clearance,Clearance — 5% off,1.42,CLEARANCE
+OFF1077,SKU100251,Antiperspirant Spray 4oz,flat_discount,Save $1.50 — was $4.99,3.49,ROLLBACK
+OFF1078,SKU100226,Mac & Cheese 7.25oz,buy_one_get_one,Buy 1 Get 1 50% off,0.97,WEEKLY DEAL
+OFF1079,SKU200175,Instant Oatmeal Variety 10-pack - Decaf,flat_discount,Save $1.66 — was $4.16,2.5,HOT BUY
+OFF1080,SKU100195,Granola Bars Variety 18-count,buy_one_get_one,Buy 1 Get 1 50% off,6.74,ROLLBACK

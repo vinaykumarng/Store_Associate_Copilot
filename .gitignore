@@ -1,0 +1,7 @@
+data_generation_scripts/generate_data.py
+.env
+/raw_data
+/data/dacathlon
+/faiss_store_index
+__pycache__/
+*.json

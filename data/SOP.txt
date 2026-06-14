@@ -1,0 +1,148 @@
+=== GENERAL STORE STANDARD OPERATING PROCEDURES (SOP) ===
+
+[SOP001] TITLE: Opening Store Checklist (Dept: Store Operations)
+  Step 1: Arrive 30 minutes before store opening.
+  Step 2: Disable the alarm using the keypad (code in manager's binder).
+  Step 3: Turn on all lights aisle by aisle using the panel in the back office.
+  Step 4: Check the overnight freight log and sign off.
+  Step 5: Walk each aisle for safety hazards (spills, fallen items, blocked exits).
+  Step 6: Verify POS terminals boot correctly — reboot any frozen terminals.
+  Step 7: Confirm all refrigerated sections are at correct temp (dairy: 35–38°F, frozen: 0°F or below).
+  Step 8: Unlock customer-entry doors at opening time.
+  Step 9: Announce store opening over intercom: 'Good morning, shoppers. Welcome to our store!'
+
+[SOP002] TITLE: Closing Store Checklist (Dept: Store Operations)
+  Step 1: Announce closing 15 minutes before close: 'Attention shoppers, the store will close in 15 minutes.'
+  Step 2: Begin escorting remaining customers to checkout.
+  Step 3: Lock all entrance doors once last customer has exited.
+  Step 4: Complete end-of-day cash reconciliation at each POS lane.
+  Step 5: Process Z-tape from all registers and deposit cash in the safe.
+  Step 6: Secure all high-value merchandise (electronics, pharmacy) in lockable cabinets.
+  Step 7: Check restrooms for remaining customers and safety.
+  Step 8: Turn off non-essential lights; leave safety/emergency lighting active.
+  Step 9: Enable alarm and lock back office.
+  Step 10: Complete closing log with your employee ID and timestamp.
+
+[SOP003] TITLE: Receiving & Stocking Freight (Dept: Receiving)
+  Step 1: Check delivery manifest against purchase order before accepting shipment.
+  Step 2: Inspect pallets for damage; note discrepancies on the delivery receipt.
+  Step 3: Scan each carton barcode into the inventory management system (IMS).
+  Step 4: Move freight to the appropriate staging area by department.
+  Step 5: Stock items using FIFO (first-in, first-out): pull existing stock forward, place new stock behind.
+  Step 6: Verify price stickers/shelf tags match the IMS price before shelving.
+  Step 7: Crush and bale all cardboard in the compactor.
+  Step 8: Update IMS once all items are stocked.
+  Step 9: Report any discrepancies to the department manager within 2 hours.
+
+[SOP004] TITLE: Handling Customer Returns (Dept: Customer Service)
+  Step 1: Greet the customer and ask for their receipt or order confirmation.
+  Step 2: Check the return policy: most items accepted within 90 days with receipt.
+  Step 3: Inspect the item for damage and ensure original packaging where required.
+  Step 4: Process return on POS: select 'Return' > scan item barcode > confirm amount.
+  Step 5: Issue refund to original payment method or store credit if no receipt.
+  Step 6: For perishables, dispose of returned item; do NOT restock food returns.
+  Step 7: For electronics: follow the Electronics Return SOP (SOP009).
+  Step 8: Log the return reason for shrink tracking.
+  Step 9: Thank the customer and offer assistance with finding a replacement.
+
+[SOP005] TITLE: Price Check & Override Procedure (Dept: Store Operations)
+  Step 1: If a customer disputes a price, scan the item at any POS terminal.
+  Step 2: Compare displayed price with shelf tag.
+  Step 3: If shelf tag price is lower, honor the shelf tag price (company policy).
+  Step 4: To override: press 'Price Override' on POS, enter manager's override code.
+  Step 5: Print a price correction form and attach to the shelf tag for the pricing team.
+  Step 6: Log the price discrepancy in the Price Accuracy log.
+  Step 7: Thank the customer for bringing it to our attention.
+
+[SOP006] TITLE: Spill & Hazard Cleanup (Dept: Safety)
+  Step 1: Immediately block off the spill area using wet floor signs.
+  Step 2: Radio/call for cleanup support: 'Cleanup needed in Aisle [X].'
+  Step 3: For liquid spills: apply absorbent granules, sweep, mop with cleaning solution.
+  Step 4: For broken glass: use dustpan and broom, never hands; dispose in sharps/glass bin.
+  Step 5: Inspect area to ensure floor is dry before removing wet floor signs.
+  Step 6: Complete a Safety Incident Report if any customer was involved.
+  Step 7: Restock any damaged product or remove it from sale.
+
+[SOP007] TITLE: Shelf Replenishment & Facing (Dept: Store Operations)
+  Step 1: Pull stock from backroom using the replenishment report printed each morning.
+  Step 2: Use a stocking cart; never leave stock unattended in the aisle.
+  Step 3: Follow planogram layouts — check the section planogram card for correct placement.
+  Step 4: Apply FIFO: new stock behind existing stock.
+  Step 5: Face all items: fronts forward, labels readable by the customer.
+  Step 6: Consolidate slow-moving items to one shelf position; notify manager if shelf is overstocked.
+  Step 7: Check for expired items; pull and quarantine all expired stock.
+  Step 8: Update the facing count in the IMS when done.
+
+[SOP008] TITLE: Loss Prevention & Shoplifting Protocol (Dept: Loss Prevention)
+  Step 1: Greet all customers in high-theft areas (electronics, health & beauty) — visibility is deterrence.
+  Step 2: If you observe suspected shoplifting, do NOT confront the individual.
+  Step 3: Radio Loss Prevention team with description: 'LP, I have a code 10 in Aisle [X].'
+  Step 4: Maintain visual contact if safe to do so; note direction of travel.
+  Step 5: LP staff will handle apprehension according to state law.
+  Step 6: Complete an Incident Report with date, time, description, and any footage timestamps.
+  Step 7: Never put yourself or customers in danger.
+
+[SOP009] TITLE: Electronics Return & Exchange (Dept: Electronics)
+  Step 1: Inspect returned electronics for physical damage and completeness of contents.
+  Step 2: Open box and verify all accessories, cables, and documentation are present.
+  Step 3: Power-on test: confirm the device boots and there are no obvious defects.
+  Step 4: For personal data concerns (phones/tablets), wipe device using factory reset before restocking.
+  Step 5: Open-box items: re-seal and apply 'Open Box — [discount]%' label.
+  Step 6: Complete exchange if same item is requested; else process as return.
+  Step 7: Log the IMEI/serial number in the Electronics Return Log.
+
+[SOP010] TITLE: Cold Chain Compliance — Refrigerated & Frozen (Dept: Grocery / Receiving)
+  Step 1: Check refrigerator and freezer temperatures at opening and closing using the temperature log.
+  Step 2: Acceptable ranges: refrigerated = 35–40°F; frozen = -10°F to 0°F.
+  Step 3: If a cooler exceeds threshold, notify the store manager and maintenance immediately.
+  Step 4: Do NOT stock new product into a malfunctioning cooler.
+  Step 5: Move at-risk product to a working unit or quarantine for disposal.
+  Step 6: Products above 45°F for more than 2 hours must be discarded (food safety).
+  Step 7: Document all temperature events and corrective actions in the Cold Chain Log.
+
+[SOP011] TITLE: Customer Complaint Escalation (Dept: Customer Service)
+  Step 1: Listen to the customer's complaint without interrupting.
+  Step 2: Apologize and thank the customer for bringing the issue to your attention.
+  Step 3: Attempt to resolve at floor level: replacement, refund, or alternative product.
+  Step 4: If unable to resolve, call the department manager to assist.
+  Step 5: Never argue with a customer; de-escalate with calm language.
+  Step 6: Document the complaint in the Customer Feedback Log.
+  Step 7: If the complaint involves a food safety issue, escalate to store manager immediately.
+
+[SOP012] TITLE: Planogram Reset Procedure (Dept: Merchandising)
+  Step 1: Print new planogram from the Merchandising portal.
+  Step 2: Clear the section to be reset, placing items on a staging cart.
+  Step 3: Clean shelves with all-purpose cleaner before placing new product.
+  Step 4: Set shelf height according to planogram spec.
+  Step 5: Place items in planogram-specified positions — verify SKU and facing count.
+  Step 6: Apply or update shelf price tags to match IMS prices.
+  Step 7: Take a completion photo and upload to the Merchandising portal.
+  Step 8: Notify the store manager once the reset is complete.
+
+[SOP013] TITLE: Expired & Damaged Product Removal (Dept: Store Operations)
+  Step 1: Perform daily date checks on dairy, bakery, meat, and deli items.
+  Step 2: Perform weekly date checks on canned, packaged, and frozen goods.
+  Step 3: Pull any product at or past its best-by/use-by date.
+  Step 4: Place pulled items in the 'Quarantine Cart' in the back room.
+  Step 5: Complete the Out-of-Date Log with SKU, product name, qty, and date.
+  Step 6: Damaged goods with intact safety seals may be discounted; consult manager.
+  Step 7: Dispose of food products per the store's food waste policy.
+
+[SOP014] TITLE: Register Open & Cash Handling (Dept: Front End)
+  Step 1: Collect your assigned cash drawer from the safe with witness present.
+  Step 2: Count the opening float ($200 standard) and sign the Cash Count Sheet.
+  Step 3: Verify register paper roll is loaded and POS terminal is online.
+  Step 4: Do not keep more than $300 in your drawer; perform cash drops as needed.
+  Step 5: Accept only non-mutilated bills; use counterfeit pen on $50 and $100 bills.
+  Step 6: At shift end, count drawer with a supervisor; complete the Closing Cash Count Sheet.
+  Step 7: Never leave your drawer open and unattended.
+
+[SOP015] TITLE: Promotional Signage & Offer Setup (Dept: Merchandising)
+  Step 1: Download the weekly ad from the Merchandising portal every Monday morning.
+  Step 2: Print and cut promotional shelf talkers and price signs.
+  Step 3: Place signs at the correct shelf position next to the promoted SKU.
+  Step 4: Update the POS system to reflect promotional prices (use Promotion Manager module).
+  Step 5: Verify scanned price matches advertised price for first 5 transactions of any new promo.
+  Step 6: Remove expired signage every Sunday evening before new ad week starts.
+  Step 7: Report any sign/price mismatches to the pricing coordinator immediately.
+

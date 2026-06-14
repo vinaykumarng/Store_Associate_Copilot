@@ -1,0 +1,1982 @@
+=== PRODUCT SUBSTITUTION MAPPINGS ===
+
+Target Product: Organic Fuji Apples 3lb Bag (SKU100100)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Navel Oranges 4lb Bag, Pineapple (whole) - XL Pack, Strawberries 1lb - Sugar-Free
+
+Target Product: Red Seedless Grapes 2lb (SKU100101)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Pineapple (whole) - Low-Sodium, Strawberries 1lb - Sugar-Free, Avocado (each)
+
+Target Product: Navel Oranges 4lb Bag (SKU100102)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Blueberries 6oz, Mango (each), Organic Fuji Apples 3lb Bag
+
+Target Product: Bananas (bunch ~5) (SKU100103)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Organic Fuji Apples 3lb Bag, Pineapple (whole) - Low-Sodium, Strawberries 1lb - Travel Size
+
+Target Product: Strawberries 1lb (SKU100104)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Blueberries 6oz - Value Size, Organic Fuji Apples 3lb Bag, Strawberries 1lb - Travel Size
+
+Target Product: Blueberries 6oz (SKU100105)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Mango (each), Strawberries 1lb - Travel Size, Pineapple (whole) - Low-Sodium
+
+Target Product: Avocado (each) (SKU100106)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Pineapple (whole) - Low-Sodium, Navel Oranges 4lb Bag, Organic Fuji Apples 3lb Bag
+
+Target Product: Mango (each) (SKU100107)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Blueberries 6oz - Value Size, Watermelon (whole), Avocado (each)
+
+Target Product: Pineapple (whole) (SKU100108)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Blueberries 6oz, Strawberries 1lb, Red Seedless Grapes 2lb
+
+Target Product: Watermelon (whole) (SKU100109)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Red Seedless Grapes 2lb, Strawberries 1lb, Red Seedless Grapes 2lb - Value Size
+
+Target Product: Roma Tomatoes 2lb (SKU100110)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Zucchini (each) - Value Size, Baby Carrots 1lb, Yellow Onions 3lb
+
+Target Product: Broccoli Crown (SKU100111)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Spinach 5oz bag - Family Size, Iceberg Lettuce (head), Sweet Corn (each)
+
+Target Product: Spinach 5oz bag (SKU100112)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Iceberg Lettuce (head), Cherry Tomatoes 10oz - XL Pack, Garlic Bulb (each) - Sugar-Free
+
+Target Product: Russet Potatoes 5lb (SKU100113)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Baby Carrots 1lb, Baby Carrots 1lb - Sugar-Free, Cherry Tomatoes 10oz - Organic
+
+Target Product: Yellow Onions 3lb (SKU100114)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Russet Potatoes 5lb - Value Size, Garlic Bulb (each), Iceberg Lettuce (head) - Value Size
+
+Target Product: Garlic Bulb (each) (SKU100115)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Sweet Corn (each) - Sugar-Free, Garlic Bulb (each) - Decaf, Cucumber (each)
+
+Target Product: Baby Carrots 1lb (SKU100116)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Cherry Tomatoes 10oz - Decaf, Zucchini (each) - Value Size, Spinach 5oz bag - Family Size
+
+Target Product: Celery Stalks (SKU100117)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Cherry Tomatoes 10oz, Russet Potatoes 5lb, Baby Carrots 1lb
+
+Target Product: Bell Peppers (3-pack mixed) (SKU100118)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Garlic Bulb (each) - Decaf, Sweet Corn (each) - Sugar-Free, Iceberg Lettuce (head) - Value Size
+
+Target Product: Cucumber (each) (SKU100119)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Iceberg Lettuce (head) - Decaf, Romaine Hearts 3-pack - Value Size, Bell Peppers (3-pack mixed)
+
+Target Product: Zucchini (each) (SKU100120)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Iceberg Lettuce (head) - Organic, Iceberg Lettuce (head), Romaine Hearts 3-pack - Organic
+
+Target Product: Sweet Corn (each) (SKU100121)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Romaine Hearts 3-pack, Roma Tomatoes 2lb, Celery Stalks
+
+Target Product: Iceberg Lettuce (head) (SKU100122)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Cherry Tomatoes 10oz - XL Pack, Celery Stalks, Cherry Tomatoes 10oz
+
+Target Product: Romaine Hearts 3-pack (SKU100123)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Spinach 5oz bag - Family Size, Spinach 5oz bag, Zucchini (each) - Value Size
+
+Target Product: Cherry Tomatoes 10oz (SKU100124)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Romaine Hearts 3-pack, Roma Tomatoes 2lb, Iceberg Lettuce (head)
+
+Target Product: Whole Milk 1 Gallon (SKU100125)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: 2% Reduced Fat Milk 1 Gallon - Value Size, 2% Reduced Fat Milk 1 Gallon
+
+Target Product: 2% Reduced Fat Milk 1 Gallon (SKU100126)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: 2% Reduced Fat Milk 1 Gallon - Value Size, Whole Milk 1 Gallon
+
+Target Product: Oat Milk Original 64oz (SKU100127)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Almond Milk Unsweetened 64oz, Almond Milk Unsweetened 64oz - Decaf, Oat Milk Original 64oz - Organic
+
+Target Product: Almond Milk Unsweetened 64oz (SKU100128)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Oat Milk Original 64oz - Organic, Oat Milk Original 64oz, Almond Milk Unsweetened 64oz - Decaf
+
+Target Product: Large Eggs 12-count (SKU100129)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Cage-Free Eggs 18-count
+
+Target Product: Cage-Free Eggs 18-count (SKU100130)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Large Eggs 12-count
+
+Target Product: Greek Yogurt Plain 32oz (SKU100132)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Strawberry Yogurt 6-pack, Greek Yogurt Plain 32oz - Value Size, Strawberry Yogurt 6-pack - Sugar-Free
+
+Target Product: Strawberry Yogurt 6-pack (SKU100133)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Strawberry Yogurt 6-pack - Decaf, Greek Yogurt Plain 32oz - Value Size, Strawberry Yogurt 6-pack - Sugar-Free
+
+Target Product: Shredded Mozzarella 2lb (SKU100134)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Sliced American Cheese 16oz - XL Pack, Shredded Mozzarella 2lb - XL Pack, Shredded Mozzarella 2lb - Decaf
+
+Target Product: Sliced American Cheese 16oz (SKU100135)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Shredded Mozzarella 2lb - XL Pack, Shredded Mozzarella 2lb - Decaf, Sliced American Cheese 16oz - XL Pack
+
+Target Product: Cream Cheese 8oz (SKU100136)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Shredded Mozzarella 2lb - XL Pack, Shredded Mozzarella 2lb, Sliced American Cheese 16oz - XL Pack
+
+Target Product: Sour Cream 16oz (SKU100137)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Sour Cream 16oz - Value Size, Heavy Whipping Cream 1pt, Sour Cream 16oz - Family Size
+
+Target Product: Heavy Whipping Cream 1pt (SKU100138)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Sour Cream 16oz, Sour Cream 16oz - Travel Size, Sour Cream 16oz - Value Size
+
+Target Product: Boneless Chicken Breast 2lb (SKU100139)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Chicken Thighs Bone-In 3lb - Decaf, Boneless Chicken Breast 2lb - Travel Size, Ground Turkey 93/7 1lb - Family Size
+
+Target Product: Chicken Thighs Bone-In 3lb (SKU100140)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Chicken Thighs Bone-In 3lb - Decaf, Boneless Chicken Breast 2lb, Boneless Chicken Breast 2lb - Travel Size
+
+Target Product: Ground Turkey 93/7 1lb (SKU100141)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Ground Turkey 93/7 1lb - XL Pack, Boneless Chicken Breast 2lb, Boneless Chicken Breast 2lb - Travel Size
+
+Target Product: 85/15 Ground Beef 1lb (SKU100142)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Beef Sirloin Steak 1lb, 85/15 Ground Beef 1lb - Decaf, Beef Sirloin Steak 1lb - Decaf
+
+Target Product: Beef Sirloin Steak 1lb (SKU100143)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: 85/15 Ground Beef 1lb - Decaf, 85/15 Ground Beef 1lb - Low-Sodium, Beef Sirloin Steak 1lb - Decaf
+
+Target Product: Pork Tenderloin 1.5lb (SKU100144)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Bacon 16oz, Pork Tenderloin 1.5lb - Family Size
+
+Target Product: Bacon 16oz (SKU100145)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Pork Tenderloin 1.5lb, Pork Tenderloin 1.5lb - Family Size
+
+Target Product: Salmon Fillet 1lb (SKU100146)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Shrimp 31-40ct 1lb, Tilapia Fillets 1lb
+
+Target Product: Tilapia Fillets 1lb (SKU100147)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Salmon Fillet 1lb, Shrimp 31-40ct 1lb
+
+Target Product: Shrimp 31-40ct 1lb (SKU100148)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Tilapia Fillets 1lb, Salmon Fillet 1lb
+
+Target Product: White Sandwich Bread 20oz (SKU100149)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Whole Wheat Bread 20oz, Whole Wheat Bread 20oz - Low-Sodium
+
+Target Product: Whole Wheat Bread 20oz (SKU100150)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: White Sandwich Bread 20oz, Whole Wheat Bread 20oz - Low-Sodium
+
+Target Product: Bagels 6-pack (SKU100152)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Bagels 6-pack - Travel Size
+
+Target Product: English Muffins 6-pack (SKU100153)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Blueberry Muffins 4-pack, Blueberry Muffins 4-pack - Organic
+
+Target Product: Croissants 4-pack (SKU100154)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Croissants 4-pack - Travel Size
+
+Target Product: Blueberry Muffins 4-pack (SKU100155)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Blueberry Muffins 4-pack - Organic, English Muffins 6-pack
+
+Target Product: Chocolate Cake Slice (SKU100156)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Chocolate Cake Slice - Sugar-Free
+
+Target Product: Flour Tortillas 10-pack (SKU100157)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Corn Tortillas 30-pack - Organic, Corn Tortillas 30-pack - Sugar-Free, Corn Tortillas 30-pack
+
+Target Product: Corn Tortillas 30-pack (SKU100158)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Corn Tortillas 30-pack - XL Pack, Flour Tortillas 10-pack, Corn Tortillas 30-pack - Sugar-Free
+
+Target Product: Frozen Broccoli 12oz (SKU100159)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Frozen Stir Fry Vegetables 16oz - Sugar-Free, Frozen Peas 16oz - Travel Size, Frozen Stir Fry Vegetables 16oz - Family Size
+
+Target Product: Frozen Mixed Vegetables 16oz (SKU100160)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Edamame Shelled 16oz, Frozen Peas 16oz, Frozen Stir Fry Vegetables 16oz - Organic
+
+Target Product: Frozen Corn 16oz (SKU100161)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Frozen Mixed Vegetables 16oz, Frozen Broccoli 12oz, Frozen Stir Fry Vegetables 16oz - Sugar-Free
+
+Target Product: Frozen Peas 16oz (SKU100162)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Frozen Stir Fry Vegetables 16oz, Frozen Stir Fry Vegetables 16oz - Sugar-Free, Frozen Peas 16oz - Travel Size
+
+Target Product: Pepperoni Pizza 12in (SKU100163)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Cheese Pizza 12in
+
+Target Product: Cheese Pizza 12in (SKU100164)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Pepperoni Pizza 12in
+
+Target Product: Chicken Nuggets 32oz (SKU100165)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Chicken Nuggets 32oz - Travel Size, Chicken Nuggets 32oz - Value Size
+
+Target Product: Fish Sticks 24oz (SKU100166)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Fish Sticks 24oz - Value Size
+
+Target Product: Frozen Waffles 10-count (SKU100167)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Frozen Waffles 10-count - Low-Sodium
+
+Target Product: Ice Cream Vanilla 1.5qt (SKU100168)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Ice Cream Chocolate 1.5qt, Ice Cream Vanilla 1.5qt - Decaf, Ice Cream Chocolate 1.5qt - Low-Sodium
+
+Target Product: Ice Cream Chocolate 1.5qt (SKU100169)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Ice Cream Vanilla 1.5qt - Decaf, Ice Cream Vanilla 1.5qt, Ice Cream Chocolate 1.5qt - Low-Sodium
+
+Target Product: Frozen Burritos 8-pack (SKU100170)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Frozen Burritos 8-pack - Organic, Frozen Burritos 8-pack - XL Pack
+
+Target Product: Frozen Stir Fry Vegetables 16oz (SKU100171)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Frozen Stir Fry Vegetables 16oz - Sugar-Free, Frozen Peas 16oz - Travel Size, Edamame Shelled 16oz
+
+Target Product: Edamame Shelled 16oz (SKU100172)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Frozen Peas 16oz, Frozen Stir Fry Vegetables 16oz - Organic, Frozen Stir Fry Vegetables 16oz - Sugar-Free
+
+Target Product: Frozen French Fries 32oz (SKU100173)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Frozen French Fries 32oz - Family Size, Frozen French Fries 32oz - Sugar-Free
+
+Target Product: Sparkling Water 12-pack (SKU100175)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Sparkling Water 12-pack - Organic
+
+Target Product: Cola Soda 12-pack 12oz (SKU100176)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Diet Cola 12-pack 12oz - XL Pack, Lemon-Lime Soda 12-pack 12oz, Lemon-Lime Soda 12-pack 12oz - Organic
+
+Target Product: Diet Cola 12-pack 12oz (SKU100177)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Lemon-Lime Soda 12-pack 12oz, Cola Soda 12-pack 12oz, Lemon-Lime Soda 12-pack 12oz - Organic
+
+Target Product: Lemon-Lime Soda 12-pack 12oz (SKU100178)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Lemon-Lime Soda 12-pack 12oz - Organic, Diet Cola 12-pack 12oz, Cola Soda 12-pack 12oz
+
+Target Product: Orange Juice 52oz (SKU100179)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Apple Juice 64oz - Family Size, Cranberry Juice Cocktail 64oz, Apple Juice 64oz - Sugar-Free
+
+Target Product: Apple Juice 64oz (SKU100180)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Orange Juice 52oz, Cranberry Juice Cocktail 64oz, Apple Juice 64oz - Sugar-Free
+
+Target Product: Cranberry Juice Cocktail 64oz (SKU100181)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Apple Juice 64oz - Sugar-Free, Apple Juice 64oz, Orange Juice 52oz
+
+Target Product: Whole Bean Coffee 12oz (SKU100182)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Ground Coffee Medium Roast 30oz - Low-Sodium, Ground Coffee Medium Roast 30oz
+
+Target Product: Ground Coffee Medium Roast 30oz (SKU100183)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Ground Coffee Medium Roast 30oz - Low-Sodium, Whole Bean Coffee 12oz
+
+Target Product: Black Tea Bags 100-count (SKU100184)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Green Tea Bags 40-count, Green Tea Bags 40-count - Family Size, Green Tea Bags 40-count - Low-Sodium
+
+Target Product: Green Tea Bags 40-count (SKU100185)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Green Tea Bags 40-count - Value Size, Black Tea Bags 100-count, Green Tea Bags 40-count - Low-Sodium
+
+Target Product: Sports Drink Lemon 8-pack 20oz (SKU100186)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Sports Drink Lemon 8-pack 20oz - Decaf
+
+Target Product: Coconut Water 1lt (SKU100188)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Coconut Water 1lt - Family Size
+
+Target Product: Potato Chips Original 8oz (SKU100189)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Tortilla Chips 13oz - Family Size, Potato Chips Original 8oz - Decaf, Potato Chips Original 8oz - Value Size
+
+Target Product: Tortilla Chips 13oz (SKU100190)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Potato Chips Original 8oz - Decaf, Potato Chips Original 8oz - Value Size, Potato Chips Original 8oz
+
+Target Product: Mixed Nuts 16oz (SKU100193)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Trail Mix 30oz, Mixed Nuts 16oz - Travel Size
+
+Target Product: Trail Mix 30oz (SKU100194)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Mixed Nuts 16oz - Travel Size, Mixed Nuts 16oz
+
+Target Product: Chocolate Chip Cookies 13oz (SKU100197)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Oreo Sandwich Cookies 14.3oz - Organic, Oreo Sandwich Cookies 14.3oz, Oreo Sandwich Cookies 14.3oz - Value Size
+
+Target Product: Oreo Sandwich Cookies 14.3oz (SKU100198)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Chocolate Chip Cookies 13oz, Oreo Sandwich Cookies 14.3oz - Value Size, Oreo Sandwich Cookies 14.3oz - Organic
+
+Target Product: Crackers Original 13.7oz (SKU100199)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Graham Crackers 14.4oz
+
+Target Product: Graham Crackers 14.4oz (SKU100200)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Crackers Original 13.7oz
+
+Target Product: Gummy Bears 5oz (SKU100201)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Sour Gummy Worms 5oz, Gummy Bears 5oz - Low-Sodium, Milk Chocolate Bar 3.5oz
+
+Target Product: Milk Chocolate Bar 3.5oz (SKU100202)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Milk Chocolate Bar 3.5oz - Sugar-Free, Sour Gummy Worms 5oz, Sour Gummy Worms 5oz - XL Pack
+
+Target Product: Sour Gummy Worms 5oz (SKU100203)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Sour Gummy Worms 5oz - XL Pack, Gummy Bears 5oz - Low-Sodium, Milk Chocolate Bar 3.5oz - Sugar-Free
+
+Target Product: Corn Flakes 18oz (SKU100204)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Oat Circles 12oz - Family Size, Oat Circles 12oz - Decaf, Raisin Bran 20oz
+
+Target Product: Frosted Flakes 19.2oz (SKU100205)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Corn Flakes 18oz - Decaf, Oat Circles 12oz - Decaf, Corn Flakes 18oz
+
+Target Product: Oat Circles 12oz (SKU100206)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Frosted Flakes 19.2oz - Organic, Corn Flakes 18oz - Decaf, Raisin Bran 20oz - Family Size
+
+Target Product: Raisin Bran 20oz (SKU100207)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Frosted Flakes 19.2oz - Family Size, Corn Flakes 18oz, Oat Circles 12oz
+
+Target Product: Granola Oats & Honey 16oz (SKU100208)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Granola Oats & Honey 16oz - Travel Size
+
+Target Product: Quick Oats 42oz (SKU100209)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Instant Oatmeal Variety 10-pack, Instant Oatmeal Variety 10-pack - Decaf
+
+Target Product: Instant Oatmeal Variety 10-pack (SKU100210)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Quick Oats 42oz, Instant Oatmeal Variety 10-pack - Decaf
+
+Target Product: Pancake Mix 32oz (SKU100211)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Pancake Mix 32oz - Family Size
+
+Target Product: Peanut Butter Creamy 28oz (SKU100213)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Peanut Butter Creamy 28oz - Organic
+
+Target Product: Strawberry Jam 18oz (SKU100214)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Strawberry Jam 18oz - Decaf, Strawberry Jam 18oz - XL Pack
+
+Target Product: Chicken Noodle Soup 10.75oz (SKU100215)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Chicken Noodle Soup 10.75oz - Travel Size, Tomato Soup 10.75oz, Chicken Noodle Soup 10.75oz - Sugar-Free
+
+Target Product: Tomato Soup 10.75oz (SKU100216)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Chicken Noodle Soup 10.75oz - Travel Size, Chicken Noodle Soup 10.75oz - Sugar-Free, Chicken Noodle Soup 10.75oz
+
+Target Product: Diced Tomatoes 14.5oz (SKU100217)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Diced Tomatoes 14.5oz - Low-Sodium, Tomato Sauce 15oz, Diced Tomatoes 14.5oz - Organic
+
+Target Product: Tomato Sauce 15oz (SKU100218)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Diced Tomatoes 14.5oz, Diced Tomatoes 14.5oz - Low-Sodium, Diced Tomatoes 14.5oz - Organic
+
+Target Product: Canned Black Beans 15oz (SKU100219)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Canned Black Beans 15oz - Low-Sodium, Canned Black Beans 15oz - Organic, Canned Chickpeas 15oz
+
+Target Product: Canned Chickpeas 15oz (SKU100220)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Canned Black Beans 15oz, Canned Black Beans 15oz - Organic, Canned Black Beans 15oz - Low-Sodium
+
+Target Product: Canned Tuna in Water 5oz (SKU100221)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Canned Tuna in Water 5oz - Organic, Canned Salmon 14.75oz, Canned Tuna in Water 5oz - Sugar-Free
+
+Target Product: Canned Salmon 14.75oz (SKU100222)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Canned Tuna in Water 5oz - Organic, Canned Tuna in Water 5oz - Sugar-Free, Canned Tuna in Water 5oz
+
+Target Product: White Rice Long Grain 5lb (SKU100223)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: White Rice Long Grain 5lb - Family Size, White Rice Long Grain 5lb - Organic
+
+Target Product: Pasta Spaghetti 16oz (SKU100224)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Pasta Penne 16oz, Pasta Spaghetti 16oz - XL Pack, Pasta Penne 16oz - Low-Sodium
+
+Target Product: Pasta Penne 16oz (SKU100225)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Pasta Spaghetti 16oz - XL Pack, Pasta Penne 16oz - Low-Sodium, Pasta Penne 16oz - Value Size
+
+Target Product: Vegetable Broth 32oz (SKU100227)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Chicken Broth 32oz, Chicken Broth 32oz - Organic, Vegetable Broth 32oz - Travel Size
+
+Target Product: Chicken Broth 32oz (SKU100228)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Vegetable Broth 32oz - Travel Size, Chicken Broth 32oz - Organic, Vegetable Broth 32oz
+
+Target Product: BBQ Sauce Original 18oz (SKU100233)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: BBQ Sauce Original 18oz - Family Size
+
+Target Product: Ranch Dressing 16oz (SKU100237)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Italian Dressing 16oz, Italian Dressing 16oz - Value Size
+
+Target Product: Italian Dressing 16oz (SKU100238)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Italian Dressing 16oz - Value Size, Ranch Dressing 16oz
+
+Target Product: Olive Oil Extra Virgin 16.9oz (SKU100239)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Vegetable Oil 48oz - Organic, Vegetable Oil 48oz, Vegetable Oil 48oz - XL Pack
+
+Target Product: Vegetable Oil 48oz (SKU100240)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Vegetable Oil 48oz - XL Pack, Vegetable Oil 48oz - Organic, Olive Oil Extra Virgin 16.9oz
+
+Target Product: White Vinegar 32oz (SKU100241)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Apple Cider Vinegar 32oz
+
+Target Product: Apple Cider Vinegar 32oz (SKU100242)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: White Vinegar 32oz
+
+Target Product: Shampoo Moisturizing 12oz (SKU100243)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Conditioner Strengthening 12oz, Conditioner Strengthening 12oz - Low-Sodium
+
+Target Product: Conditioner Strengthening 12oz (SKU100244)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Conditioner Strengthening 12oz - Low-Sodium, Shampoo Moisturizing 12oz
+
+Target Product: Toothpaste Whitening 4oz (SKU100247)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Mouthwash Fresh 1lt, Toothbrush Soft (2-pack) - Low-Sodium, Toothbrush Soft (2-pack)
+
+Target Product: Toothbrush Soft (2-pack) (SKU100248)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Toothpaste Whitening 4oz, Mouthwash Fresh 1lt, Toothbrush Soft (2-pack) - Low-Sodium
+
+Target Product: Mouthwash Fresh 1lt (SKU100249)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Toothbrush Soft (2-pack), Toothbrush Soft (2-pack) - Low-Sodium, Toothpaste Whitening 4oz
+
+Target Product: Deodorant Stick 2.6oz (SKU100250)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Antiperspirant Spray 4oz
+
+Target Product: Antiperspirant Spray 4oz (SKU100251)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Deodorant Stick 2.6oz
+
+Target Product: Facial Moisturizer SPF30 1.7oz (SKU100252)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Sunscreen SPF50 3oz - Travel Size, Sunscreen SPF50 3oz, Hand Lotion 7oz - Travel Size
+
+Target Product: Sunscreen SPF50 3oz (SKU100253)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Sunscreen SPF50 3oz - Family Size, Sunscreen SPF50 3oz - Travel Size, Hand Lotion 7oz - Travel Size
+
+Target Product: Hand Lotion 7oz (SKU100254)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Hand Lotion 7oz - Organic, Sunscreen SPF50 3oz - Family Size, Sunscreen SPF50 3oz
+
+Target Product: Razors 4-count (SKU100255)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Shaving Cream 7oz, Razors 4-count - Value Size
+
+Target Product: Shaving Cream 7oz (SKU100256)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Razors 4-count, Razors 4-count - Value Size
+
+Target Product: Feminine Pads Regular 36-count (SKU100257)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Tampons Regular 36-count - Travel Size, Feminine Pads Regular 36-count - Family Size, Tampons Regular 36-count
+
+Target Product: Tampons Regular 36-count (SKU100258)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Feminine Pads Regular 36-count - XL Pack, Tampons Regular 36-count - Travel Size, Feminine Pads Regular 36-count
+
+Target Product: Diapers Size 3 60-count (SKU100259)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Diapers Size 4 52-count - Low-Sodium, Diapers Size 4 52-count, Diapers Size 4 52-count - Organic
+
+Target Product: Diapers Size 4 52-count (SKU100260)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Diapers Size 3 60-count, Diapers Size 4 52-count - Organic, Diapers Size 4 52-count - Low-Sodium
+
+Target Product: Baby Wipes 72-count (SKU100261)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Baby Wipes 72-count - Travel Size, Baby Wipes 72-count - XL Pack
+
+Target Product: Baby Shampoo 13oz (SKU100262)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Baby Lotion 8oz - Decaf, Baby Shampoo 13oz - Decaf, Baby Lotion 8oz
+
+Target Product: Baby Lotion 8oz (SKU100263)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Baby Lotion 8oz - Decaf, Baby Shampoo 13oz - Decaf, Baby Shampoo 13oz
+
+Target Product: Baby Formula Powder 20oz (SKU100264)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Baby Formula Powder 20oz - Value Size, Baby Formula Powder 20oz - Organic
+
+Target Product: Baby Food Stage 2 4oz (6-pack) (SKU100265)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Baby Food Stage 2 4oz (6-pack) - Sugar-Free
+
+Target Product: All-Purpose Cleaner Spray 32oz (SKU100267)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Disinfecting Wipes 75-count
+
+Target Product: Disinfecting Wipes 75-count (SKU100268)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: All-Purpose Cleaner Spray 32oz
+
+Target Product: Dish Soap 24oz (SKU100270)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Dishwasher Pods 30-count - XL Pack, Dish Soap 24oz - Value Size, Dishwasher Pods 30-count
+
+Target Product: Dishwasher Pods 30-count (SKU100271)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Dish Soap 24oz - Value Size, Dishwasher Pods 30-count - XL Pack, Dish Soap 24oz
+
+Target Product: Bathroom Cleaner 32oz (SKU100272)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Bathroom Cleaner 32oz - Travel Size, Bathroom Cleaner 32oz - XL Pack, Mold & Mildew Remover 32oz
+
+Target Product: Mold & Mildew Remover 32oz (SKU100273)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Bathroom Cleaner 32oz - XL Pack, Bathroom Cleaner 32oz, Bathroom Cleaner 32oz - Travel Size
+
+Target Product: Sponges 6-pack (SKU100274)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Rubber Gloves M (pair) - Value Size, Rubber Gloves M (pair)
+
+Target Product: Rubber Gloves M (pair) (SKU100275)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Sponges 6-pack, Rubber Gloves M (pair) - Value Size
+
+Target Product: Trash Bags 13gal 40-count (SKU100276)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Trash Bags 33gal 20-count, Trash Bags 33gal 20-count - Sugar-Free, Trash Bags 13gal 40-count - Low-Sodium
+
+Target Product: Trash Bags 33gal 20-count (SKU100277)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Trash Bags 13gal 40-count, Trash Bags 13gal 40-count - Low-Sodium, Trash Bags 33gal 20-count - Sugar-Free
+
+Target Product: Liquid Laundry Detergent 92oz (SKU100278)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Laundry Pods 42-count, Liquid Laundry Detergent 92oz - Sugar-Free, Liquid Laundry Detergent 92oz - Value Size
+
+Target Product: Laundry Pods 42-count (SKU100279)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Liquid Laundry Detergent 92oz - Sugar-Free, Liquid Laundry Detergent 92oz, Liquid Laundry Detergent 92oz - Value Size
+
+Target Product: Fabric Softener 51oz (SKU100280)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Dryer Sheets 105-count, Fabric Softener 51oz - Family Size
+
+Target Product: Dryer Sheets 105-count (SKU100281)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Fabric Softener 51oz, Fabric Softener 51oz - Family Size
+
+Target Product: Paper Towels Double Roll 6-pack (SKU100284)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Paper Towels Double Roll 6-pack - Value Size, Paper Towels Double Roll 6-pack - Decaf, Paper Towels Double Roll 6-pack - Organic
+
+Target Product: Toilet Paper 12 Double Rolls (SKU100285)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Toilet Paper 12 Double Rolls - Value Size
+
+Target Product: Facial Tissues 3-box pack (SKU100286)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Facial Tissues 3-box pack - Low-Sodium
+
+Target Product: Paper Plates 8.5in 50-count (SKU100287)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Plastic Cups 16oz 50-count - Sugar-Free, Plastic Cups 16oz 50-count
+
+Target Product: Plastic Cups 16oz 50-count (SKU100288)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Plastic Cups 16oz 50-count - Sugar-Free, Paper Plates 8.5in 50-count
+
+Target Product: Aluminum Foil 75sqft (SKU100289)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Plastic Wrap 200sqft - Value Size, Plastic Wrap 200sqft - Sugar-Free, Plastic Wrap 200sqft
+
+Target Product: Plastic Wrap 200sqft (SKU100290)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Aluminum Foil 75sqft - Value Size, Aluminum Foil 75sqft, Plastic Wrap 200sqft - Sugar-Free
+
+Target Product: Quart Zip Bags 40-count (SKU100291)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Quart Zip Bags 40-count - Low-Sodium, Gallon Zip Bags 30-count
+
+Target Product: Gallon Zip Bags 30-count (SKU100292)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Quart Zip Bags 40-count, Quart Zip Bags 40-count - Low-Sodium
+
+Target Product: AA Batteries 20-pack (SKU100293)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: AAA Batteries 20-pack, AAA Batteries 20-pack - Travel Size
+
+Target Product: AAA Batteries 20-pack (SKU100294)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: AA Batteries 20-pack, AAA Batteries 20-pack - Travel Size
+
+Target Product: USB-C Charging Cable 6ft (SKU100295)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Phone Case Universal Slim, Lightning Cable 6ft, Lightning Cable 6ft - Family Size
+
+Target Product: Lightning Cable 6ft (SKU100296)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: USB-C Charging Cable 6ft - Family Size, Lightning Cable 6ft - Family Size, Lightning Cable 6ft - XL Pack
+
+Target Product: Phone Case Universal Slim (SKU100297)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Lightning Cable 6ft - Decaf, Lightning Cable 6ft, Lightning Cable 6ft - Travel Size
+
+Target Product: Earbuds Wired 3.5mm (SKU100298)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Bluetooth Speaker Portable
+
+Target Product: Bluetooth Speaker Portable (SKU100299)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Earbuds Wired 3.5mm
+
+Target Product: HDMI Cable 6ft (SKU100300)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: HDMI Cable 6ft - Value Size
+
+Target Product: Power Strip 6-outlet (SKU100301)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Extension Cord 6ft 3-outlet - Family Size, Extension Cord 6ft 3-outlet, Extension Cord 6ft 3-outlet - XL Pack
+
+Target Product: LED Light Bulbs A19 4-pack (SKU100302)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: LED Light Bulbs A19 4-pack - Sugar-Free, LED Light Bulbs A19 4-pack - Sugar-Free
+
+Target Product: Extension Cord 6ft 3-outlet (SKU100303)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Extension Cord 6ft 3-outlet - Family Size, Power Strip 6-outlet, Extension Cord 6ft 3-outlet - XL Pack
+
+Target Product: LEGO Classic 200-piece set (SKU100305)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: LEGO Classic 200-piece set - Value Size
+
+Target Product: Playing Cards Standard Deck (SKU100306)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: UNO Card Game - Family Size, Playing Cards Standard Deck - Decaf, UNO Card Game
+
+Target Product: Crayons 64-count (SKU100307)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Crayons 64-count - Travel Size, Watercolor Paint Set, Crayons 64-count - Low-Sodium
+
+Target Product: Watercolor Paint Set (SKU100308)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Crayons 64-count - Low-Sodium, Crayons 64-count, Crayons 64-count - Low-Sodium
+
+Target Product: UNO Card Game (SKU100310)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: UNO Card Game - Family Size, Playing Cards Standard Deck, Playing Cards Standard Deck - Decaf
+
+Target Product: Scrabble Board Game (SKU100311)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Scrabble Board Game - Travel Size, Monopoly Classic - Family Size, Monopoly Classic
+
+Target Product: Monopoly Classic (SKU100312)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Scrabble Board Game - Travel Size, Scrabble Board Game, Monopoly Classic - XL Pack
+
+Target Product: Nerf Blaster Basic (SKU100313)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Nerf Blaster Basic - XL Pack, Nerf Blaster Basic - Low-Sodium, Nerf Blaster Basic - Travel Size
+
+Target Product: Basketball Size 5 (SKU100314)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Basketball Size 5 - XL Pack
+
+Target Product: Resistance Bands Set 5-pack (SKU100316)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Jump Rope, Resistance Bands Set 5-pack - Decaf
+
+Target Product: Jump Rope (SKU100317)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Resistance Bands Set 5-pack - Decaf, Resistance Bands Set 5-pack
+
+Target Product: Sunglasses UV400 (SKU100320)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Sunglasses UV400 - Travel Size
+
+Target Product: Insect Repellent Spray 4oz (SKU100321)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Insect Repellent Spray 4oz - Travel Size
+
+Target Product: Camping Lantern LED (SKU100322)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Camping Lantern LED - Travel Size
+
+Target Product: Men's White T-Shirt L (SKU100323)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Men's White T-Shirt L - Value Size
+
+Target Product: Kids Socks 6-pack Sz 4-7 (SKU100325)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Kids Socks 6-pack Sz 4-7 - Decaf, Kids Socks 6-pack Sz 4-7 - Family Size
+
+Target Product: Women's Briefs 5-pack M (SKU100328)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Women's Briefs 5-pack M - Sugar-Free
+
+Target Product: Rain Poncho One Size (SKU100329)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Rain Poncho One Size - XL Pack
+
+Target Product: Non-stick Frying Pan 10in (SKU100330)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Stainless Sauce Pan 2qt, Non-stick Frying Pan 10in - XL Pack, Non-stick Frying Pan 10in - Low-Sodium
+
+Target Product: Stainless Sauce Pan 2qt (SKU100331)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Non-stick Frying Pan 10in - Low-Sodium, Non-stick Frying Pan 10in, Non-stick Frying Pan 10in - XL Pack
+
+Target Product: Cutting Board Plastic 12x18in (SKU100332)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Can Opener Manual, Measuring Cups Set 4-piece, Colander 5qt - Decaf
+
+Target Product: Can Opener Manual (SKU100333)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Cutting Board Plastic 12x18in, Colander 5qt, Measuring Cups Set 4-piece
+
+Target Product: Measuring Cups Set 4-piece (SKU100334)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Cutting Board Plastic 12x18in, Colander 5qt - Decaf, Colander 5qt
+
+Target Product: Measuring Spoons Set 6-piece (SKU100335)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Cutting Board Plastic 12x18in, Can Opener Manual, Colander 5qt
+
+Target Product: Kitchen Knife 8in Chef (SKU100336)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Kitchen Knife 8in Chef - XL Pack
+
+Target Product: Colander 5qt (SKU100337)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Cutting Board Plastic 12x18in, Mixing Bowls 3-piece Set, Can Opener Manual
+
+Target Product: Mixing Bowls 3-piece Set (SKU100338)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Can Opener Manual, Cutting Board Plastic 12x18in, Colander 5qt - Decaf
+
+Target Product: Baking Sheet 18x13in (SKU100339)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Muffin Pan 12-cup, Muffin Pan 12-cup - XL Pack
+
+Target Product: Muffin Pan 12-cup (SKU100340)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Baking Sheet 18x13in, Muffin Pan 12-cup - XL Pack
+
+Target Product: Dish Rack Stainless (SKU100341)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Oven Mitts Pair - Value Size, Oven Mitts Pair - Travel Size, Oven Mitts Pair
+
+Target Product: Oven Mitts Pair (SKU100343)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Dish Rack Stainless, Oven Mitts Pair - Value Size, Oven Mitts Pair - Travel Size
+
+Target Product: Dry Dog Food Adult 15lb (SKU100344)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Wet Dog Food 13oz (12-pack) - Organic, Wet Dog Food 13oz (12-pack), Wet Dog Food 13oz (12-pack) - Organic
+
+Target Product: Wet Dog Food 13oz (12-pack) (SKU100345)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Dry Dog Food Adult 15lb, Wet Dog Food 13oz (12-pack) - Organic, Wet Dog Food 13oz (12-pack) - Organic
+
+Target Product: Dry Cat Food Adult 7lb (SKU100346)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Wet Cat Food 5.5oz (12-pack)
+
+Target Product: Wet Cat Food 5.5oz (12-pack) (SKU100347)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Dry Cat Food Adult 7lb
+
+Target Product: Dog Treats Biscuits 16oz (SKU100349)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Dog Treats Biscuits 16oz - Travel Size
+
+Target Product: Pet Waste Bags 100-count (SKU100351)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Dog Collar Adjustable M, Dog Collar Adjustable M - XL Pack, Pet Waste Bags 100-count - Organic
+
+Target Product: Dog Collar Adjustable M (SKU100352)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Pet Waste Bags 100-count, Pet Waste Bags 100-count - Organic, Dog Collar Adjustable M - XL Pack
+
+Target Product: Ibuprofen 200mg 100-count (SKU100353)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Acetaminophen 500mg 100-count - Family Size, Ibuprofen 200mg 100-count - XL Pack, Acetaminophen 500mg 100-count
+
+Target Product: Acetaminophen 500mg 100-count (SKU100354)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Ibuprofen 200mg 100-count - XL Pack, Acetaminophen 500mg 100-count - Family Size, Ibuprofen 200mg 100-count
+
+Target Product: Allergy Relief 24-hour 30ct (SKU100356)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Allergy Relief 24-hour 30ct - Low-Sodium
+
+Target Product: Cold Relief DayTime Liquid 12oz (SKU100357)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Cold Relief DayTime Liquid 12oz - Sugar-Free, Cough Drops Honey Lemon 30-count, Cough Drops Honey Lemon 30-count - Travel Size
+
+Target Product: Cough Drops Honey Lemon 30-count (SKU100358)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Cough Drops Honey Lemon 30-count - Travel Size, Cold Relief DayTime Liquid 12oz, Cold Relief DayTime Liquid 12oz - Sugar-Free
+
+Target Product: Multivitamins Adults 100-count (SKU100359)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Vitamin C 1000mg 60-count, Vitamin C 1000mg 60-count - XL Pack
+
+Target Product: Vitamin C 1000mg 60-count (SKU100360)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Vitamin C 1000mg 60-count - XL Pack, Multivitamins Adults 100-count
+
+Target Product: Bandage Assorted 80-count (SKU100361)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Thermometer Digital - Value Size, Thermometer Digital, Thermometer Digital - Family Size
+
+Target Product: Thermometer Digital (SKU100362)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Bandage Assorted 80-count - Value Size, Thermometer Digital - Value Size, Thermometer Digital - Family Size
+
+Target Product: Ballpoint Pens Blue 10-pack (SKU100363)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Ballpoint Pens Blue 10-pack - Sugar-Free
+
+Target Product: Mechanical Pencils 5-pack (SKU100364)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Mechanical Pencils 5-pack - Value Size, Mechanical Pencils 5-pack - Travel Size
+
+Target Product: Highlighters 5-pack Assorted (SKU100365)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Highlighters 5-pack Assorted - Family Size, Highlighters 5-pack Assorted - Travel Size, Highlighters 5-pack Assorted - Sugar-Free
+
+Target Product: Sticky Notes 3x3in 12-pack (SKU100366)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Index Cards 3x5 200-count - XL Pack, Index Cards 3x5 200-count, Index Cards 3x5 200-count - Low-Sodium
+
+Target Product: Composition Notebook 100-page (SKU100367)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Spiral Notebook College Ruled - XL Pack, Spiral Notebook College Ruled
+
+Target Product: Spiral Notebook College Ruled (SKU100368)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Composition Notebook 100-page, Spiral Notebook College Ruled - XL Pack
+
+Target Product: Printer Paper 8.5x11 500-sheet (SKU100369)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Printer Paper 8.5x11 500-sheet - Value Size
+
+Target Product: Tape Rolls 3-pack (SKU100370)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Tape Rolls 3-pack - XL Pack, Tape Rolls 3-pack - Decaf
+
+Target Product: Stapler Standard (SKU100371)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Scissors 8in
+
+Target Product: Scissors 8in (SKU100372)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Stapler Standard
+
+Target Product: Index Cards 3x5 200-count (SKU100373)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Sticky Notes 3x3in 12-pack, Index Cards 3x5 200-count - XL Pack, Index Cards 3x5 200-count - Low-Sodium
+
+Target Product: Scented Candle 8oz (SKU100374)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Scented Candle 8oz - XL Pack, Air Freshener Spray 8.3oz, Air Freshener Spray 8.3oz - Travel Size
+
+Target Product: Air Freshener Spray 8.3oz (SKU100375)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Scented Candle 8oz, Scented Candle 8oz - XL Pack, Air Freshener Spray 8.3oz - Travel Size
+
+Target Product: Wrapping Paper Roll 30sqft (SKU100378)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Gift Bags Assorted 4-pack - Organic, Wrapping Paper Roll 30sqft - Family Size, Wrapping Paper Roll 30sqft - Family Size
+
+Target Product: Gift Bags Assorted 4-pack (SKU100379)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Wrapping Paper Roll 30sqft - Family Size, Wrapping Paper Roll 30sqft - Family Size, Gift Bags Assorted 4-pack - Organic
+
+Target Product: Birthday Candles 24-count (SKU100380)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Balloons 15-count, Balloons 15-count - Decaf, Balloons 15-count - Travel Size
+
+Target Product: Balloons 15-count (SKU100381)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Birthday Candles 24-count, Birthday Candles 24-count - Organic, Balloons 15-count - Travel Size
+
+Target Product: Thermometer Digital - Value Size (SKU200100)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Thermometer Digital, Bandage Assorted 80-count - Value Size, Bandage Assorted 80-count
+
+Target Product: Romaine Hearts 3-pack - Organic (SKU200101)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Zucchini (each), Cherry Tomatoes 10oz, Garlic Bulb (each)
+
+Target Product: Granola Oats & Honey 16oz - Travel Size (SKU200102)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Granola Oats & Honey 16oz
+
+Target Product: Sunglasses UV400 - Travel Size (SKU200103)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Sunglasses UV400
+
+Target Product: Extension Cord 6ft 3-outlet - XL Pack (SKU200104)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Extension Cord 6ft 3-outlet, Power Strip 6-outlet, Extension Cord 6ft 3-outlet - Family Size
+
+Target Product: Crayons 64-count - Low-Sodium (SKU200105)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Watercolor Paint Set, Crayons 64-count - Travel Size, Crayons 64-count - Low-Sodium
+
+Target Product: Toilet Paper 12 Double Rolls - Value Size (SKU200106)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Toilet Paper 12 Double Rolls
+
+Target Product: LED Light Bulbs A19 4-pack - Sugar-Free (SKU200107)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: LED Light Bulbs A19 4-pack - Sugar-Free, LED Light Bulbs A19 4-pack
+
+Target Product: Bandage Assorted 80-count - Value Size (SKU200108)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Thermometer Digital - Family Size, Bandage Assorted 80-count, Thermometer Digital
+
+Target Product: Sparkling Water 12-pack - Organic (SKU200109)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Sparkling Water 12-pack
+
+Target Product: Tortilla Chips 13oz - Family Size (SKU200110)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Potato Chips Original 8oz - Value Size, Tortilla Chips 13oz, Potato Chips Original 8oz
+
+Target Product: Baby Wipes 72-count - Travel Size (SKU200111)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Baby Wipes 72-count, Baby Wipes 72-count - XL Pack
+
+Target Product: Almond Milk Unsweetened 64oz - Decaf (SKU200112)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Oat Milk Original 64oz, Almond Milk Unsweetened 64oz, Oat Milk Original 64oz - Organic
+
+Target Product: Plastic Cups 16oz 50-count - Sugar-Free (SKU200113)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Paper Plates 8.5in 50-count, Plastic Cups 16oz 50-count
+
+Target Product: Kitchen Knife 8in Chef - XL Pack (SKU200114)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Kitchen Knife 8in Chef
+
+Target Product: Oven Mitts Pair - Travel Size (SKU200115)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Oven Mitts Pair - Value Size, Oven Mitts Pair, Dish Rack Stainless
+
+Target Product: Cough Drops Honey Lemon 30-count - Travel Size (SKU200116)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Cough Drops Honey Lemon 30-count, Cold Relief DayTime Liquid 12oz, Cold Relief DayTime Liquid 12oz - Sugar-Free
+
+Target Product: Plastic Wrap 200sqft - Sugar-Free (SKU200117)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Aluminum Foil 75sqft - Value Size, Plastic Wrap 200sqft - Value Size, Plastic Wrap 200sqft
+
+Target Product: Strawberry Yogurt 6-pack - Decaf (SKU200118)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Greek Yogurt Plain 32oz, Strawberry Yogurt 6-pack, Greek Yogurt Plain 32oz - Value Size
+
+Target Product: Dish Soap 24oz - Value Size (SKU200119)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Dishwasher Pods 30-count, Dishwasher Pods 30-count - XL Pack, Dish Soap 24oz
+
+Target Product: Fish Sticks 24oz - Value Size (SKU200120)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Fish Sticks 24oz
+
+Target Product: Printer Paper 8.5x11 500-sheet - Value Size (SKU200121)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Printer Paper 8.5x11 500-sheet
+
+Target Product: Tampons Regular 36-count - Travel Size (SKU200122)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Feminine Pads Regular 36-count, Feminine Pads Regular 36-count - XL Pack, Tampons Regular 36-count
+
+Target Product: Chicken Noodle Soup 10.75oz - Travel Size (SKU200123)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Tomato Soup 10.75oz, Chicken Noodle Soup 10.75oz, Chicken Noodle Soup 10.75oz - Sugar-Free
+
+Target Product: Bathroom Cleaner 32oz - Travel Size (SKU200124)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Bathroom Cleaner 32oz, Bathroom Cleaner 32oz - XL Pack, Mold & Mildew Remover 32oz
+
+Target Product: Iceberg Lettuce (head) - Low-Sodium (SKU200125)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Zucchini (each) - Value Size, Romaine Hearts 3-pack - Organic, Celery Stalks
+
+Target Product: Canned Black Beans 15oz - Organic (SKU200126)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Canned Black Beans 15oz - Low-Sodium, Canned Black Beans 15oz, Canned Chickpeas 15oz
+
+Target Product: Kids Socks 6-pack Sz 4-7 - Family Size (SKU200127)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Kids Socks 6-pack Sz 4-7 - Decaf, Kids Socks 6-pack Sz 4-7
+
+Target Product: Milk Chocolate Bar 3.5oz - Travel Size (SKU200128)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Sour Gummy Worms 5oz, Gummy Bears 5oz, Gummy Bears 5oz - Low-Sodium
+
+Target Product: Mechanical Pencils 5-pack - Value Size (SKU200129)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Mechanical Pencils 5-pack - Travel Size, Mechanical Pencils 5-pack
+
+Target Product: Men's White T-Shirt L - Value Size (SKU200130)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Men's White T-Shirt L
+
+Target Product: Monopoly Classic - XL Pack (SKU200131)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Monopoly Classic - Family Size, Monopoly Classic, Scrabble Board Game - Travel Size
+
+Target Product: Strawberry Jam 18oz - XL Pack (SKU200132)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Strawberry Jam 18oz, Strawberry Jam 18oz - Decaf
+
+Target Product: Frozen Burritos 8-pack - XL Pack (SKU200133)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Frozen Burritos 8-pack, Frozen Burritos 8-pack - Organic
+
+Target Product: Rain Poncho One Size - XL Pack (SKU200134)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Rain Poncho One Size
+
+Target Product: Chocolate Cake Slice - Sugar-Free (SKU200135)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Chocolate Cake Slice
+
+Target Product: Greek Yogurt Plain 32oz - Value Size (SKU200136)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Strawberry Yogurt 6-pack - Decaf, Greek Yogurt Plain 32oz, Strawberry Yogurt 6-pack - Sugar-Free
+
+Target Product: Frozen French Fries 32oz - Sugar-Free (SKU200137)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Frozen French Fries 32oz, Frozen French Fries 32oz - Family Size
+
+Target Product: Beef Sirloin Steak 1lb - Decaf (SKU200138)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: 85/15 Ground Beef 1lb - Low-Sodium, 85/15 Ground Beef 1lb - Decaf, Beef Sirloin Steak 1lb - Organic
+
+Target Product: Muffin Pan 12-cup - XL Pack (SKU200139)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Muffin Pan 12-cup, Baking Sheet 18x13in
+
+Target Product: Shredded Mozzarella 2lb - Decaf (SKU200140)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Sliced American Cheese 16oz - XL Pack, Shredded Mozzarella 2lb, Sliced American Cheese 16oz
+
+Target Product: Iceberg Lettuce (head) - Decaf (SKU200141)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Yellow Onions 3lb, Broccoli Crown, Cherry Tomatoes 10oz
+
+Target Product: Mixed Nuts 16oz - Travel Size (SKU200142)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Trail Mix 30oz, Mixed Nuts 16oz
+
+Target Product: Sour Gummy Worms 5oz - XL Pack (SKU200143)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Milk Chocolate Bar 3.5oz - Travel Size, Gummy Bears 5oz - Low-Sodium, Milk Chocolate Bar 3.5oz - Sugar-Free
+
+Target Product: Wrapping Paper Roll 30sqft - Family Size (SKU200144)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Wrapping Paper Roll 30sqft - Family Size, Gift Bags Assorted 4-pack, Gift Bags Assorted 4-pack - Organic
+
+Target Product: Cherry Tomatoes 10oz - Decaf (SKU200145)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Iceberg Lettuce (head) - Low-Sodium, Cherry Tomatoes 10oz, Garlic Bulb (each) - Decaf
+
+Target Product: Phone Case Universal Slim - Decaf (SKU200146)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: USB-C Charging Cable 6ft - Family Size, Lightning Cable 6ft - Family Size, USB-C Charging Cable 6ft
+
+Target Product: 85/15 Ground Beef 1lb - Low-Sodium (SKU200147)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Beef Sirloin Steak 1lb - Decaf, Beef Sirloin Steak 1lb - Value Size, 85/15 Ground Beef 1lb - Decaf
+
+Target Product: Baby Formula Powder 20oz - Value Size (SKU200148)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Baby Formula Powder 20oz, Baby Formula Powder 20oz - Organic
+
+Target Product: Green Tea Bags 40-count - Family Size (SKU200149)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Green Tea Bags 40-count, Green Tea Bags 40-count - Low-Sodium, Black Tea Bags 100-count
+
+Target Product: Vegetable Oil 48oz - XL Pack (SKU200150)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Olive Oil Extra Virgin 16.9oz, Vegetable Oil 48oz - Organic, Vegetable Oil 48oz
+
+Target Product: Frozen French Fries 32oz - Family Size (SKU200151)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Frozen French Fries 32oz, Frozen French Fries 32oz - Sugar-Free
+
+Target Product: Lightning Cable 6ft - XL Pack (SKU200152)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Lightning Cable 6ft - Travel Size, Lightning Cable 6ft, Lightning Cable 6ft - Family Size
+
+Target Product: Boneless Chicken Breast 2lb - Travel Size (SKU200153)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Ground Turkey 93/7 1lb - XL Pack, Ground Turkey 93/7 1lb, Boneless Chicken Breast 2lb - Travel Size
+
+Target Product: Corn Tortillas 30-pack - XL Pack (SKU200154)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Corn Tortillas 30-pack - Organic, Corn Tortillas 30-pack, Flour Tortillas 10-pack
+
+Target Product: BBQ Sauce Original 18oz - Family Size (SKU200155)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: BBQ Sauce Original 18oz
+
+Target Product: Frozen Peas 16oz - Travel Size (SKU200156)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Frozen Peas 16oz - Low-Sodium, Frozen Stir Fry Vegetables 16oz - Family Size, Frozen Corn 16oz
+
+Target Product: Baby Lotion 8oz - Decaf (SKU200157)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Baby Lotion 8oz, Baby Shampoo 13oz, Baby Shampoo 13oz - Decaf
+
+Target Product: Potato Chips Original 8oz - Decaf (SKU200158)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Tortilla Chips 13oz - Family Size, Tortilla Chips 13oz, Potato Chips Original 8oz - Value Size
+
+Target Product: Dog Collar Adjustable M - XL Pack (SKU200159)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Pet Waste Bags 100-count - Organic, Dog Collar Adjustable M, Pet Waste Bags 100-count
+
+Target Product: Strawberry Yogurt 6-pack - Sugar-Free (SKU200160)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Greek Yogurt Plain 32oz - Value Size, Greek Yogurt Plain 32oz, Strawberry Yogurt 6-pack - Decaf
+
+Target Product: Sour Cream 16oz - Travel Size (SKU200161)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Sour Cream 16oz - Value Size, Sour Cream 16oz, Heavy Whipping Cream 1pt
+
+Target Product: Chicken Nuggets 32oz - Travel Size (SKU200162)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Chicken Nuggets 32oz - Value Size, Chicken Nuggets 32oz
+
+Target Product: Highlighters 5-pack Assorted - Travel Size (SKU200163)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Highlighters 5-pack Assorted - Sugar-Free, Highlighters 5-pack Assorted, Highlighters 5-pack Assorted - Family Size
+
+Target Product: Highlighters 5-pack Assorted - Sugar-Free (SKU200164)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Highlighters 5-pack Assorted - Travel Size, Highlighters 5-pack Assorted, Highlighters 5-pack Assorted - Family Size
+
+Target Product: Razors 4-count - Value Size (SKU200165)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Shaving Cream 7oz, Razors 4-count
+
+Target Product: Bathroom Cleaner 32oz - XL Pack (SKU200166)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Bathroom Cleaner 32oz, Mold & Mildew Remover 32oz, Bathroom Cleaner 32oz - Travel Size
+
+Target Product: Nerf Blaster Basic - XL Pack (SKU200167)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Nerf Blaster Basic - Travel Size, Nerf Blaster Basic - Low-Sodium, Nerf Blaster Basic
+
+Target Product: Pasta Penne 16oz - Low-Sodium (SKU200168)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Pasta Penne 16oz - Value Size, Pasta Penne 16oz, Pasta Spaghetti 16oz - XL Pack
+
+Target Product: Monopoly Classic - Family Size (SKU200169)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Scrabble Board Game, Monopoly Classic, Monopoly Classic - XL Pack
+
+Target Product: Trash Bags 13gal 40-count - Low-Sodium (SKU200170)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Trash Bags 33gal 20-count, Trash Bags 33gal 20-count - Sugar-Free, Trash Bags 13gal 40-count
+
+Target Product: White Rice Long Grain 5lb - Family Size (SKU200171)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: White Rice Long Grain 5lb - Organic, White Rice Long Grain 5lb
+
+Target Product: Toothbrush Soft (2-pack) - Low-Sodium (SKU200172)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Mouthwash Fresh 1lt, Toothpaste Whitening 4oz, Toothbrush Soft (2-pack)
+
+Target Product: Diapers Size 4 52-count - Organic (SKU200173)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Diapers Size 3 60-count, Diapers Size 4 52-count - Low-Sodium, Diapers Size 4 52-count
+
+Target Product: Feminine Pads Regular 36-count - Family Size (SKU200174)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Tampons Regular 36-count - Travel Size, Tampons Regular 36-count, Feminine Pads Regular 36-count - XL Pack
+
+Target Product: Instant Oatmeal Variety 10-pack - Decaf (SKU200175)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Instant Oatmeal Variety 10-pack, Quick Oats 42oz
+
+Target Product: Scented Candle 8oz - XL Pack (SKU200176)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Air Freshener Spray 8.3oz, Air Freshener Spray 8.3oz - Travel Size, Scented Candle 8oz
+
+Target Product: Playing Cards Standard Deck - Decaf (SKU200177)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: UNO Card Game - Family Size, UNO Card Game, Playing Cards Standard Deck
+
+Target Product: Toothpaste Whitening 4oz - Value Size (SKU200178)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Toothbrush Soft (2-pack), Toothbrush Soft (2-pack) - Low-Sodium, Mouthwash Fresh 1lt
+
+Target Product: Chicken Nuggets 32oz - Value Size (SKU200179)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Chicken Nuggets 32oz, Chicken Nuggets 32oz - Travel Size
+
+Target Product: Gummy Bears 5oz - Low-Sodium (SKU200180)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Milk Chocolate Bar 3.5oz - Travel Size, Sour Gummy Worms 5oz - XL Pack, Milk Chocolate Bar 3.5oz - Sugar-Free
+
+Target Product: Highlighters 5-pack Assorted - Family Size (SKU200181)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Highlighters 5-pack Assorted, Highlighters 5-pack Assorted - Sugar-Free, Highlighters 5-pack Assorted - Travel Size
+
+Target Product: Ground Coffee Medium Roast 30oz - Low-Sodium (SKU200182)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Ground Coffee Medium Roast 30oz, Whole Bean Coffee 12oz
+
+Target Product: Sunscreen SPF50 3oz - Family Size (SKU200183)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Sunscreen SPF50 3oz - Travel Size, Sunscreen SPF50 3oz - Sugar-Free, Sunscreen SPF50 3oz
+
+Target Product: Feminine Pads Regular 36-count - XL Pack (SKU200184)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Tampons Regular 36-count, Feminine Pads Regular 36-count, Tampons Regular 36-count - Travel Size
+
+Target Product: Wet Dog Food 13oz (12-pack) - Travel Size (SKU200185)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Wet Dog Food 13oz (12-pack) - Organic, Dry Dog Food Adult 15lb, Wet Dog Food 13oz (12-pack)
+
+Target Product: Pasta Spaghetti 16oz - XL Pack (SKU200186)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Pasta Penne 16oz - Value Size, Pasta Penne 16oz, Pasta Penne 16oz - Low-Sodium
+
+Target Product: Diapers Size 4 52-count - Low-Sodium (SKU200187)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Diapers Size 4 52-count, Diapers Size 3 60-count, Diapers Size 4 52-count - Organic
+
+Target Product: Frozen Burritos 8-pack - Organic (SKU200188)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Frozen Burritos 8-pack, Frozen Burritos 8-pack - XL Pack
+
+Target Product: Coconut Water 1lt - Family Size (SKU200189)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Coconut Water 1lt
+
+Target Product: Oreo Sandwich Cookies 14.3oz - Organic (SKU200190)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Oreo Sandwich Cookies 14.3oz, Chocolate Chip Cookies 13oz, Oreo Sandwich Cookies 14.3oz - Value Size
+
+Target Product: Oat Circles 12oz - Family Size (SKU200191)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Oat Circles 12oz - Decaf, Corn Flakes 18oz - Decaf, Frosted Flakes 19.2oz - Organic
+
+Target Product: Frozen Peas 16oz - Low-Sodium (SKU200192)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Frozen Broccoli 12oz, Frozen Stir Fry Vegetables 16oz, Frozen Stir Fry Vegetables 16oz - Organic
+
+Target Product: Sweet Corn (each) - Sugar-Free (SKU200193)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Iceberg Lettuce (head), Sweet Corn (each), Baby Carrots 1lb
+
+Target Product: Wet Dog Food 13oz (12-pack) - Organic (SKU200194)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Wet Dog Food 13oz (12-pack) - Travel Size, Wet Dog Food 13oz (12-pack), Wet Dog Food 13oz (12-pack) - Organic
+
+Target Product: Blueberry Muffins 4-pack - Organic (SKU200195)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Blueberry Muffins 4-pack, English Muffins 6-pack
+
+Target Product: 2% Reduced Fat Milk 1 Gallon - Value Size (SKU200196)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Whole Milk 1 Gallon, 2% Reduced Fat Milk 1 Gallon
+
+Target Product: Balloons 15-count - Travel Size (SKU200197)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Balloons 15-count - Decaf, Balloons 15-count - Family Size, Balloons 15-count
+
+Target Product: Milk Chocolate Bar 3.5oz - Sugar-Free (SKU200198)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Milk Chocolate Bar 3.5oz - Travel Size, Sour Gummy Worms 5oz, Milk Chocolate Bar 3.5oz
+
+Target Product: Index Cards 3x5 200-count - XL Pack (SKU200199)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Sticky Notes 3x3in 12-pack, Index Cards 3x5 200-count - Low-Sodium, Index Cards 3x5 200-count
+
+Target Product: Extension Cord 6ft 3-outlet - Family Size (SKU200200)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Extension Cord 6ft 3-outlet - XL Pack, Power Strip 6-outlet, Extension Cord 6ft 3-outlet
+
+Target Product: Strawberries 1lb - Sugar-Free (SKU200201)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Navel Oranges 4lb Bag, Bananas (bunch ~5), Strawberries 1lb
+
+Target Product: Wrapping Paper Roll 30sqft - Family Size (SKU200202)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Gift Bags Assorted 4-pack - Organic, Wrapping Paper Roll 30sqft - Family Size, Gift Bags Assorted 4-pack
+
+Target Product: Oreo Sandwich Cookies 14.3oz - Value Size (SKU200203)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Chocolate Chip Cookies 13oz, Oreo Sandwich Cookies 14.3oz, Oreo Sandwich Cookies 14.3oz - Organic
+
+Target Product: Mango (each) - Decaf (SKU200204)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Watermelon (whole), Organic Fuji Apples 3lb Bag, Bananas (bunch ~5)
+
+Target Product: Crayons 64-count - Low-Sodium (SKU200205)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Watercolor Paint Set, Crayons 64-count - Low-Sodium, Crayons 64-count
+
+Target Product: Frozen Stir Fry Vegetables 16oz - Family Size (SKU200206)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Frozen Stir Fry Vegetables 16oz, Frozen Corn 16oz, Frozen Peas 16oz
+
+Target Product: Women's Briefs 5-pack M - Sugar-Free (SKU200207)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Women's Briefs 5-pack M
+
+Target Product: Paper Towels Double Roll 6-pack - Organic (SKU200208)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Paper Towels Double Roll 6-pack - Decaf, Paper Towels Double Roll 6-pack, Paper Towels Double Roll 6-pack - Value Size
+
+Target Product: Cold Relief DayTime Liquid 12oz - Sugar-Free (SKU200209)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Cough Drops Honey Lemon 30-count, Cough Drops Honey Lemon 30-count - Travel Size, Cold Relief DayTime Liquid 12oz
+
+Target Product: Peanut Butter Creamy 28oz - Organic (SKU200210)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Peanut Butter Creamy 28oz
+
+Target Product: Balloons 15-count - Family Size (SKU200211)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Balloons 15-count - Decaf, Birthday Candles 24-count, Balloons 15-count
+
+Target Product: Ground Turkey 93/7 1lb - Family Size (SKU200212)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Ground Turkey 93/7 1lb, Boneless Chicken Breast 2lb, Ground Turkey 93/7 1lb - XL Pack
+
+Target Product: Birthday Candles 24-count - Organic (SKU200213)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Birthday Candles 24-count, Balloons 15-count - Decaf, Balloons 15-count - Family Size
+
+Target Product: Frosted Flakes 19.2oz - Family Size (SKU200214)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Raisin Bran 20oz, Oat Circles 12oz, Oat Circles 12oz - Decaf
+
+Target Product: Frozen Waffles 10-count - Low-Sodium (SKU200215)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Frozen Waffles 10-count
+
+Target Product: LED Light Bulbs A19 4-pack - Sugar-Free (SKU200216)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: LED Light Bulbs A19 4-pack, LED Light Bulbs A19 4-pack - Sugar-Free
+
+Target Product: Resistance Bands Set 5-pack - Decaf (SKU200217)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Jump Rope, Resistance Bands Set 5-pack
+
+Target Product: Baby Carrots 1lb - Sugar-Free (SKU200218)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Yellow Onions 3lb, Baby Carrots 1lb, Roma Tomatoes 2lb
+
+Target Product: USB-C Charging Cable 6ft - Family Size (SKU200219)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Phone Case Universal Slim - Decaf, Phone Case Universal Slim, Lightning Cable 6ft
+
+Target Product: Liquid Laundry Detergent 92oz - Value Size (SKU200220)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Liquid Laundry Detergent 92oz - Sugar-Free, Liquid Laundry Detergent 92oz, Laundry Pods 42-count
+
+Target Product: Red Seedless Grapes 2lb - XL Pack (SKU200221)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Mango (each) - Decaf, Blueberries 6oz, Pineapple (whole) - Low-Sodium
+
+Target Product: Diced Tomatoes 14.5oz - Organic (SKU200222)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Diced Tomatoes 14.5oz, Tomato Sauce 15oz, Diced Tomatoes 14.5oz - Low-Sodium
+
+Target Product: Basketball Size 5 - XL Pack (SKU200223)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Basketball Size 5
+
+Target Product: Cherry Tomatoes 10oz - Organic (SKU200224)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Spinach 5oz bag - Family Size, Celery Stalks, Baby Carrots 1lb - Sugar-Free
+
+Target Product: Frozen Stir Fry Vegetables 16oz - Sugar-Free (SKU200225)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Frozen Peas 16oz - Low-Sodium, Frozen Mixed Vegetables 16oz, Frozen Stir Fry Vegetables 16oz - Family Size
+
+Target Product: Canned Tuna in Water 5oz - Sugar-Free (SKU200226)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Canned Salmon 14.75oz, Canned Tuna in Water 5oz - Organic, Canned Tuna in Water 5oz
+
+Target Product: Sunscreen SPF50 3oz - Sugar-Free (SKU200227)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Sunscreen SPF50 3oz, Hand Lotion 7oz, Sunscreen SPF50 3oz - Family Size
+
+Target Product: Ibuprofen 200mg 100-count - XL Pack (SKU200228)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Acetaminophen 500mg 100-count, Acetaminophen 500mg 100-count - Family Size, Ibuprofen 200mg 100-count
+
+Target Product: Nerf Blaster Basic - Low-Sodium (SKU200229)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Nerf Blaster Basic - Travel Size, Nerf Blaster Basic - XL Pack, Nerf Blaster Basic
+
+Target Product: Chicken Noodle Soup 10.75oz - Sugar-Free (SKU200230)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Tomato Soup 10.75oz, Chicken Noodle Soup 10.75oz - Travel Size, Chicken Noodle Soup 10.75oz
+
+Target Product: Nerf Blaster Basic - Travel Size (SKU200231)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Nerf Blaster Basic - XL Pack, Nerf Blaster Basic - Low-Sodium, Nerf Blaster Basic
+
+Target Product: Aluminum Foil 75sqft - Value Size (SKU200232)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Plastic Wrap 200sqft - Value Size, Plastic Wrap 200sqft - Sugar-Free, Aluminum Foil 75sqft
+
+Target Product: Zucchini (each) - Value Size (SKU200233)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Baby Carrots 1lb - Family Size, Garlic Bulb (each), Celery Stalks
+
+Target Product: Oat Circles 12oz - Decaf (SKU200234)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Corn Flakes 18oz - Decaf, Frosted Flakes 19.2oz - Organic, Frosted Flakes 19.2oz - Family Size
+
+Target Product: Wet Dog Food 13oz (12-pack) - Organic (SKU200235)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Wet Dog Food 13oz (12-pack), Dry Dog Food Adult 15lb, Wet Dog Food 13oz (12-pack) - Organic
+
+Target Product: Conditioner Strengthening 12oz - Low-Sodium (SKU200236)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Conditioner Strengthening 12oz, Shampoo Moisturizing 12oz
+
+Target Product: Thermometer Digital - Family Size (SKU200237)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Bandage Assorted 80-count, Thermometer Digital, Bandage Assorted 80-count - Value Size
+
+Target Product: Corn Flakes 18oz - Decaf (SKU200238)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Oat Circles 12oz - Family Size, Frosted Flakes 19.2oz - Organic, Oat Circles 12oz - Decaf
+
+Target Product: Pineapple (whole) - Sugar-Free (SKU200239)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Mango (each) - Decaf, Strawberries 1lb - Travel Size, Red Seedless Grapes 2lb - XL Pack
+
+Target Product: Lemon-Lime Soda 12-pack 12oz - Organic (SKU200240)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Lemon-Lime Soda 12-pack 12oz, Cola Soda 12-pack 12oz, Diet Cola 12-pack 12oz
+
+Target Product: Balloons 15-count - Decaf (SKU200241)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Birthday Candles 24-count, Balloons 15-count - Travel Size, Balloons 15-count
+
+Target Product: Sports Drink Lemon 8-pack 20oz - Decaf (SKU200242)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Sports Drink Lemon 8-pack 20oz
+
+Target Product: Spiral Notebook College Ruled - XL Pack (SKU200243)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Composition Notebook 100-page, Spiral Notebook College Ruled
+
+Target Product: Scrabble Board Game - Travel Size (SKU200244)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Scrabble Board Game, Monopoly Classic, Monopoly Classic - Family Size
+
+Target Product: Pancake Mix 32oz - Family Size (SKU200245)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Pancake Mix 32oz
+
+Target Product: Pineapple (whole) - XL Pack (SKU200246)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Strawberries 1lb, Watermelon (whole), Bananas (bunch ~5)
+
+Target Product: Pineapple (whole) - Low-Sodium (SKU200247)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Avocado (each) - Sugar-Free, Strawberries 1lb - Travel Size, Pineapple (whole) - XL Pack
+
+Target Product: White Rice Long Grain 5lb - Organic (SKU200248)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: White Rice Long Grain 5lb - Family Size, White Rice Long Grain 5lb
+
+Target Product: Chicken Thighs Bone-In 3lb - Decaf (SKU200249)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Ground Turkey 93/7 1lb - Family Size, Ground Turkey 93/7 1lb, Boneless Chicken Breast 2lb - Travel Size
+
+Target Product: Ground Turkey 93/7 1lb - XL Pack (SKU200250)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Boneless Chicken Breast 2lb - Travel Size, Ground Turkey 93/7 1lb - Family Size, Chicken Thighs Bone-In 3lb - Decaf
+
+Target Product: Strawberries 1lb - Travel Size (SKU200251)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Red Seedless Grapes 2lb, Pineapple (whole) - Sugar-Free, Bananas (bunch ~5)
+
+Target Product: Tape Rolls 3-pack - XL Pack (SKU200252)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Tape Rolls 3-pack - Decaf, Tape Rolls 3-pack
+
+Target Product: Romaine Hearts 3-pack - Value Size (SKU200253)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Baby Carrots 1lb - Family Size, Cherry Tomatoes 10oz - XL Pack, Spinach 5oz bag
+
+Target Product: Baby Wipes 72-count - XL Pack (SKU200254)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Baby Wipes 72-count, Baby Wipes 72-count - Travel Size
+
+Target Product: Sunscreen SPF50 3oz - Travel Size (SKU200255)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Hand Lotion 7oz - Organic, Sunscreen SPF50 3oz - Family Size, Sunscreen SPF50 3oz
+
+Target Product: Lightning Cable 6ft - Travel Size (SKU200256)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Lightning Cable 6ft - Family Size, Phone Case Universal Slim - Decaf, USB-C Charging Cable 6ft
+
+Target Product: Whole Wheat Bread 20oz - Low-Sodium (SKU200257)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Whole Wheat Bread 20oz, White Sandwich Bread 20oz
+
+Target Product: Garlic Bulb (each) - Sugar-Free (SKU200258)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Russet Potatoes 5lb, Iceberg Lettuce (head) - Low-Sodium, Iceberg Lettuce (head) - Low-Sodium
+
+Target Product: Insect Repellent Spray 4oz - Travel Size (SKU200259)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Insect Repellent Spray 4oz
+
+Target Product: Sour Cream 16oz - Value Size (SKU200260)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Sour Cream 16oz - Travel Size, Heavy Whipping Cream 1pt, Sour Cream 16oz
+
+Target Product: Baby Shampoo 13oz - Decaf (SKU200261)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Baby Lotion 8oz - Decaf, Baby Shampoo 13oz, Baby Lotion 8oz
+
+Target Product: Italian Dressing 16oz - Value Size (SKU200262)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Italian Dressing 16oz, Ranch Dressing 16oz
+
+Target Product: Russet Potatoes 5lb - Value Size (SKU200263)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Garlic Bulb (each) - Sugar-Free, Baby Carrots 1lb, Iceberg Lettuce (head) - Value Size
+
+Target Product: Avocado (each) - Sugar-Free (SKU200264)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Mango (each) - Decaf, Pineapple (whole) - Sugar-Free, Red Seedless Grapes 2lb - Value Size
+
+Target Product: AAA Batteries 20-pack - Travel Size (SKU200265)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: AA Batteries 20-pack, AAA Batteries 20-pack
+
+Target Product: Green Tea Bags 40-count - Low-Sodium (SKU200266)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Green Tea Bags 40-count - Family Size, Green Tea Bags 40-count - Value Size, Black Tea Bags 100-count
+
+Target Product: Chicken Broth 32oz - Organic (SKU200267)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Chicken Broth 32oz, Vegetable Broth 32oz, Vegetable Broth 32oz - Travel Size
+
+Target Product: Croissants 4-pack - Travel Size (SKU200268)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Croissants 4-pack
+
+Target Product: Kids Socks 6-pack Sz 4-7 - Decaf (SKU200269)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Kids Socks 6-pack Sz 4-7, Kids Socks 6-pack Sz 4-7 - Family Size
+
+Target Product: Baby Formula Powder 20oz - Organic (SKU200270)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Baby Formula Powder 20oz - Value Size, Baby Formula Powder 20oz
+
+Target Product: Pet Waste Bags 100-count - Organic (SKU200271)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Dog Collar Adjustable M - XL Pack, Dog Collar Adjustable M, Pet Waste Bags 100-count
+
+Target Product: Corn Tortillas 30-pack - Organic (SKU200272)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Corn Tortillas 30-pack - Sugar-Free, Corn Tortillas 30-pack - XL Pack, Corn Tortillas 30-pack
+
+Target Product: Raisin Bran 20oz - Family Size (SKU200273)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Frosted Flakes 19.2oz, Corn Flakes 18oz - Decaf, Corn Flakes 18oz
+
+Target Product: Frozen Stir Fry Vegetables 16oz - Sugar-Free (SKU200274)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Edamame Shelled 16oz, Frozen Peas 16oz - Low-Sodium, Frozen Stir Fry Vegetables 16oz - Family Size
+
+Target Product: Sour Cream 16oz - Family Size (SKU200275)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Heavy Whipping Cream 1pt, Sour Cream 16oz - Travel Size, Sour Cream 16oz - Value Size
+
+Target Product: Paper Towels Double Roll 6-pack - Value Size (SKU200276)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Paper Towels Double Roll 6-pack - Organic, Paper Towels Double Roll 6-pack, Paper Towels Double Roll 6-pack - Decaf
+
+Target Product: Iceberg Lettuce (head) - Low-Sodium (SKU200277)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Romaine Hearts 3-pack, Cherry Tomatoes 10oz - Decaf, Iceberg Lettuce (head) - Low-Sodium
+
+Target Product: Blueberries 6oz - Value Size (SKU200278)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Watermelon (whole), Red Seedless Grapes 2lb - XL Pack, Mango (each)
+
+Target Product: Quart Zip Bags 40-count - Low-Sodium (SKU200279)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Quart Zip Bags 40-count, Gallon Zip Bags 30-count
+
+Target Product: Spinach 5oz bag - Family Size (SKU200280)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Yellow Onions 3lb, Garlic Bulb (each) - Decaf, Iceberg Lettuce (head) - Value Size
+
+Target Product: Liquid Laundry Detergent 92oz - Sugar-Free (SKU200281)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Laundry Pods 42-count, Liquid Laundry Detergent 92oz, Liquid Laundry Detergent 92oz - Value Size
+
+Target Product: Oven Mitts Pair - Value Size (SKU200282)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Oven Mitts Pair, Oven Mitts Pair - Travel Size, Dish Rack Stainless
+
+Target Product: Iceberg Lettuce (head) - Value Size (SKU200283)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Russet Potatoes 5lb - Value Size, Iceberg Lettuce (head) - Low-Sodium, Cherry Tomatoes 10oz - XL Pack
+
+Target Product: Mechanical Pencils 5-pack - Travel Size (SKU200284)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Mechanical Pencils 5-pack, Mechanical Pencils 5-pack - Value Size
+
+Target Product: Crayons 64-count - Travel Size (SKU200285)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Watercolor Paint Set, Crayons 64-count - Low-Sodium, Crayons 64-count - Low-Sodium
+
+Target Product: Non-stick Frying Pan 10in - Low-Sodium (SKU200286)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Non-stick Frying Pan 10in - XL Pack, Stainless Sauce Pan 2qt, Non-stick Frying Pan 10in
+
+Target Product: Bagels 6-pack - Travel Size (SKU200287)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Bagels 6-pack
+
+Target Product: Tape Rolls 3-pack - Decaf (SKU200288)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Tape Rolls 3-pack, Tape Rolls 3-pack - XL Pack
+
+Target Product: Fabric Softener 51oz - Family Size (SKU200289)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Dryer Sheets 105-count, Fabric Softener 51oz
+
+Target Product: Ice Cream Vanilla 1.5qt - Decaf (SKU200290)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Ice Cream Chocolate 1.5qt, Ice Cream Vanilla 1.5qt, Ice Cream Chocolate 1.5qt - Low-Sodium
+
+Target Product: Bandage Assorted 80-count - Low-Sodium (SKU200291)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Thermometer Digital - Value Size, Thermometer Digital - Family Size, Bandage Assorted 80-count - Value Size
+
+Target Product: Dog Treats Biscuits 16oz - Travel Size (SKU200292)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Dog Treats Biscuits 16oz
+
+Target Product: Non-stick Frying Pan 10in - XL Pack (SKU200293)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Stainless Sauce Pan 2qt, Non-stick Frying Pan 10in, Non-stick Frying Pan 10in - Low-Sodium
+
+Target Product: Lightning Cable 6ft - Family Size (SKU200294)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Phone Case Universal Slim - Decaf, USB-C Charging Cable 6ft, Lightning Cable 6ft
+
+Target Product: Green Tea Bags 40-count - Value Size (SKU200295)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Green Tea Bags 40-count - Low-Sodium, Green Tea Bags 40-count, Green Tea Bags 40-count - Family Size
+
+Target Product: Vegetable Oil 48oz - Organic (SKU200296)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Vegetable Oil 48oz - XL Pack, Olive Oil Extra Virgin 16.9oz, Vegetable Oil 48oz
+
+Target Product: Corn Tortillas 30-pack - Sugar-Free (SKU200297)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Corn Tortillas 30-pack - XL Pack, Flour Tortillas 10-pack, Corn Tortillas 30-pack - Organic
+
+Target Product: Gift Bags Assorted 4-pack - Organic (SKU200298)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Wrapping Paper Roll 30sqft - Family Size, Gift Bags Assorted 4-pack, Gift Bags Assorted 4-pack - Travel Size
+
+Target Product: Baby Carrots 1lb - Family Size (SKU200299)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Iceberg Lettuce (head) - Organic, Broccoli Crown, Russet Potatoes 5lb
+
+Target Product: Canned Tuna in Water 5oz - Organic (SKU200300)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Canned Salmon 14.75oz, Canned Tuna in Water 5oz - Sugar-Free, Canned Tuna in Water 5oz
+
+Target Product: Frozen Stir Fry Vegetables 16oz - Organic (SKU200301)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Edamame Shelled 16oz, Frozen Stir Fry Vegetables 16oz - Sugar-Free, Frozen Mixed Vegetables 16oz
+
+Target Product: Air Freshener Spray 8.3oz - Travel Size (SKU200302)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Scented Candle 8oz - XL Pack, Scented Candle 8oz, Air Freshener Spray 8.3oz
+
+Target Product: Ice Cream Chocolate 1.5qt - Low-Sodium (SKU200303)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Ice Cream Vanilla 1.5qt - Decaf, Ice Cream Vanilla 1.5qt, Ice Cream Chocolate 1.5qt
+
+Target Product: Vegetable Broth 32oz - Travel Size (SKU200304)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Vegetable Broth 32oz, Chicken Broth 32oz - Organic, Chicken Broth 32oz
+
+Target Product: Edamame Shelled 16oz - Sugar-Free (SKU200305)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Edamame Shelled 16oz, Frozen Stir Fry Vegetables 16oz - Sugar-Free, Frozen Peas 16oz - Travel Size
+
+Target Product: Ballpoint Pens Blue 10-pack - Sugar-Free (SKU200306)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Ballpoint Pens Blue 10-pack
+
+Target Product: Red Seedless Grapes 2lb - Value Size (SKU200307)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Strawberries 1lb, Bananas (bunch ~5), Blueberries 6oz
+
+Target Product: Index Cards 3x5 200-count - Low-Sodium (SKU200308)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Index Cards 3x5 200-count, Index Cards 3x5 200-count - XL Pack, Sticky Notes 3x3in 12-pack
+
+Target Product: Baby Food Stage 2 4oz (6-pack) - Sugar-Free (SKU200309)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Baby Food Stage 2 4oz (6-pack)
+
+Target Product: Cherry Tomatoes 10oz - XL Pack (SKU200310)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Romaine Hearts 3-pack - Value Size, Celery Stalks, Baby Carrots 1lb - Sugar-Free
+
+Target Product: Apple Juice 64oz - Family Size (SKU200311)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Apple Juice 64oz - Sugar-Free, Cranberry Juice Cocktail 64oz, Orange Juice 52oz
+
+Target Product: Hand Lotion 7oz - Travel Size (SKU200312)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Hand Lotion 7oz, Hand Lotion 7oz - Organic, Sunscreen SPF50 3oz - Family Size
+
+Target Product: 85/15 Ground Beef 1lb - Decaf (SKU200313)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Beef Sirloin Steak 1lb - Value Size, Beef Sirloin Steak 1lb - Decaf, 85/15 Ground Beef 1lb
+
+Target Product: Canned Black Beans 15oz - Low-Sodium (SKU200314)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Canned Black Beans 15oz - Organic, Canned Black Beans 15oz, Canned Chickpeas 15oz
+
+Target Product: Boneless Chicken Breast 2lb - Travel Size (SKU200315)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Ground Turkey 93/7 1lb - Family Size, Boneless Chicken Breast 2lb - Travel Size, Ground Turkey 93/7 1lb
+
+Target Product: Rubber Gloves M (pair) - Value Size (SKU200316)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Sponges 6-pack, Rubber Gloves M (pair)
+
+Target Product: Diced Tomatoes 14.5oz - Low-Sodium (SKU200317)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Tomato Sauce 15oz, Diced Tomatoes 14.5oz, Diced Tomatoes 14.5oz - Organic
+
+Target Product: Sunscreen SPF50 3oz - Travel Size (SKU200318)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Sunscreen SPF50 3oz - Sugar-Free, Facial Moisturizer SPF30 1.7oz, Sunscreen SPF50 3oz
+
+Target Product: Sliced American Cheese 16oz - XL Pack (SKU200319)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Sliced American Cheese 16oz, Shredded Mozzarella 2lb - XL Pack, Shredded Mozzarella 2lb - Decaf
+
+Target Product: UNO Card Game - Family Size (SKU200320)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Playing Cards Standard Deck - Decaf, UNO Card Game, Playing Cards Standard Deck
+
+Target Product: Lightning Cable 6ft - Decaf (SKU200321)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Lightning Cable 6ft, Lightning Cable 6ft - Travel Size, Phone Case Universal Slim - Decaf
+
+Target Product: Beef Sirloin Steak 1lb - Organic (SKU200322)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: 85/15 Ground Beef 1lb - Sugar-Free, 85/15 Ground Beef 1lb - Low-Sodium, Beef Sirloin Steak 1lb - Decaf
+
+Target Product: Hand Lotion 7oz - Organic (SKU200323)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Sunscreen SPF50 3oz, Hand Lotion 7oz - Travel Size, Sunscreen SPF50 3oz - Travel Size
+
+Target Product: Oat Milk Original 64oz - Organic (SKU200324)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Almond Milk Unsweetened 64oz - Decaf, Oat Milk Original 64oz, Almond Milk Unsweetened 64oz
+
+Target Product: Paper Towels Double Roll 6-pack - Decaf (SKU200325)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Paper Towels Double Roll 6-pack - Value Size, Paper Towels Double Roll 6-pack - Organic, Paper Towels Double Roll 6-pack
+
+Target Product: Gift Bags Assorted 4-pack - Travel Size (SKU200326)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Wrapping Paper Roll 30sqft, Gift Bags Assorted 4-pack, Wrapping Paper Roll 30sqft - Family Size
+
+Target Product: Shredded Mozzarella 2lb - XL Pack (SKU200327)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Sliced American Cheese 16oz, Shredded Mozzarella 2lb, Sliced American Cheese 16oz - XL Pack
+
+Target Product: Allergy Relief 24-hour 30ct - Low-Sodium (SKU200328)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Allergy Relief 24-hour 30ct
+
+Target Product: 85/15 Ground Beef 1lb - Sugar-Free (SKU200329)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: 85/15 Ground Beef 1lb - Decaf, 85/15 Ground Beef 1lb, Beef Sirloin Steak 1lb - Organic
+
+Target Product: HDMI Cable 6ft - Value Size (SKU200330)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: HDMI Cable 6ft
+
+Target Product: Pasta Penne 16oz - Value Size (SKU200331)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Pasta Spaghetti 16oz - XL Pack, Pasta Penne 16oz, Pasta Penne 16oz - Low-Sodium
+
+Target Product: Potato Chips Original 8oz - Value Size (SKU200332)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Tortilla Chips 13oz, Potato Chips Original 8oz - Decaf, Potato Chips Original 8oz
+
+Target Product: Trash Bags 33gal 20-count - Sugar-Free (SKU200333)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Trash Bags 33gal 20-count, Trash Bags 13gal 40-count, Trash Bags 13gal 40-count - Low-Sodium
+
+Target Product: Garlic Bulb (each) - Decaf (SKU200334)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Romaine Hearts 3-pack - Value Size, Sweet Corn (each), Russet Potatoes 5lb - Value Size
+
+Target Product: Acetaminophen 500mg 100-count - Family Size (SKU200335)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Ibuprofen 200mg 100-count - XL Pack, Ibuprofen 200mg 100-count, Acetaminophen 500mg 100-count
+
+Target Product: Apple Juice 64oz - Sugar-Free (SKU200336)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Apple Juice 64oz, Orange Juice 52oz, Apple Juice 64oz - Family Size
+
+Target Product: Vitamin C 1000mg 60-count - XL Pack (SKU200337)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Vitamin C 1000mg 60-count, Multivitamins Adults 100-count
+
+Target Product: Facial Tissues 3-box pack - Low-Sodium (SKU200338)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Facial Tissues 3-box pack
+
+Target Product: Strawberry Jam 18oz - Decaf (SKU200339)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Strawberry Jam 18oz - XL Pack, Strawberry Jam 18oz
+
+Target Product: Plastic Wrap 200sqft - Value Size (SKU200340)
+Reason for Substitution: Same category, comparable price
+Approved Substitutes: Plastic Wrap 200sqft - Sugar-Free, Aluminum Foil 75sqft, Aluminum Foil 75sqft - Value Size
+
+Target Product: LEGO Classic 200-piece set - Value Size (SKU200341)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: LEGO Classic 200-piece set
+
+Target Product: Pork Tenderloin 1.5lb - Family Size (SKU200342)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Bacon 16oz, Pork Tenderloin 1.5lb
+
+Target Product: Colander 5qt - Decaf (SKU200343)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Mixing Bowls 3-piece Set, Can Opener Manual, Colander 5qt
+
+Target Product: Diet Cola 12-pack 12oz - XL Pack (SKU200344)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Lemon-Lime Soda 12-pack 12oz, Lemon-Lime Soda 12-pack 12oz - Organic, Diet Cola 12-pack 12oz
+
+Target Product: Dishwasher Pods 30-count - XL Pack (SKU200345)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Dish Soap 24oz, Dishwasher Pods 30-count, Dish Soap 24oz - Value Size
+
+Target Product: Frosted Flakes 19.2oz - Organic (SKU200346)
+Reason for Substitution: Similar size and brand tier
+Approved Substitutes: Oat Circles 12oz - Family Size, Raisin Bran 20oz, Corn Flakes 18oz - Decaf
+
+Target Product: Iceberg Lettuce (head) - Organic (SKU200347)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Iceberg Lettuce (head) - Low-Sodium, Cucumber (each), Broccoli Crown
+
+Target Product: Beef Sirloin Steak 1lb - Value Size (SKU200348)
+Reason for Substitution: Same use case, different brand
+Approved Substitutes: Beef Sirloin Steak 1lb - Decaf, Beef Sirloin Steak 1lb, 85/15 Ground Beef 1lb - Decaf
+
+Target Product: Camping Lantern LED - Travel Size (SKU200349)
+Reason for Substitution: Customer-preferred alternative
+Approved Substitutes: Camping Lantern LED
+
